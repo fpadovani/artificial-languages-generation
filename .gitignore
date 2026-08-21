@@ -23,6 +23,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+.claude/
 lib/
 lib64/
 parts/
@@ -169,3 +170,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Generated corpora (regenerable via src/ scripts — too large for git)
+work/grammar/target_samples/
+work/grammar/target_samples_previous_lexicon/
+work/grammar/target_dutch/
+work/grammar/sample_basic-grammar*.txt
+work/grammar/dutch_corpus*
+work/grammar/dutch_*sample*.txt

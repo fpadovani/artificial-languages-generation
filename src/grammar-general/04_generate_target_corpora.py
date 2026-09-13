@@ -3,10 +3,12 @@ Generate pretraining corpora for the natural languages listed in
 work/wals_switches.csv, matched typologically via their resolved lang_id.
 
 For each language, position 2 of lang_id (complementizer order, unmapped to
-any WALS feature -- see src/get_wals_switches.py) is filled with both
-possible values, producing two concrete 7-bit switch strings per language:
+any WALS feature -- see src/grammar-general/01_get_wals_switches.py) is filled with both
+possible values, producing two concrete 8-bit switch strings per language:
   - position 2 = "0": complementizer-after-clause  (canonical S_Comp -> S Comp)
   - position 2 = "1": complementizer-before-clause (flipped -> Comp S)
+Position 7 (VPComp, clausal-complement-order) is already resolved per
+language in wals_switches.csv (tied to OV_switch via Grambank GB135).
 
 Each of the resulting IDs is used to permute the full 100,000-sentence base
 sample (work/grammar/sample_basic-grammar.txt) via the exact flipping logic
@@ -14,8 +16,14 @@ in src/artificial-langs/permute_sentences.py. No train/dev/test split is
 applied -- each output file is the complete permuted corpus, intended for
 language model pretraining.
 
+NOTE: the base sample must be (re)generated from the current
+basic-grammar.gr before running this -- its bracket tags are baked in at
+sampling time, so a stale base sample from before a grammar retag (e.g. the
+VP_Comp_* tag-2->8 split, see src/grammar-general/03_apply_zipfian_weights.py) would silently
+ignore the new switch.
+
 Usage:
-    python src/generate_target_corpora.py
+    python src/grammar-general/04_generate_target_corpora.py
 """
 import argparse
 import json
@@ -24,7 +32,7 @@ import sys
 
 import pandas as pd
 
-sys.path.insert(0, str(pathlib.Path(__file__).parent / "artificial-langs"))
+sys.path.insert(0, str(pathlib.Path(__file__).parent.parent / "artificial-langs"))
 from permute_sentences import (  # noqa: E402
     flip_as_needed,
     remove_bracketing,
@@ -32,7 +40,7 @@ from permute_sentences import (  # noqa: E402
     convert_sentence_to_tree,
 )
 
-N_SWITCHES = 7
+N_SWITCHES = 8
 COMPL_LABEL = {"0": "complAfter", "1": "complBefore"}
 
 

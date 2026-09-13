@@ -35,7 +35,7 @@ Changes made to basic-grammar-nld.gr:
      native-speaker check, same as other lexicon choices in this pipeline.
 
 Usage:
-    python src/restructure_dutch_pronouns.py
+    python src/grammar-dutch/old_dutch_lexicon/restructure_dutch_pronouns.py
 """
 import argparse
 import pathlib

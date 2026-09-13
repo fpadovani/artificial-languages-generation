@@ -1,30 +1,40 @@
 """
-Sample sentences from the Dutch-lexicalized grammar
-(work/grammar/basic-grammar-nld.gr), apply Dutch's WALS-derived word-order
-switches (from work/wals_switches.csv), and write the resulting surface text
--- alongside the lexicon audit CSVs (work/grammar/dutch_lexicon.csv,
-work/grammar/dutch_verb_lexicon.csv) so a reviewer can check generated
-sentences against exactly the word lists that produced them.
+Step 4 of the grammar-dutch pipeline (after 01_apply_zipfian_weights_nld.py,
+optionally 02_add_heavy_object_nld.py / 03_fix_zijn_weight.py): sample
+sentences from a Dutch grammar variant (pass one via --grammar, e.g.
+work/grammar/basic-grammar-nld-simple-zipf.gr), apply Dutch's WALS-derived
+word-order switches (from work/wals_switches.csv), and write the resulting
+surface text.
 
-This mirrors src/generate_target_corpora.py's approach (same
-flip_as_needed permutation logic from src/artificial-langs/permute_sentences.py)
-but samples fresh from the Dutch-lexicalized grammar rather than permuting
-the old abstract-lexicon base sample, and defaults to a single concrete
-lang_id rather than generating both complementizer variants.
+--grammar has no default -- several current variants exist
+(uniform/zipf/heavy/fix-zijn) and there's no single obviously-correct
+choice; the old default (basic-grammar-nld.gr, the real-Dutch-word grammar)
+is archived in old_dutch_lexicon/ and no longer the active pipeline's input.
+
+This mirrors src/grammar-general/04_generate_target_corpora.py's approach
+(same flip_as_needed permutation logic from
+src/artificial-langs/permute_sentences.py) but samples fresh from the given
+Dutch grammar rather than permuting the abstract-lexicon base sample, and
+defaults to a single concrete lang_id rather than generating both
+complementizer variants.
 
 With --out_jsonl set, also writes the full {"surface", "linearized_tree",
-"tree"} record per sentence (same schema as generate_target_corpora.py's
+"tree"} record per sentence (same schema as 04_generate_target_corpora.py's
 target_samples/*.jsonl), for use as structured pretraining data; --out
 alone (the default) only writes plain surface text, e.g. for the small
 review samples used during grammar development.
 
 Usage:
     # small review sample (plain text only)
-    python src/sample_dutch_grammar.py --compl before --n 200 \\
+    python src/grammar-dutch/04_sample_dutch_grammar.py \\
+        --grammar work/grammar/basic-grammar-nld-simple-zipf.gr \\
+        --compl before --n 200 \\
         --out work/grammar/dutch_sample_review.txt
 
     # full pretraining corpus (text + structured jsonl)
-    python src/sample_dutch_grammar.py --compl before --n 100000 \\
+    python src/grammar-dutch/04_sample_dutch_grammar.py \\
+        --grammar work/grammar/basic-grammar-nld-simple-zipf.gr \\
+        --compl before --n 100000 \\
         --out work/grammar/dutch_corpus_complBefore.txt \\
         --out_jsonl work/grammar/dutch_corpus_complBefore.jsonl
 """
@@ -35,7 +45,7 @@ import sys
 
 import pandas as pd
 
-sys.path.insert(0, str(pathlib.Path(__file__).parent / "artificial-langs"))
+sys.path.insert(0, str(pathlib.Path(__file__).parent.parent / "artificial-langs"))
 from sample_sentences import PCFG  # noqa: E402
 from permute_sentences import (  # noqa: E402
     flip_as_needed,
@@ -44,7 +54,7 @@ from permute_sentences import (  # noqa: E402
     convert_sentence_to_tree,
 )
 
-N_SWITCHES = 7
+N_SWITCHES = 8
 COMPL_VALUE = {"before": "1", "after": "0"}
 
 
@@ -60,7 +70,10 @@ def lang_id_to_index(lang_id: str) -> int:
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--grammar", default="work/grammar/basic-grammar-nld.gr")
+    parser.add_argument("--grammar", required=True,
+                         help="e.g. work/grammar/basic-grammar-nld-simple-zipf.gr -- no default: several "
+                              "current variants exist (uniform/zipf/heavy/fix-zijn), and the old default "
+                              "(basic-grammar-nld.gr) is now archived, see old_dutch_lexicon/")
     parser.add_argument("--switches_csv", default="work/wals_switches.csv")
     parser.add_argument("--language", default="Dutch")
     parser.add_argument("--compl", choices=["before", "after"], default="before")

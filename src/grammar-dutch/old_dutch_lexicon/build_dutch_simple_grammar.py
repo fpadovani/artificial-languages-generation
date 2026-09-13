@@ -1,9 +1,15 @@
 """
-Create work/grammar/basic-grammar-nld-simple.gr, a copy of
+ARCHIVED (see old_dutch_lexicon/README.md) -- this was the one-time bridge
+script that produced today's active starting grammar
+(basic-grammar-nld-simple-uniform.gr) from the real-Dutch-word grammar,
+work/grammar/basic-grammar-nld.gr. Already run; kept for provenance, not
+part of the active pipeline.
+
+Create basic-grammar-nld-simple.gr, a copy of
 work/grammar/basic-grammar-nld.gr with every terminal lexicon entry
 replaced by a systematic, transparent category+index label (e.g. Noun_S's
 162 Dutch words -> noun_s1..noun_s162), the same treatment
-src/build_simple_grammar.py applied to the abstract base grammar.
+src/grammar-general/02_build_simple_grammar.py applied to the abstract base grammar.
 
 Renaming scheme: lowercase(category name) + 1-based index (original file
 order), for every category with more than one entry; bare lowercase name
@@ -19,7 +25,7 @@ VP_Past_S`, which look the same (single-token RHS, no space) but reference
 another nonterminal rather than a literal word.
 
 Usage:
-    python src/build_dutch_simple_grammar.py
+    python src/grammar-dutch/old_dutch_lexicon/build_dutch_simple_grammar.py
 """
 import argparse
 import pathlib
@@ -62,7 +68,7 @@ def find_terminal_lines(lines, lhs):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--base_grammar", default="work/grammar/basic-grammar-nld.gr")
-    parser.add_argument("--out_grammar", default="work/grammar/basic-grammar-nld-simple.gr")
+    parser.add_argument("--out_grammar", default="work/grammar/basic-grammar-nld-simple-uniform.gr")
     args = parser.parse_args()
 
     base_path = pathlib.Path(args.base_grammar)
@@ -79,8 +85,9 @@ def main():
         else:
             base_label = cat.lower()
         for rank, i in enumerate(idx, start=1):
+            weight = lines[i].rstrip("\n").split("\t")[0]
             label = base_label if n == 1 else f"{base_label}{rank}"
-            lines[i] = f"1\t{cat}\t{label}\n"
+            lines[i] = f"{weight}\t{cat}\t{label}\n"
         sample = base_label if n == 1 else f"{base_label}1..{base_label}{n}"
         print(f"{cat:20s} {n:6d}  {sample}")
 

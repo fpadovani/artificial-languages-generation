@@ -1,0 +1,2400 @@
+noun_s62 sub iverb_pres_s89 .
+noun_s62 sub iverb_pres_p89 .
+noun_p62 sub iverb_pres_p89 .
+noun_p62 sub iverb_pres_s89 .
+noun_s39 sub iverb_pres_s62 .
+noun_s39 sub iverb_pres_p62 .
+noun_p39 sub iverb_pres_p62 .
+noun_p39 sub iverb_pres_s62 .
+noun_s54 sub iverb_pres_s22 .
+noun_s54 sub iverb_pres_p22 .
+noun_p54 sub iverb_pres_p22 .
+noun_p54 sub iverb_pres_s22 .
+noun_s107 sub iverb_pres_s76 .
+noun_s107 sub iverb_pres_p76 .
+noun_p107 sub iverb_pres_p76 .
+noun_p107 sub iverb_pres_s76 .
+noun_s60 sub iverb_pres_s76 .
+noun_s60 sub iverb_pres_p76 .
+noun_p60 sub iverb_pres_p76 .
+noun_p60 sub iverb_pres_s76 .
+noun_s97 sub iverb_pres_s11 .
+noun_s97 sub iverb_pres_p11 .
+noun_p97 sub iverb_pres_p11 .
+noun_p97 sub iverb_pres_s11 .
+noun_s144 sub iverb_pres_s65 .
+noun_s144 sub iverb_pres_p65 .
+noun_p144 sub iverb_pres_p65 .
+noun_p144 sub iverb_pres_s65 .
+noun_s55 sub iverb_pres_s48 .
+noun_s55 sub iverb_pres_p48 .
+noun_p55 sub iverb_pres_p48 .
+noun_p55 sub iverb_pres_s48 .
+noun_s76 sub iverb_pres_s59 .
+noun_s76 sub iverb_pres_p59 .
+noun_p76 sub iverb_pres_p59 .
+noun_p76 sub iverb_pres_s59 .
+noun_s27 sub iverb_pres_s93 .
+noun_s27 sub iverb_pres_p93 .
+noun_p27 sub iverb_pres_p93 .
+noun_p27 sub iverb_pres_s93 .
+noun_s145 sub iverb_pres_s35 .
+noun_s145 sub iverb_pres_p35 .
+noun_p145 sub iverb_pres_p35 .
+noun_p145 sub iverb_pres_s35 .
+noun_s27 sub iverb_pres_s87 .
+noun_s27 sub iverb_pres_p87 .
+noun_p27 sub iverb_pres_p87 .
+noun_p27 sub iverb_pres_s87 .
+noun_s157 sub iverb_pres_s40 .
+noun_s157 sub iverb_pres_p40 .
+noun_p157 sub iverb_pres_p40 .
+noun_p157 sub iverb_pres_s40 .
+noun_s61 sub iverb_pres_s12 .
+noun_s61 sub iverb_pres_p12 .
+noun_p61 sub iverb_pres_p12 .
+noun_p61 sub iverb_pres_s12 .
+noun_s53 sub iverb_pres_s30 .
+noun_s53 sub iverb_pres_p30 .
+noun_p53 sub iverb_pres_p30 .
+noun_p53 sub iverb_pres_s30 .
+noun_s61 sub iverb_pres_s113 .
+noun_s61 sub iverb_pres_p113 .
+noun_p61 sub iverb_pres_p113 .
+noun_p61 sub iverb_pres_s113 .
+noun_s63 sub iverb_pres_s54 .
+noun_s63 sub iverb_pres_p54 .
+noun_p63 sub iverb_pres_p54 .
+noun_p63 sub iverb_pres_s54 .
+noun_s127 sub iverb_pres_s1 .
+noun_s127 sub iverb_pres_p1 .
+noun_p127 sub iverb_pres_p1 .
+noun_p127 sub iverb_pres_s1 .
+noun_s151 sub iverb_pres_s59 .
+noun_s151 sub iverb_pres_p59 .
+noun_p151 sub iverb_pres_p59 .
+noun_p151 sub iverb_pres_s59 .
+noun_s95 sub iverb_pres_s97 .
+noun_s95 sub iverb_pres_p97 .
+noun_p95 sub iverb_pres_p97 .
+noun_p95 sub iverb_pres_s97 .
+noun_s91 sub iverb_pres_s17 .
+noun_s91 sub iverb_pres_p17 .
+noun_p91 sub iverb_pres_p17 .
+noun_p91 sub iverb_pres_s17 .
+noun_s136 sub iverb_pres_s72 .
+noun_s136 sub iverb_pres_p72 .
+noun_p136 sub iverb_pres_p72 .
+noun_p136 sub iverb_pres_s72 .
+noun_s5 sub iverb_pres_s71 .
+noun_s5 sub iverb_pres_p71 .
+noun_p5 sub iverb_pres_p71 .
+noun_p5 sub iverb_pres_s71 .
+noun_s133 sub iverb_pres_s38 .
+noun_s133 sub iverb_pres_p38 .
+noun_p133 sub iverb_pres_p38 .
+noun_p133 sub iverb_pres_s38 .
+noun_s110 sub iverb_pres_s110 .
+noun_s110 sub iverb_pres_p110 .
+noun_p110 sub iverb_pres_p110 .
+noun_p110 sub iverb_pres_s110 .
+noun_s18 sub iverb_pres_s101 .
+noun_s18 sub iverb_pres_p101 .
+noun_p18 sub iverb_pres_p101 .
+noun_p18 sub iverb_pres_s101 .
+noun_s93 sub iverb_pres_s76 .
+noun_s93 sub iverb_pres_p76 .
+noun_p93 sub iverb_pres_p76 .
+noun_p93 sub iverb_pres_s76 .
+noun_s88 sub iverb_pres_s81 .
+noun_s88 sub iverb_pres_p81 .
+noun_p88 sub iverb_pres_p81 .
+noun_p88 sub iverb_pres_s81 .
+noun_s33 sub iverb_pres_s34 .
+noun_s33 sub iverb_pres_p34 .
+noun_p33 sub iverb_pres_p34 .
+noun_p33 sub iverb_pres_s34 .
+noun_s96 sub iverb_pres_s86 .
+noun_s96 sub iverb_pres_p86 .
+noun_p96 sub iverb_pres_p86 .
+noun_p96 sub iverb_pres_s86 .
+noun_s16 sub iverb_pres_s101 .
+noun_s16 sub iverb_pres_p101 .
+noun_p16 sub iverb_pres_p101 .
+noun_p16 sub iverb_pres_s101 .
+noun_s32 sub iverb_pres_s46 .
+noun_s32 sub iverb_pres_p46 .
+noun_p32 sub iverb_pres_p46 .
+noun_p32 sub iverb_pres_s46 .
+noun_s82 sub iverb_pres_s58 .
+noun_s82 sub iverb_pres_p58 .
+noun_p82 sub iverb_pres_p58 .
+noun_p82 sub iverb_pres_s58 .
+noun_s75 sub iverb_pres_s11 .
+noun_s75 sub iverb_pres_p11 .
+noun_p75 sub iverb_pres_p11 .
+noun_p75 sub iverb_pres_s11 .
+noun_s77 sub iverb_pres_s78 .
+noun_s77 sub iverb_pres_p78 .
+noun_p77 sub iverb_pres_p78 .
+noun_p77 sub iverb_pres_s78 .
+noun_s111 sub iverb_pres_s106 .
+noun_s111 sub iverb_pres_p106 .
+noun_p111 sub iverb_pres_p106 .
+noun_p111 sub iverb_pres_s106 .
+noun_s146 sub iverb_pres_s77 .
+noun_s146 sub iverb_pres_p77 .
+noun_p146 sub iverb_pres_p77 .
+noun_p146 sub iverb_pres_s77 .
+noun_s41 sub iverb_pres_s40 .
+noun_s41 sub iverb_pres_p40 .
+noun_p41 sub iverb_pres_p40 .
+noun_p41 sub iverb_pres_s40 .
+noun_s56 sub iverb_pres_s30 .
+noun_s56 sub iverb_pres_p30 .
+noun_p56 sub iverb_pres_p30 .
+noun_p56 sub iverb_pres_s30 .
+noun_s29 sub iverb_pres_s31 .
+noun_s29 sub iverb_pres_p31 .
+noun_p29 sub iverb_pres_p31 .
+noun_p29 sub iverb_pres_s31 .
+noun_s100 sub iverb_pres_s85 .
+noun_s100 sub iverb_pres_p85 .
+noun_p100 sub iverb_pres_p85 .
+noun_p100 sub iverb_pres_s85 .
+noun_s69 sub iverb_pres_s2 .
+noun_s69 sub iverb_pres_p2 .
+noun_p69 sub iverb_pres_p2 .
+noun_p69 sub iverb_pres_s2 .
+noun_s25 sub iverb_pres_s22 .
+noun_s25 sub iverb_pres_p22 .
+noun_p25 sub iverb_pres_p22 .
+noun_p25 sub iverb_pres_s22 .
+noun_s152 sub iverb_pres_s71 .
+noun_s152 sub iverb_pres_p71 .
+noun_p152 sub iverb_pres_p71 .
+noun_p152 sub iverb_pres_s71 .
+noun_s21 sub iverb_pres_s64 .
+noun_s21 sub iverb_pres_p64 .
+noun_p21 sub iverb_pres_p64 .
+noun_p21 sub iverb_pres_s64 .
+noun_s137 sub iverb_pres_s17 .
+noun_s137 sub iverb_pres_p17 .
+noun_p137 sub iverb_pres_p17 .
+noun_p137 sub iverb_pres_s17 .
+noun_s25 sub iverb_pres_s25 .
+noun_s25 sub iverb_pres_p25 .
+noun_p25 sub iverb_pres_p25 .
+noun_p25 sub iverb_pres_s25 .
+noun_s149 sub iverb_pres_s71 .
+noun_s149 sub iverb_pres_p71 .
+noun_p149 sub iverb_pres_p71 .
+noun_p149 sub iverb_pres_s71 .
+noun_s145 sub iverb_pres_s111 .
+noun_s145 sub iverb_pres_p111 .
+noun_p145 sub iverb_pres_p111 .
+noun_p145 sub iverb_pres_s111 .
+noun_s14 sub iverb_pres_s41 .
+noun_s14 sub iverb_pres_p41 .
+noun_p14 sub iverb_pres_p41 .
+noun_p14 sub iverb_pres_s41 .
+noun_s162 sub tverb_pres_s33 noun_p72 ob .
+noun_s162 sub tverb_pres_p33 noun_p72 ob .
+noun_p162 sub tverb_pres_p33 noun_p72 ob .
+noun_p162 sub tverb_pres_s33 noun_p72 ob .
+noun_s128 sub tverb_pres_s108 noun_s107 ob .
+noun_s128 sub tverb_pres_p108 noun_s107 ob .
+noun_p128 sub tverb_pres_p108 noun_s107 ob .
+noun_p128 sub tverb_pres_s108 noun_s107 ob .
+noun_s118 sub tverb_pres_s91 noun_s51 ob .
+noun_s118 sub tverb_pres_p91 noun_s51 ob .
+noun_p118 sub tverb_pres_p91 noun_s51 ob .
+noun_p118 sub tverb_pres_s91 noun_s51 ob .
+noun_s40 sub tverb_pres_s14 noun_s2 ob .
+noun_s40 sub tverb_pres_p14 noun_s2 ob .
+noun_p40 sub tverb_pres_p14 noun_s2 ob .
+noun_p40 sub tverb_pres_s14 noun_s2 ob .
+noun_s48 sub tverb_pres_s3 noun_s11 ob .
+noun_s48 sub tverb_pres_p3 noun_s11 ob .
+noun_p48 sub tverb_pres_p3 noun_s11 ob .
+noun_p48 sub tverb_pres_s3 noun_s11 ob .
+noun_s119 sub tverb_pres_s11 noun_p62 ob .
+noun_s119 sub tverb_pres_p11 noun_p62 ob .
+noun_p119 sub tverb_pres_p11 noun_p62 ob .
+noun_p119 sub tverb_pres_s11 noun_p62 ob .
+noun_s64 sub tverb_pres_s51 noun_p121 ob .
+noun_s64 sub tverb_pres_p51 noun_p121 ob .
+noun_p64 sub tverb_pres_p51 noun_p121 ob .
+noun_p64 sub tverb_pres_s51 noun_p121 ob .
+noun_s45 sub tverb_pres_s113 noun_s1 ob .
+noun_s45 sub tverb_pres_p113 noun_s1 ob .
+noun_p45 sub tverb_pres_p113 noun_s1 ob .
+noun_p45 sub tverb_pres_s113 noun_s1 ob .
+noun_s26 sub tverb_pres_s64 noun_s82 ob .
+noun_s26 sub tverb_pres_p64 noun_s82 ob .
+noun_p26 sub tverb_pres_p64 noun_s82 ob .
+noun_p26 sub tverb_pres_s64 noun_s82 ob .
+noun_s83 sub tverb_pres_s60 noun_s17 ob .
+noun_s83 sub tverb_pres_p60 noun_s17 ob .
+noun_p83 sub tverb_pres_p60 noun_s17 ob .
+noun_p83 sub tverb_pres_s60 noun_s17 ob .
+noun_s127 sub tverb_pres_s57 noun_p2 ob .
+noun_s127 sub tverb_pres_p57 noun_p2 ob .
+noun_p127 sub tverb_pres_p57 noun_p2 ob .
+noun_p127 sub tverb_pres_s57 noun_p2 ob .
+noun_s75 sub tverb_pres_s94 noun_s126 ob .
+noun_s75 sub tverb_pres_p94 noun_s126 ob .
+noun_p75 sub tverb_pres_p94 noun_s126 ob .
+noun_p75 sub tverb_pres_s94 noun_s126 ob .
+noun_s65 sub tverb_pres_s14 noun_s9 ob .
+noun_s65 sub tverb_pres_p14 noun_s9 ob .
+noun_p65 sub tverb_pres_p14 noun_s9 ob .
+noun_p65 sub tverb_pres_s14 noun_s9 ob .
+noun_s64 sub tverb_pres_s25 noun_s110 ob .
+noun_s64 sub tverb_pres_p25 noun_s110 ob .
+noun_p64 sub tverb_pres_p25 noun_s110 ob .
+noun_p64 sub tverb_pres_s25 noun_s110 ob .
+noun_s143 sub tverb_pres_s48 noun_p69 ob .
+noun_s143 sub tverb_pres_p48 noun_p69 ob .
+noun_p143 sub tverb_pres_p48 noun_p69 ob .
+noun_p143 sub tverb_pres_s48 noun_p69 ob .
+noun_s161 sub tverb_pres_s13 noun_s112 ob .
+noun_s161 sub tverb_pres_p13 noun_s112 ob .
+noun_p161 sub tverb_pres_p13 noun_s112 ob .
+noun_p161 sub tverb_pres_s13 noun_s112 ob .
+noun_s35 sub tverb_pres_s16 noun_p109 ob .
+noun_s35 sub tverb_pres_p16 noun_p109 ob .
+noun_p35 sub tverb_pres_p16 noun_p109 ob .
+noun_p35 sub tverb_pres_s16 noun_p109 ob .
+noun_s93 sub tverb_pres_s12 noun_p36 ob .
+noun_s93 sub tverb_pres_p12 noun_p36 ob .
+noun_p93 sub tverb_pres_p12 noun_p36 ob .
+noun_p93 sub tverb_pres_s12 noun_p36 ob .
+noun_s21 sub tverb_pres_s6 noun_s92 ob .
+noun_s21 sub tverb_pres_p6 noun_s92 ob .
+noun_p21 sub tverb_pres_p6 noun_s92 ob .
+noun_p21 sub tverb_pres_s6 noun_s92 ob .
+noun_s8 sub tverb_pres_s88 noun_p37 ob .
+noun_s8 sub tverb_pres_p88 noun_p37 ob .
+noun_p8 sub tverb_pres_p88 noun_p37 ob .
+noun_p8 sub tverb_pres_s88 noun_p37 ob .
+noun_s91 sub tverb_pres_s110 noun_s27 ob .
+noun_s91 sub tverb_pres_p110 noun_s27 ob .
+noun_p91 sub tverb_pres_p110 noun_s27 ob .
+noun_p91 sub tverb_pres_s110 noun_s27 ob .
+noun_s73 sub tverb_pres_s29 noun_s127 ob .
+noun_s73 sub tverb_pres_p29 noun_s127 ob .
+noun_p73 sub tverb_pres_p29 noun_s127 ob .
+noun_p73 sub tverb_pres_s29 noun_s127 ob .
+noun_s55 sub tverb_pres_s41 noun_p39 ob .
+noun_s55 sub tverb_pres_p41 noun_p39 ob .
+noun_p55 sub tverb_pres_p41 noun_p39 ob .
+noun_p55 sub tverb_pres_s41 noun_p39 ob .
+noun_s64 sub tverb_pres_s98 noun_p136 ob .
+noun_s64 sub tverb_pres_p98 noun_p136 ob .
+noun_p64 sub tverb_pres_p98 noun_p136 ob .
+noun_p64 sub tverb_pres_s98 noun_p136 ob .
+noun_s144 sub tverb_pres_s23 noun_s39 ob .
+noun_s144 sub tverb_pres_p23 noun_s39 ob .
+noun_p144 sub tverb_pres_p23 noun_s39 ob .
+noun_p144 sub tverb_pres_s23 noun_s39 ob .
+noun_s153 sub tverb_pres_s110 noun_p155 ob .
+noun_s153 sub tverb_pres_p110 noun_p155 ob .
+noun_p153 sub tverb_pres_p110 noun_p155 ob .
+noun_p153 sub tverb_pres_s110 noun_p155 ob .
+noun_s77 sub tverb_pres_s58 noun_s156 ob .
+noun_s77 sub tverb_pres_p58 noun_s156 ob .
+noun_p77 sub tverb_pres_p58 noun_s156 ob .
+noun_p77 sub tverb_pres_s58 noun_s156 ob .
+noun_s19 sub tverb_pres_s55 noun_s105 ob .
+noun_s19 sub tverb_pres_p55 noun_s105 ob .
+noun_p19 sub tverb_pres_p55 noun_s105 ob .
+noun_p19 sub tverb_pres_s55 noun_s105 ob .
+noun_s47 sub tverb_pres_s66 noun_s96 ob .
+noun_s47 sub tverb_pres_p66 noun_s96 ob .
+noun_p47 sub tverb_pres_p66 noun_s96 ob .
+noun_p47 sub tverb_pres_s66 noun_s96 ob .
+noun_s111 sub tverb_pres_s65 noun_s42 ob .
+noun_s111 sub tverb_pres_p65 noun_s42 ob .
+noun_p111 sub tverb_pres_p65 noun_s42 ob .
+noun_p111 sub tverb_pres_s65 noun_s42 ob .
+noun_s86 sub tverb_pres_s3 noun_p105 ob .
+noun_s86 sub tverb_pres_p3 noun_p105 ob .
+noun_p86 sub tverb_pres_p3 noun_p105 ob .
+noun_p86 sub tverb_pres_s3 noun_p105 ob .
+noun_s137 sub tverb_pres_s47 noun_p116 ob .
+noun_s137 sub tverb_pres_p47 noun_p116 ob .
+noun_p137 sub tverb_pres_p47 noun_p116 ob .
+noun_p137 sub tverb_pres_s47 noun_p116 ob .
+noun_s55 sub tverb_pres_s65 noun_s131 ob .
+noun_s55 sub tverb_pres_p65 noun_s131 ob .
+noun_p55 sub tverb_pres_p65 noun_s131 ob .
+noun_p55 sub tverb_pres_s65 noun_s131 ob .
+noun_s29 sub tverb_pres_s51 noun_p131 ob .
+noun_s29 sub tverb_pres_p51 noun_p131 ob .
+noun_p29 sub tverb_pres_p51 noun_p131 ob .
+noun_p29 sub tverb_pres_s51 noun_p131 ob .
+noun_s93 sub tverb_pres_s101 noun_s6 ob .
+noun_s93 sub tverb_pres_p101 noun_s6 ob .
+noun_p93 sub tverb_pres_p101 noun_s6 ob .
+noun_p93 sub tverb_pres_s101 noun_s6 ob .
+noun_s151 sub tverb_pres_s13 noun_p48 ob .
+noun_s151 sub tverb_pres_p13 noun_p48 ob .
+noun_p151 sub tverb_pres_p13 noun_p48 ob .
+noun_p151 sub tverb_pres_s13 noun_p48 ob .
+noun_s40 sub tverb_pres_s17 noun_s71 ob .
+noun_s40 sub tverb_pres_p17 noun_s71 ob .
+noun_p40 sub tverb_pres_p17 noun_s71 ob .
+noun_p40 sub tverb_pres_s17 noun_s71 ob .
+noun_s53 sub tverb_pres_s86 noun_p141 ob .
+noun_s53 sub tverb_pres_p86 noun_p141 ob .
+noun_p53 sub tverb_pres_p86 noun_p141 ob .
+noun_p53 sub tverb_pres_s86 noun_p141 ob .
+noun_s100 sub tverb_pres_s43 noun_s92 ob .
+noun_s100 sub tverb_pres_p43 noun_s92 ob .
+noun_p100 sub tverb_pres_p43 noun_s92 ob .
+noun_p100 sub tverb_pres_s43 noun_s92 ob .
+noun_s30 sub tverb_pres_s57 noun_p25 ob .
+noun_s30 sub tverb_pres_p57 noun_p25 ob .
+noun_p30 sub tverb_pres_p57 noun_p25 ob .
+noun_p30 sub tverb_pres_s57 noun_p25 ob .
+noun_s71 sub tverb_pres_s66 noun_s40 ob .
+noun_s71 sub tverb_pres_p66 noun_s40 ob .
+noun_p71 sub tverb_pres_p66 noun_s40 ob .
+noun_p71 sub tverb_pres_s66 noun_s40 ob .
+noun_s67 sub tverb_pres_s101 noun_p159 ob .
+noun_s67 sub tverb_pres_p101 noun_p159 ob .
+noun_p67 sub tverb_pres_p101 noun_p159 ob .
+noun_p67 sub tverb_pres_s101 noun_p159 ob .
+noun_s112 sub tverb_pres_s25 noun_p137 ob .
+noun_s112 sub tverb_pres_p25 noun_p137 ob .
+noun_p112 sub tverb_pres_p25 noun_p137 ob .
+noun_p112 sub tverb_pres_s25 noun_p137 ob .
+noun_s73 sub tverb_pres_s66 noun_s89 ob .
+noun_s73 sub tverb_pres_p66 noun_s89 ob .
+noun_p73 sub tverb_pres_p66 noun_s89 ob .
+noun_p73 sub tverb_pres_s66 noun_s89 ob .
+noun_s16 sub tverb_pres_s41 noun_p38 ob .
+noun_s16 sub tverb_pres_p41 noun_p38 ob .
+noun_p16 sub tverb_pres_p41 noun_p38 ob .
+noun_p16 sub tverb_pres_s41 noun_p38 ob .
+noun_s160 sub tverb_pres_s66 noun_p126 ob .
+noun_s160 sub tverb_pres_p66 noun_p126 ob .
+noun_p160 sub tverb_pres_p66 noun_p126 ob .
+noun_p160 sub tverb_pres_s66 noun_p126 ob .
+noun_s10 sub tverb_pres_s32 noun_s80 ob .
+noun_s10 sub tverb_pres_p32 noun_s80 ob .
+noun_p10 sub tverb_pres_p32 noun_s80 ob .
+noun_p10 sub tverb_pres_s32 noun_s80 ob .
+noun_s47 sub tverb_pres_s29 noun_p16 ob .
+noun_s47 sub tverb_pres_p29 noun_p16 ob .
+noun_p47 sub tverb_pres_p29 noun_p16 ob .
+noun_p47 sub tverb_pres_s29 noun_p16 ob .
+noun_s63 sub tverb_pres_s14 noun_p34 ob .
+noun_s63 sub tverb_pres_p14 noun_p34 ob .
+noun_p63 sub tverb_pres_p14 noun_p34 ob .
+noun_p63 sub tverb_pres_s14 noun_p34 ob .
+noun_s124 sub tverb_pres_s8 noun_p55 ob .
+noun_s124 sub tverb_pres_p8 noun_p55 ob .
+noun_p124 sub tverb_pres_p8 noun_p55 ob .
+noun_p124 sub tverb_pres_s8 noun_p55 ob .
+noun_s91 prep1 noun_s86 sub iverb_pres_s48 .
+noun_s91 prep1 noun_s86 sub iverb_pres_p48 .
+noun_p91 prep1 noun_p86 sub iverb_pres_p48 .
+noun_p91 prep1 noun_p86 sub iverb_pres_s48 .
+noun_s83 prep2 noun_s2 sub iverb_pres_s72 .
+noun_s83 prep2 noun_s2 sub iverb_pres_p72 .
+noun_p83 prep2 noun_p2 sub iverb_pres_p72 .
+noun_p83 prep2 noun_p2 sub iverb_pres_s72 .
+noun_s138 prep4 noun_s146 sub iverb_pres_s50 .
+noun_s138 prep4 noun_s146 sub iverb_pres_p50 .
+noun_p138 prep4 noun_p146 sub iverb_pres_p50 .
+noun_p138 prep4 noun_p146 sub iverb_pres_s50 .
+noun_s85 prep3 noun_s86 sub iverb_pres_s34 .
+noun_s85 prep3 noun_s86 sub iverb_pres_p34 .
+noun_p85 prep3 noun_p86 sub iverb_pres_p34 .
+noun_p85 prep3 noun_p86 sub iverb_pres_s34 .
+noun_s150 prep3 noun_s56 sub iverb_pres_s33 .
+noun_s150 prep3 noun_s56 sub iverb_pres_p33 .
+noun_p150 prep3 noun_p56 sub iverb_pres_p33 .
+noun_p150 prep3 noun_p56 sub iverb_pres_s33 .
+noun_s31 prep4 noun_s97 sub iverb_pres_s68 .
+noun_s31 prep4 noun_s97 sub iverb_pres_p68 .
+noun_p31 prep4 noun_p97 sub iverb_pres_p68 .
+noun_p31 prep4 noun_p97 sub iverb_pres_s68 .
+noun_s85 prep4 noun_s17 sub iverb_pres_s89 .
+noun_s85 prep4 noun_s17 sub iverb_pres_p89 .
+noun_p85 prep4 noun_p17 sub iverb_pres_p89 .
+noun_p85 prep4 noun_p17 sub iverb_pres_s89 .
+noun_s110 prep1 noun_s67 sub iverb_pres_s59 .
+noun_s110 prep1 noun_s67 sub iverb_pres_p59 .
+noun_p110 prep1 noun_p67 sub iverb_pres_p59 .
+noun_p110 prep1 noun_p67 sub iverb_pres_s59 .
+noun_s44 prep2 noun_s35 sub iverb_pres_s66 .
+noun_s44 prep2 noun_s35 sub iverb_pres_p66 .
+noun_p44 prep2 noun_p35 sub iverb_pres_p66 .
+noun_p44 prep2 noun_p35 sub iverb_pres_s66 .
+noun_s111 prep3 noun_s132 sub iverb_pres_s39 .
+noun_s111 prep3 noun_s132 sub iverb_pres_p39 .
+noun_p111 prep3 noun_p132 sub iverb_pres_p39 .
+noun_p111 prep3 noun_p132 sub iverb_pres_s39 .
+noun_s132 prep4 noun_s58 sub iverb_pres_s30 .
+noun_s132 prep4 noun_s58 sub iverb_pres_p30 .
+noun_p132 prep4 noun_p58 sub iverb_pres_p30 .
+noun_p132 prep4 noun_p58 sub iverb_pres_s30 .
+noun_s86 prep1 noun_s114 sub iverb_pres_s82 .
+noun_s86 prep1 noun_s114 sub iverb_pres_p82 .
+noun_p86 prep1 noun_p114 sub iverb_pres_p82 .
+noun_p86 prep1 noun_p114 sub iverb_pres_s82 .
+noun_s53 prep4 noun_s161 sub iverb_pres_s22 .
+noun_s53 prep4 noun_s161 sub iverb_pres_p22 .
+noun_p53 prep4 noun_p161 sub iverb_pres_p22 .
+noun_p53 prep4 noun_p161 sub iverb_pres_s22 .
+noun_s135 prep2 noun_s39 sub iverb_pres_s73 .
+noun_s135 prep2 noun_s39 sub iverb_pres_p73 .
+noun_p135 prep2 noun_p39 sub iverb_pres_p73 .
+noun_p135 prep2 noun_p39 sub iverb_pres_s73 .
+noun_s34 prep1 noun_s26 sub iverb_pres_s7 .
+noun_s34 prep1 noun_s26 sub iverb_pres_p7 .
+noun_p34 prep1 noun_p26 sub iverb_pres_p7 .
+noun_p34 prep1 noun_p26 sub iverb_pres_s7 .
+noun_s33 prep3 noun_s150 sub iverb_pres_s85 .
+noun_s33 prep3 noun_s150 sub iverb_pres_p85 .
+noun_p33 prep3 noun_p150 sub iverb_pres_p85 .
+noun_p33 prep3 noun_p150 sub iverb_pres_s85 .
+noun_s1 prep1 noun_s100 sub iverb_pres_s110 .
+noun_s1 prep1 noun_s100 sub iverb_pres_p110 .
+noun_p1 prep1 noun_p100 sub iverb_pres_p110 .
+noun_p1 prep1 noun_p100 sub iverb_pres_s110 .
+noun_s157 prep4 noun_s37 sub iverb_pres_s31 .
+noun_s157 prep4 noun_s37 sub iverb_pres_p31 .
+noun_p157 prep4 noun_p37 sub iverb_pres_p31 .
+noun_p157 prep4 noun_p37 sub iverb_pres_s31 .
+noun_s74 prep1 noun_s114 sub iverb_pres_s33 .
+noun_s74 prep1 noun_s114 sub iverb_pres_p33 .
+noun_p74 prep1 noun_p114 sub iverb_pres_p33 .
+noun_p74 prep1 noun_p114 sub iverb_pres_s33 .
+noun_s75 prep2 noun_s10 sub iverb_pres_s93 .
+noun_s75 prep2 noun_s10 sub iverb_pres_p93 .
+noun_p75 prep2 noun_p10 sub iverb_pres_p93 .
+noun_p75 prep2 noun_p10 sub iverb_pres_s93 .
+noun_s22 prep1 noun_s150 sub iverb_pres_s86 .
+noun_s22 prep1 noun_s150 sub iverb_pres_p86 .
+noun_p22 prep1 noun_p150 sub iverb_pres_p86 .
+noun_p22 prep1 noun_p150 sub iverb_pres_s86 .
+noun_s59 prep4 noun_s26 sub iverb_pres_s48 .
+noun_s59 prep4 noun_s26 sub iverb_pres_p48 .
+noun_p59 prep4 noun_p26 sub iverb_pres_p48 .
+noun_p59 prep4 noun_p26 sub iverb_pres_s48 .
+noun_s154 prep1 noun_s58 sub iverb_pres_s50 .
+noun_s154 prep1 noun_s58 sub iverb_pres_p50 .
+noun_p154 prep1 noun_p58 sub iverb_pres_p50 .
+noun_p154 prep1 noun_p58 sub iverb_pres_s50 .
+noun_s93 prep2 noun_s8 sub iverb_pres_s32 .
+noun_s93 prep2 noun_s8 sub iverb_pres_p32 .
+noun_p93 prep2 noun_p8 sub iverb_pres_p32 .
+noun_p93 prep2 noun_p8 sub iverb_pres_s32 .
+noun_s61 prep3 noun_s147 sub iverb_pres_s110 .
+noun_s61 prep3 noun_s147 sub iverb_pres_p110 .
+noun_p61 prep3 noun_p147 sub iverb_pres_p110 .
+noun_p61 prep3 noun_p147 sub iverb_pres_s110 .
+noun_s161 prep2 noun_s50 sub iverb_pres_s84 .
+noun_s161 prep2 noun_s50 sub iverb_pres_p84 .
+noun_p161 prep2 noun_p50 sub iverb_pres_p84 .
+noun_p161 prep2 noun_p50 sub iverb_pres_s84 .
+noun_s109 prep3 noun_s88 sub iverb_pres_s77 .
+noun_s109 prep3 noun_s88 sub iverb_pres_p77 .
+noun_p109 prep3 noun_p88 sub iverb_pres_p77 .
+noun_p109 prep3 noun_p88 sub iverb_pres_s77 .
+noun_s121 prep4 noun_s96 sub iverb_pres_s82 .
+noun_s121 prep4 noun_s96 sub iverb_pres_p82 .
+noun_p121 prep4 noun_p96 sub iverb_pres_p82 .
+noun_p121 prep4 noun_p96 sub iverb_pres_s82 .
+noun_s4 prep1 noun_s116 sub iverb_pres_s71 .
+noun_s4 prep1 noun_s116 sub iverb_pres_p71 .
+noun_p4 prep1 noun_p116 sub iverb_pres_p71 .
+noun_p4 prep1 noun_p116 sub iverb_pres_s71 .
+noun_s31 prep4 noun_s65 sub iverb_pres_s110 .
+noun_s31 prep4 noun_s65 sub iverb_pres_p110 .
+noun_p31 prep4 noun_p65 sub iverb_pres_p110 .
+noun_p31 prep4 noun_p65 sub iverb_pres_s110 .
+noun_s125 prep2 noun_s115 sub iverb_pres_s16 .
+noun_s125 prep2 noun_s115 sub iverb_pres_p16 .
+noun_p125 prep2 noun_p115 sub iverb_pres_p16 .
+noun_p125 prep2 noun_p115 sub iverb_pres_s16 .
+noun_s146 prep4 noun_s55 sub iverb_pres_s5 .
+noun_s146 prep4 noun_s55 sub iverb_pres_p5 .
+noun_p146 prep4 noun_p55 sub iverb_pres_p5 .
+noun_p146 prep4 noun_p55 sub iverb_pres_s5 .
+noun_s138 prep4 noun_s19 sub iverb_pres_s19 .
+noun_s138 prep4 noun_s19 sub iverb_pres_p19 .
+noun_p138 prep4 noun_p19 sub iverb_pres_p19 .
+noun_p138 prep4 noun_p19 sub iverb_pres_s19 .
+noun_s160 prep3 noun_s101 sub iverb_pres_s94 .
+noun_s160 prep3 noun_s101 sub iverb_pres_p94 .
+noun_p160 prep3 noun_p101 sub iverb_pres_p94 .
+noun_p160 prep3 noun_p101 sub iverb_pres_s94 .
+noun_s76 prep2 noun_s63 sub iverb_pres_s22 .
+noun_s76 prep2 noun_s63 sub iverb_pres_p22 .
+noun_p76 prep2 noun_p63 sub iverb_pres_p22 .
+noun_p76 prep2 noun_p63 sub iverb_pres_s22 .
+noun_s8 prep3 noun_s121 sub iverb_pres_s68 .
+noun_s8 prep3 noun_s121 sub iverb_pres_p68 .
+noun_p8 prep3 noun_p121 sub iverb_pres_p68 .
+noun_p8 prep3 noun_p121 sub iverb_pres_s68 .
+noun_s49 prep4 noun_s155 sub iverb_pres_s41 .
+noun_s49 prep4 noun_s155 sub iverb_pres_p41 .
+noun_p49 prep4 noun_p155 sub iverb_pres_p41 .
+noun_p49 prep4 noun_p155 sub iverb_pres_s41 .
+noun_s151 prep4 noun_s7 sub iverb_pres_s59 .
+noun_s151 prep4 noun_s7 sub iverb_pres_p59 .
+noun_p151 prep4 noun_p7 sub iverb_pres_p59 .
+noun_p151 prep4 noun_p7 sub iverb_pres_s59 .
+noun_s36 prep1 noun_s107 sub iverb_pres_s60 .
+noun_s36 prep1 noun_s107 sub iverb_pres_p60 .
+noun_p36 prep1 noun_p107 sub iverb_pres_p60 .
+noun_p36 prep1 noun_p107 sub iverb_pres_s60 .
+noun_s56 prep4 noun_s34 sub iverb_pres_s29 .
+noun_s56 prep4 noun_s34 sub iverb_pres_p29 .
+noun_p56 prep4 noun_p34 sub iverb_pres_p29 .
+noun_p56 prep4 noun_p34 sub iverb_pres_s29 .
+noun_s154 prep3 noun_s132 sub iverb_pres_s59 .
+noun_s154 prep3 noun_s132 sub iverb_pres_p59 .
+noun_p154 prep3 noun_p132 sub iverb_pres_p59 .
+noun_p154 prep3 noun_p132 sub iverb_pres_s59 .
+noun_s98 prep4 noun_s148 sub iverb_pres_s68 .
+noun_s98 prep4 noun_s148 sub iverb_pres_p68 .
+noun_p98 prep4 noun_p148 sub iverb_pres_p68 .
+noun_p98 prep4 noun_p148 sub iverb_pres_s68 .
+noun_s156 prep2 noun_s128 sub iverb_pres_s107 .
+noun_s156 prep2 noun_s128 sub iverb_pres_p107 .
+noun_p156 prep2 noun_p128 sub iverb_pres_p107 .
+noun_p156 prep2 noun_p128 sub iverb_pres_s107 .
+noun_s107 prep4 noun_s15 sub iverb_pres_s24 .
+noun_s107 prep4 noun_s15 sub iverb_pres_p24 .
+noun_p107 prep4 noun_p15 sub iverb_pres_p24 .
+noun_p107 prep4 noun_p15 sub iverb_pres_s24 .
+noun_s87 prep4 noun_s162 sub iverb_pres_s108 .
+noun_s87 prep4 noun_s162 sub iverb_pres_p108 .
+noun_p87 prep4 noun_p162 sub iverb_pres_p108 .
+noun_p87 prep4 noun_p162 sub iverb_pres_s108 .
+noun_s156 prep2 noun_s19 sub iverb_pres_s94 .
+noun_s156 prep2 noun_s19 sub iverb_pres_p94 .
+noun_p156 prep2 noun_p19 sub iverb_pres_p94 .
+noun_p156 prep2 noun_p19 sub iverb_pres_s94 .
+noun_s91 prep1 noun_s37 sub iverb_pres_s15 .
+noun_s91 prep1 noun_s37 sub iverb_pres_p15 .
+noun_p91 prep1 noun_p37 sub iverb_pres_p15 .
+noun_p91 prep1 noun_p37 sub iverb_pres_s15 .
+noun_s126 prep3 noun_s29 sub iverb_pres_s85 .
+noun_s126 prep3 noun_s29 sub iverb_pres_p85 .
+noun_p126 prep3 noun_p29 sub iverb_pres_p85 .
+noun_p126 prep3 noun_p29 sub iverb_pres_s85 .
+noun_s12 prep4 noun_s114 sub iverb_pres_s15 .
+noun_s12 prep4 noun_s114 sub iverb_pres_p15 .
+noun_p12 prep4 noun_p114 sub iverb_pres_p15 .
+noun_p12 prep4 noun_p114 sub iverb_pres_s15 .
+noun_s76 prep1 noun_s154 sub iverb_pres_s22 .
+noun_s76 prep1 noun_s154 sub iverb_pres_p22 .
+noun_p76 prep1 noun_p154 sub iverb_pres_p22 .
+noun_p76 prep1 noun_p154 sub iverb_pres_s22 .
+noun_s102 prep2 noun_p104 sub iverb_pres_s84 .
+noun_s102 prep2 noun_p104 sub iverb_pres_p84 .
+noun_p102 prep2 noun_s104 sub iverb_pres_p84 .
+noun_p102 prep2 noun_s104 sub iverb_pres_s84 .
+noun_s33 prep4 noun_p48 sub iverb_pres_s99 .
+noun_s33 prep4 noun_p48 sub iverb_pres_p99 .
+noun_p33 prep4 noun_s48 sub iverb_pres_p99 .
+noun_p33 prep4 noun_s48 sub iverb_pres_s99 .
+noun_s9 prep4 noun_p85 sub iverb_pres_s35 .
+noun_s9 prep4 noun_p85 sub iverb_pres_p35 .
+noun_p9 prep4 noun_s85 sub iverb_pres_p35 .
+noun_p9 prep4 noun_s85 sub iverb_pres_s35 .
+noun_s112 prep2 noun_p66 sub iverb_pres_s9 .
+noun_s112 prep2 noun_p66 sub iverb_pres_p9 .
+noun_p112 prep2 noun_s66 sub iverb_pres_p9 .
+noun_p112 prep2 noun_s66 sub iverb_pres_s9 .
+noun_s95 prep2 noun_p63 sub iverb_pres_s66 .
+noun_s95 prep2 noun_p63 sub iverb_pres_p66 .
+noun_p95 prep2 noun_s63 sub iverb_pres_p66 .
+noun_p95 prep2 noun_s63 sub iverb_pres_s66 .
+noun_s108 prep1 noun_p87 sub iverb_pres_s47 .
+noun_s108 prep1 noun_p87 sub iverb_pres_p47 .
+noun_p108 prep1 noun_s87 sub iverb_pres_p47 .
+noun_p108 prep1 noun_s87 sub iverb_pres_s47 .
+noun_s148 prep3 noun_p161 sub iverb_pres_s102 .
+noun_s148 prep3 noun_p161 sub iverb_pres_p102 .
+noun_p148 prep3 noun_s161 sub iverb_pres_p102 .
+noun_p148 prep3 noun_s161 sub iverb_pres_s102 .
+noun_s129 prep4 noun_p51 sub iverb_pres_s12 .
+noun_s129 prep4 noun_p51 sub iverb_pres_p12 .
+noun_p129 prep4 noun_s51 sub iverb_pres_p12 .
+noun_p129 prep4 noun_s51 sub iverb_pres_s12 .
+noun_s70 prep2 noun_p106 sub iverb_pres_s23 .
+noun_s70 prep2 noun_p106 sub iverb_pres_p23 .
+noun_p70 prep2 noun_s106 sub iverb_pres_p23 .
+noun_p70 prep2 noun_s106 sub iverb_pres_s23 .
+noun_s71 prep3 noun_p146 sub iverb_pres_s23 .
+noun_s71 prep3 noun_p146 sub iverb_pres_p23 .
+noun_p71 prep3 noun_s146 sub iverb_pres_p23 .
+noun_p71 prep3 noun_s146 sub iverb_pres_s23 .
+noun_s78 prep1 noun_p34 sub iverb_pres_s93 .
+noun_s78 prep1 noun_p34 sub iverb_pres_p93 .
+noun_p78 prep1 noun_s34 sub iverb_pres_p93 .
+noun_p78 prep1 noun_s34 sub iverb_pres_s93 .
+noun_s28 prep1 noun_p153 sub iverb_pres_s57 .
+noun_s28 prep1 noun_p153 sub iverb_pres_p57 .
+noun_p28 prep1 noun_s153 sub iverb_pres_p57 .
+noun_p28 prep1 noun_s153 sub iverb_pres_s57 .
+noun_s138 prep3 noun_p98 sub iverb_pres_s54 .
+noun_s138 prep3 noun_p98 sub iverb_pres_p54 .
+noun_p138 prep3 noun_s98 sub iverb_pres_p54 .
+noun_p138 prep3 noun_s98 sub iverb_pres_s54 .
+noun_s27 prep3 noun_p3 sub iverb_pres_s90 .
+noun_s27 prep3 noun_p3 sub iverb_pres_p90 .
+noun_p27 prep3 noun_s3 sub iverb_pres_p90 .
+noun_p27 prep3 noun_s3 sub iverb_pres_s90 .
+noun_s132 prep2 noun_p129 sub iverb_pres_s91 .
+noun_s132 prep2 noun_p129 sub iverb_pres_p91 .
+noun_p132 prep2 noun_s129 sub iverb_pres_p91 .
+noun_p132 prep2 noun_s129 sub iverb_pres_s91 .
+noun_s64 prep1 noun_p154 sub iverb_pres_s52 .
+noun_s64 prep1 noun_p154 sub iverb_pres_p52 .
+noun_p64 prep1 noun_s154 sub iverb_pres_p52 .
+noun_p64 prep1 noun_s154 sub iverb_pres_s52 .
+noun_s44 prep1 noun_p103 sub iverb_pres_s36 .
+noun_s44 prep1 noun_p103 sub iverb_pres_p36 .
+noun_p44 prep1 noun_s103 sub iverb_pres_p36 .
+noun_p44 prep1 noun_s103 sub iverb_pres_s36 .
+noun_s39 prep4 noun_p128 sub iverb_pres_s64 .
+noun_s39 prep4 noun_p128 sub iverb_pres_p64 .
+noun_p39 prep4 noun_s128 sub iverb_pres_p64 .
+noun_p39 prep4 noun_s128 sub iverb_pres_s64 .
+noun_s162 prep3 noun_p116 sub iverb_pres_s45 .
+noun_s162 prep3 noun_p116 sub iverb_pres_p45 .
+noun_p162 prep3 noun_s116 sub iverb_pres_p45 .
+noun_p162 prep3 noun_s116 sub iverb_pres_s45 .
+noun_s138 prep4 noun_p76 sub iverb_pres_s30 .
+noun_s138 prep4 noun_p76 sub iverb_pres_p30 .
+noun_p138 prep4 noun_s76 sub iverb_pres_p30 .
+noun_p138 prep4 noun_s76 sub iverb_pres_s30 .
+noun_s54 prep1 noun_p97 sub iverb_pres_s44 .
+noun_s54 prep1 noun_p97 sub iverb_pres_p44 .
+noun_p54 prep1 noun_s97 sub iverb_pres_p44 .
+noun_p54 prep1 noun_s97 sub iverb_pres_s44 .
+noun_s31 prep3 noun_p29 sub iverb_pres_s12 .
+noun_s31 prep3 noun_p29 sub iverb_pres_p12 .
+noun_p31 prep3 noun_s29 sub iverb_pres_p12 .
+noun_p31 prep3 noun_s29 sub iverb_pres_s12 .
+noun_s151 prep1 noun_p34 sub iverb_pres_s8 .
+noun_s151 prep1 noun_p34 sub iverb_pres_p8 .
+noun_p151 prep1 noun_s34 sub iverb_pres_p8 .
+noun_p151 prep1 noun_s34 sub iverb_pres_s8 .
+noun_s123 prep1 noun_p86 sub iverb_pres_s34 .
+noun_s123 prep1 noun_p86 sub iverb_pres_p34 .
+noun_p123 prep1 noun_s86 sub iverb_pres_p34 .
+noun_p123 prep1 noun_s86 sub iverb_pres_s34 .
+noun_s30 prep3 noun_p125 sub iverb_pres_s42 .
+noun_s30 prep3 noun_p125 sub iverb_pres_p42 .
+noun_p30 prep3 noun_s125 sub iverb_pres_p42 .
+noun_p30 prep3 noun_s125 sub iverb_pres_s42 .
+noun_s5 prep4 noun_p110 sub iverb_pres_s10 .
+noun_s5 prep4 noun_p110 sub iverb_pres_p10 .
+noun_p5 prep4 noun_s110 sub iverb_pres_p10 .
+noun_p5 prep4 noun_s110 sub iverb_pres_s10 .
+noun_s140 prep4 noun_p105 sub iverb_pres_s47 .
+noun_s140 prep4 noun_p105 sub iverb_pres_p47 .
+noun_p140 prep4 noun_s105 sub iverb_pres_p47 .
+noun_p140 prep4 noun_s105 sub iverb_pres_s47 .
+noun_s79 prep2 noun_p121 sub iverb_pres_s63 .
+noun_s79 prep2 noun_p121 sub iverb_pres_p63 .
+noun_p79 prep2 noun_s121 sub iverb_pres_p63 .
+noun_p79 prep2 noun_s121 sub iverb_pres_s63 .
+noun_s62 prep2 noun_p1 sub iverb_pres_s83 .
+noun_s62 prep2 noun_p1 sub iverb_pres_p83 .
+noun_p62 prep2 noun_s1 sub iverb_pres_p83 .
+noun_p62 prep2 noun_s1 sub iverb_pres_s83 .
+noun_s34 prep4 noun_p19 sub iverb_pres_s22 .
+noun_s34 prep4 noun_p19 sub iverb_pres_p22 .
+noun_p34 prep4 noun_s19 sub iverb_pres_p22 .
+noun_p34 prep4 noun_s19 sub iverb_pres_s22 .
+noun_s104 prep1 noun_p78 sub iverb_pres_s58 .
+noun_s104 prep1 noun_p78 sub iverb_pres_p58 .
+noun_p104 prep1 noun_s78 sub iverb_pres_p58 .
+noun_p104 prep1 noun_s78 sub iverb_pres_s58 .
+noun_s106 prep3 noun_p24 sub iverb_pres_s92 .
+noun_s106 prep3 noun_p24 sub iverb_pres_p92 .
+noun_p106 prep3 noun_s24 sub iverb_pres_p92 .
+noun_p106 prep3 noun_s24 sub iverb_pres_s92 .
+noun_s51 prep3 noun_p74 sub iverb_pres_s29 .
+noun_s51 prep3 noun_p74 sub iverb_pres_p29 .
+noun_p51 prep3 noun_s74 sub iverb_pres_p29 .
+noun_p51 prep3 noun_s74 sub iverb_pres_s29 .
+noun_s45 prep3 noun_p89 sub iverb_pres_s63 .
+noun_s45 prep3 noun_p89 sub iverb_pres_p63 .
+noun_p45 prep3 noun_s89 sub iverb_pres_p63 .
+noun_p45 prep3 noun_s89 sub iverb_pres_s63 .
+noun_s145 prep1 noun_p105 sub iverb_pres_s72 .
+noun_s145 prep1 noun_p105 sub iverb_pres_p72 .
+noun_p145 prep1 noun_s105 sub iverb_pres_p72 .
+noun_p145 prep1 noun_s105 sub iverb_pres_s72 .
+noun_s33 prep3 noun_p118 sub iverb_pres_s79 .
+noun_s33 prep3 noun_p118 sub iverb_pres_p79 .
+noun_p33 prep3 noun_s118 sub iverb_pres_p79 .
+noun_p33 prep3 noun_s118 sub iverb_pres_s79 .
+noun_s27 prep1 noun_p94 sub iverb_pres_s96 .
+noun_s27 prep1 noun_p94 sub iverb_pres_p96 .
+noun_p27 prep1 noun_s94 sub iverb_pres_p96 .
+noun_p27 prep1 noun_s94 sub iverb_pres_s96 .
+noun_s115 prep2 noun_p109 sub iverb_pres_s2 .
+noun_s115 prep2 noun_p109 sub iverb_pres_p2 .
+noun_p115 prep2 noun_s109 sub iverb_pres_p2 .
+noun_p115 prep2 noun_s109 sub iverb_pres_s2 .
+noun_s43 prep3 noun_p14 sub iverb_pres_s89 .
+noun_s43 prep3 noun_p14 sub iverb_pres_p89 .
+noun_p43 prep3 noun_s14 sub iverb_pres_p89 .
+noun_p43 prep3 noun_s14 sub iverb_pres_s89 .
+noun_s98 prep3 noun_p71 sub iverb_pres_s58 .
+noun_s98 prep3 noun_p71 sub iverb_pres_p58 .
+noun_p98 prep3 noun_s71 sub iverb_pres_p58 .
+noun_p98 prep3 noun_s71 sub iverb_pres_s58 .
+noun_s8 prep4 noun_p162 sub iverb_pres_s21 .
+noun_s8 prep4 noun_p162 sub iverb_pres_p21 .
+noun_p8 prep4 noun_s162 sub iverb_pres_p21 .
+noun_p8 prep4 noun_s162 sub iverb_pres_s21 .
+noun_s16 prep3 noun_p62 sub iverb_pres_s7 .
+noun_s16 prep3 noun_p62 sub iverb_pres_p7 .
+noun_p16 prep3 noun_s62 sub iverb_pres_p7 .
+noun_p16 prep3 noun_s62 sub iverb_pres_s7 .
+noun_s14 prep4 noun_p76 sub iverb_pres_s99 .
+noun_s14 prep4 noun_p76 sub iverb_pres_p99 .
+noun_p14 prep4 noun_s76 sub iverb_pres_p99 .
+noun_p14 prep4 noun_s76 sub iverb_pres_s99 .
+noun_s78 prep3 noun_p147 sub iverb_pres_s93 .
+noun_s78 prep3 noun_p147 sub iverb_pres_p93 .
+noun_p78 prep3 noun_s147 sub iverb_pres_p93 .
+noun_p78 prep3 noun_s147 sub iverb_pres_s93 .
+noun_s67 prep4 noun_p28 sub iverb_pres_s12 .
+noun_s67 prep4 noun_p28 sub iverb_pres_p12 .
+noun_p67 prep4 noun_s28 sub iverb_pres_p12 .
+noun_p67 prep4 noun_s28 sub iverb_pres_s12 .
+noun_s123 prep2 noun_p49 sub iverb_pres_s76 .
+noun_s123 prep2 noun_p49 sub iverb_pres_p76 .
+noun_p123 prep2 noun_s49 sub iverb_pres_p76 .
+noun_p123 prep2 noun_s49 sub iverb_pres_s76 .
+noun_s94 prep3 noun_p76 sub iverb_pres_s83 .
+noun_s94 prep3 noun_p76 sub iverb_pres_p83 .
+noun_p94 prep3 noun_s76 sub iverb_pres_p83 .
+noun_p94 prep3 noun_s76 sub iverb_pres_s83 .
+noun_s124 prep4 noun_p16 sub iverb_pres_s32 .
+noun_s124 prep4 noun_p16 sub iverb_pres_p32 .
+noun_p124 prep4 noun_s16 sub iverb_pres_p32 .
+noun_p124 prep4 noun_s16 sub iverb_pres_s32 .
+noun_s90 prep2 noun_p22 sub iverb_pres_s89 .
+noun_s90 prep2 noun_p22 sub iverb_pres_p89 .
+noun_p90 prep2 noun_s22 sub iverb_pres_p89 .
+noun_p90 prep2 noun_s22 sub iverb_pres_s89 .
+noun_s70 prep1 noun_p86 sub iverb_pres_s68 .
+noun_s70 prep1 noun_p86 sub iverb_pres_p68 .
+noun_p70 prep1 noun_s86 sub iverb_pres_p68 .
+noun_p70 prep1 noun_s86 sub iverb_pres_s68 .
+noun_s4 prep2 noun_s37 sub tverb_pres_s45 noun_p35 ob .
+noun_s4 prep2 noun_s37 sub tverb_pres_p45 noun_p35 ob .
+noun_p4 prep2 noun_p37 sub tverb_pres_p45 noun_p35 ob .
+noun_p4 prep2 noun_p37 sub tverb_pres_s45 noun_p35 ob .
+noun_s83 prep1 noun_s63 sub tverb_pres_s111 noun_p105 ob .
+noun_s83 prep1 noun_s63 sub tverb_pres_p111 noun_p105 ob .
+noun_p83 prep1 noun_p63 sub tverb_pres_p111 noun_p105 ob .
+noun_p83 prep1 noun_p63 sub tverb_pres_s111 noun_p105 ob .
+noun_s79 prep3 noun_s68 sub tverb_pres_s64 noun_p44 ob .
+noun_s79 prep3 noun_s68 sub tverb_pres_p64 noun_p44 ob .
+noun_p79 prep3 noun_p68 sub tverb_pres_p64 noun_p44 ob .
+noun_p79 prep3 noun_p68 sub tverb_pres_s64 noun_p44 ob .
+noun_s21 prep2 noun_s56 sub tverb_pres_s112 noun_s110 ob .
+noun_s21 prep2 noun_s56 sub tverb_pres_p112 noun_s110 ob .
+noun_p21 prep2 noun_p56 sub tverb_pres_p112 noun_s110 ob .
+noun_p21 prep2 noun_p56 sub tverb_pres_s112 noun_s110 ob .
+noun_s75 prep2 noun_s71 sub tverb_pres_s89 noun_p17 ob .
+noun_s75 prep2 noun_s71 sub tverb_pres_p89 noun_p17 ob .
+noun_p75 prep2 noun_p71 sub tverb_pres_p89 noun_p17 ob .
+noun_p75 prep2 noun_p71 sub tverb_pres_s89 noun_p17 ob .
+noun_s112 prep3 noun_s145 sub tverb_pres_s13 noun_p140 ob .
+noun_s112 prep3 noun_s145 sub tverb_pres_p13 noun_p140 ob .
+noun_p112 prep3 noun_p145 sub tverb_pres_p13 noun_p140 ob .
+noun_p112 prep3 noun_p145 sub tverb_pres_s13 noun_p140 ob .
+noun_s147 prep2 noun_s46 sub tverb_pres_s31 noun_p8 ob .
+noun_s147 prep2 noun_s46 sub tverb_pres_p31 noun_p8 ob .
+noun_p147 prep2 noun_p46 sub tverb_pres_p31 noun_p8 ob .
+noun_p147 prep2 noun_p46 sub tverb_pres_s31 noun_p8 ob .
+noun_s103 prep3 noun_s8 sub tverb_pres_s91 noun_s135 ob .
+noun_s103 prep3 noun_s8 sub tverb_pres_p91 noun_s135 ob .
+noun_p103 prep3 noun_p8 sub tverb_pres_p91 noun_s135 ob .
+noun_p103 prep3 noun_p8 sub tverb_pres_s91 noun_s135 ob .
+noun_s110 prep4 noun_s78 sub tverb_pres_s107 noun_s18 ob .
+noun_s110 prep4 noun_s78 sub tverb_pres_p107 noun_s18 ob .
+noun_p110 prep4 noun_p78 sub tverb_pres_p107 noun_s18 ob .
+noun_p110 prep4 noun_p78 sub tverb_pres_s107 noun_s18 ob .
+noun_s24 prep2 noun_s69 sub tverb_pres_s70 noun_p54 ob .
+noun_s24 prep2 noun_s69 sub tverb_pres_p70 noun_p54 ob .
+noun_p24 prep2 noun_p69 sub tverb_pres_p70 noun_p54 ob .
+noun_p24 prep2 noun_p69 sub tverb_pres_s70 noun_p54 ob .
+noun_s51 prep4 noun_s85 sub tverb_pres_s50 noun_s145 ob .
+noun_s51 prep4 noun_s85 sub tverb_pres_p50 noun_s145 ob .
+noun_p51 prep4 noun_p85 sub tverb_pres_p50 noun_s145 ob .
+noun_p51 prep4 noun_p85 sub tverb_pres_s50 noun_s145 ob .
+noun_s113 prep4 noun_s140 sub tverb_pres_s71 noun_p23 ob .
+noun_s113 prep4 noun_s140 sub tverb_pres_p71 noun_p23 ob .
+noun_p113 prep4 noun_p140 sub tverb_pres_p71 noun_p23 ob .
+noun_p113 prep4 noun_p140 sub tverb_pres_s71 noun_p23 ob .
+noun_s140 prep1 noun_s26 sub tverb_pres_s31 noun_s7 ob .
+noun_s140 prep1 noun_s26 sub tverb_pres_p31 noun_s7 ob .
+noun_p140 prep1 noun_p26 sub tverb_pres_p31 noun_s7 ob .
+noun_p140 prep1 noun_p26 sub tverb_pres_s31 noun_s7 ob .
+noun_s83 prep1 noun_s117 sub tverb_pres_s6 noun_s117 ob .
+noun_s83 prep1 noun_s117 sub tverb_pres_p6 noun_s117 ob .
+noun_p83 prep1 noun_p117 sub tverb_pres_p6 noun_s117 ob .
+noun_p83 prep1 noun_p117 sub tverb_pres_s6 noun_s117 ob .
+noun_s30 prep3 noun_s54 sub tverb_pres_s4 noun_p15 ob .
+noun_s30 prep3 noun_s54 sub tverb_pres_p4 noun_p15 ob .
+noun_p30 prep3 noun_p54 sub tverb_pres_p4 noun_p15 ob .
+noun_p30 prep3 noun_p54 sub tverb_pres_s4 noun_p15 ob .
+noun_s68 prep2 noun_s39 sub tverb_pres_s32 noun_s117 ob .
+noun_s68 prep2 noun_s39 sub tverb_pres_p32 noun_s117 ob .
+noun_p68 prep2 noun_p39 sub tverb_pres_p32 noun_s117 ob .
+noun_p68 prep2 noun_p39 sub tverb_pres_s32 noun_s117 ob .
+noun_s135 prep4 noun_s37 sub tverb_pres_s76 noun_p65 ob .
+noun_s135 prep4 noun_s37 sub tverb_pres_p76 noun_p65 ob .
+noun_p135 prep4 noun_p37 sub tverb_pres_p76 noun_p65 ob .
+noun_p135 prep4 noun_p37 sub tverb_pres_s76 noun_p65 ob .
+noun_s24 prep2 noun_s47 sub tverb_pres_s31 noun_s40 ob .
+noun_s24 prep2 noun_s47 sub tverb_pres_p31 noun_s40 ob .
+noun_p24 prep2 noun_p47 sub tverb_pres_p31 noun_s40 ob .
+noun_p24 prep2 noun_p47 sub tverb_pres_s31 noun_s40 ob .
+noun_s70 prep2 noun_s160 sub tverb_pres_s8 noun_p56 ob .
+noun_s70 prep2 noun_s160 sub tverb_pres_p8 noun_p56 ob .
+noun_p70 prep2 noun_p160 sub tverb_pres_p8 noun_p56 ob .
+noun_p70 prep2 noun_p160 sub tverb_pres_s8 noun_p56 ob .
+noun_s41 prep2 noun_s146 sub tverb_pres_s85 noun_s8 ob .
+noun_s41 prep2 noun_s146 sub tverb_pres_p85 noun_s8 ob .
+noun_p41 prep2 noun_p146 sub tverb_pres_p85 noun_s8 ob .
+noun_p41 prep2 noun_p146 sub tverb_pres_s85 noun_s8 ob .
+noun_s61 prep2 noun_s160 sub tverb_pres_s76 noun_s125 ob .
+noun_s61 prep2 noun_s160 sub tverb_pres_p76 noun_s125 ob .
+noun_p61 prep2 noun_p160 sub tverb_pres_p76 noun_s125 ob .
+noun_p61 prep2 noun_p160 sub tverb_pres_s76 noun_s125 ob .
+noun_s30 prep4 noun_s42 sub tverb_pres_s73 noun_p40 ob .
+noun_s30 prep4 noun_s42 sub tverb_pres_p73 noun_p40 ob .
+noun_p30 prep4 noun_p42 sub tverb_pres_p73 noun_p40 ob .
+noun_p30 prep4 noun_p42 sub tverb_pres_s73 noun_p40 ob .
+noun_s140 prep2 noun_s63 sub tverb_pres_s94 noun_s92 ob .
+noun_s140 prep2 noun_s63 sub tverb_pres_p94 noun_s92 ob .
+noun_p140 prep2 noun_p63 sub tverb_pres_p94 noun_s92 ob .
+noun_p140 prep2 noun_p63 sub tverb_pres_s94 noun_s92 ob .
+noun_s104 prep3 noun_s44 sub tverb_pres_s95 noun_s128 ob .
+noun_s104 prep3 noun_s44 sub tverb_pres_p95 noun_s128 ob .
+noun_p104 prep3 noun_p44 sub tverb_pres_p95 noun_s128 ob .
+noun_p104 prep3 noun_p44 sub tverb_pres_s95 noun_s128 ob .
+noun_s117 prep2 noun_s39 sub tverb_pres_s48 noun_s62 ob .
+noun_s117 prep2 noun_s39 sub tverb_pres_p48 noun_s62 ob .
+noun_p117 prep2 noun_p39 sub tverb_pres_p48 noun_s62 ob .
+noun_p117 prep2 noun_p39 sub tverb_pres_s48 noun_s62 ob .
+noun_s106 prep4 noun_s162 sub tverb_pres_s18 noun_p50 ob .
+noun_s106 prep4 noun_s162 sub tverb_pres_p18 noun_p50 ob .
+noun_p106 prep4 noun_p162 sub tverb_pres_p18 noun_p50 ob .
+noun_p106 prep4 noun_p162 sub tverb_pres_s18 noun_p50 ob .
+noun_s38 prep2 noun_s46 sub tverb_pres_s107 noun_p66 ob .
+noun_s38 prep2 noun_s46 sub tverb_pres_p107 noun_p66 ob .
+noun_p38 prep2 noun_p46 sub tverb_pres_p107 noun_p66 ob .
+noun_p38 prep2 noun_p46 sub tverb_pres_s107 noun_p66 ob .
+noun_s119 prep4 noun_s7 sub tverb_pres_s85 noun_s126 ob .
+noun_s119 prep4 noun_s7 sub tverb_pres_p85 noun_s126 ob .
+noun_p119 prep4 noun_p7 sub tverb_pres_p85 noun_s126 ob .
+noun_p119 prep4 noun_p7 sub tverb_pres_s85 noun_s126 ob .
+noun_s12 prep3 noun_s4 sub tverb_pres_s54 noun_p130 ob .
+noun_s12 prep3 noun_s4 sub tverb_pres_p54 noun_p130 ob .
+noun_p12 prep3 noun_p4 sub tverb_pres_p54 noun_p130 ob .
+noun_p12 prep3 noun_p4 sub tverb_pres_s54 noun_p130 ob .
+noun_s30 prep2 noun_s6 sub tverb_pres_s64 noun_s25 ob .
+noun_s30 prep2 noun_s6 sub tverb_pres_p64 noun_s25 ob .
+noun_p30 prep2 noun_p6 sub tverb_pres_p64 noun_s25 ob .
+noun_p30 prep2 noun_p6 sub tverb_pres_s64 noun_s25 ob .
+noun_s111 prep1 noun_s144 sub tverb_pres_s37 noun_p115 ob .
+noun_s111 prep1 noun_s144 sub tverb_pres_p37 noun_p115 ob .
+noun_p111 prep1 noun_p144 sub tverb_pres_p37 noun_p115 ob .
+noun_p111 prep1 noun_p144 sub tverb_pres_s37 noun_p115 ob .
+noun_s120 prep3 noun_s63 sub tverb_pres_s54 noun_p115 ob .
+noun_s120 prep3 noun_s63 sub tverb_pres_p54 noun_p115 ob .
+noun_p120 prep3 noun_p63 sub tverb_pres_p54 noun_p115 ob .
+noun_p120 prep3 noun_p63 sub tverb_pres_s54 noun_p115 ob .
+noun_s138 prep3 noun_s21 sub tverb_pres_s71 noun_s10 ob .
+noun_s138 prep3 noun_s21 sub tverb_pres_p71 noun_s10 ob .
+noun_p138 prep3 noun_p21 sub tverb_pres_p71 noun_s10 ob .
+noun_p138 prep3 noun_p21 sub tverb_pres_s71 noun_s10 ob .
+noun_s92 prep1 noun_s53 sub tverb_pres_s6 noun_s30 ob .
+noun_s92 prep1 noun_s53 sub tverb_pres_p6 noun_s30 ob .
+noun_p92 prep1 noun_p53 sub tverb_pres_p6 noun_s30 ob .
+noun_p92 prep1 noun_p53 sub tverb_pres_s6 noun_s30 ob .
+noun_s110 prep1 noun_s3 sub tverb_pres_s46 noun_s77 ob .
+noun_s110 prep1 noun_s3 sub tverb_pres_p46 noun_s77 ob .
+noun_p110 prep1 noun_p3 sub tverb_pres_p46 noun_s77 ob .
+noun_p110 prep1 noun_p3 sub tverb_pres_s46 noun_s77 ob .
+noun_s62 prep1 noun_s64 sub tverb_pres_s77 noun_s19 ob .
+noun_s62 prep1 noun_s64 sub tverb_pres_p77 noun_s19 ob .
+noun_p62 prep1 noun_p64 sub tverb_pres_p77 noun_s19 ob .
+noun_p62 prep1 noun_p64 sub tverb_pres_s77 noun_s19 ob .
+noun_s157 prep3 noun_s23 sub tverb_pres_s59 noun_s148 ob .
+noun_s157 prep3 noun_s23 sub tverb_pres_p59 noun_s148 ob .
+noun_p157 prep3 noun_p23 sub tverb_pres_p59 noun_s148 ob .
+noun_p157 prep3 noun_p23 sub tverb_pres_s59 noun_s148 ob .
+noun_s88 prep1 noun_s26 sub tverb_pres_s35 noun_s150 ob .
+noun_s88 prep1 noun_s26 sub tverb_pres_p35 noun_s150 ob .
+noun_p88 prep1 noun_p26 sub tverb_pres_p35 noun_s150 ob .
+noun_p88 prep1 noun_p26 sub tverb_pres_s35 noun_s150 ob .
+noun_s59 prep1 noun_s58 sub tverb_pres_s56 noun_s2 ob .
+noun_s59 prep1 noun_s58 sub tverb_pres_p56 noun_s2 ob .
+noun_p59 prep1 noun_p58 sub tverb_pres_p56 noun_s2 ob .
+noun_p59 prep1 noun_p58 sub tverb_pres_s56 noun_s2 ob .
+noun_s153 prep4 noun_s81 sub tverb_pres_s73 noun_s31 ob .
+noun_s153 prep4 noun_s81 sub tverb_pres_p73 noun_s31 ob .
+noun_p153 prep4 noun_p81 sub tverb_pres_p73 noun_s31 ob .
+noun_p153 prep4 noun_p81 sub tverb_pres_s73 noun_s31 ob .
+noun_s68 prep1 noun_s105 sub tverb_pres_s77 noun_p106 ob .
+noun_s68 prep1 noun_s105 sub tverb_pres_p77 noun_p106 ob .
+noun_p68 prep1 noun_p105 sub tverb_pres_p77 noun_p106 ob .
+noun_p68 prep1 noun_p105 sub tverb_pres_s77 noun_p106 ob .
+noun_s31 prep3 noun_s108 sub tverb_pres_s53 noun_s119 ob .
+noun_s31 prep3 noun_s108 sub tverb_pres_p53 noun_s119 ob .
+noun_p31 prep3 noun_p108 sub tverb_pres_p53 noun_s119 ob .
+noun_p31 prep3 noun_p108 sub tverb_pres_s53 noun_s119 ob .
+noun_s134 prep1 noun_s138 sub tverb_pres_s108 noun_s46 ob .
+noun_s134 prep1 noun_s138 sub tverb_pres_p108 noun_s46 ob .
+noun_p134 prep1 noun_p138 sub tverb_pres_p108 noun_s46 ob .
+noun_p134 prep1 noun_p138 sub tverb_pres_s108 noun_s46 ob .
+noun_s99 prep1 noun_s3 sub tverb_pres_s35 noun_s121 ob .
+noun_s99 prep1 noun_s3 sub tverb_pres_p35 noun_s121 ob .
+noun_p99 prep1 noun_p3 sub tverb_pres_p35 noun_s121 ob .
+noun_p99 prep1 noun_p3 sub tverb_pres_s35 noun_s121 ob .
+noun_s53 prep4 noun_s119 sub tverb_pres_s60 noun_s145 ob .
+noun_s53 prep4 noun_s119 sub tverb_pres_p60 noun_s145 ob .
+noun_p53 prep4 noun_p119 sub tverb_pres_p60 noun_s145 ob .
+noun_p53 prep4 noun_p119 sub tverb_pres_s60 noun_s145 ob .
+noun_s119 prep2 noun_s11 sub tverb_pres_s107 noun_p61 ob .
+noun_s119 prep2 noun_s11 sub tverb_pres_p107 noun_p61 ob .
+noun_p119 prep2 noun_p11 sub tverb_pres_p107 noun_p61 ob .
+noun_p119 prep2 noun_p11 sub tverb_pres_s107 noun_p61 ob .
+noun_s31 prep4 noun_s92 sub tverb_pres_s45 noun_s23 ob .
+noun_s31 prep4 noun_s92 sub tverb_pres_p45 noun_s23 ob .
+noun_p31 prep4 noun_p92 sub tverb_pres_p45 noun_s23 ob .
+noun_p31 prep4 noun_p92 sub tverb_pres_s45 noun_s23 ob .
+noun_s86 prep1 noun_s143 sub tverb_pres_s6 noun_p33 ob .
+noun_s86 prep1 noun_s143 sub tverb_pres_p6 noun_p33 ob .
+noun_p86 prep1 noun_p143 sub tverb_pres_p6 noun_p33 ob .
+noun_p86 prep1 noun_p143 sub tverb_pres_s6 noun_p33 ob .
+noun_s133 prep2 noun_s109 sub tverb_pres_s54 noun_p95 ob .
+noun_s133 prep2 noun_s109 sub tverb_pres_p54 noun_p95 ob .
+noun_p133 prep2 noun_p109 sub tverb_pres_p54 noun_p95 ob .
+noun_p133 prep2 noun_p109 sub tverb_pres_s54 noun_p95 ob .
+noun_s67 prep4 noun_s11 sub tverb_pres_s61 noun_p120 ob .
+noun_s67 prep4 noun_s11 sub tverb_pres_p61 noun_p120 ob .
+noun_p67 prep4 noun_p11 sub tverb_pres_p61 noun_p120 ob .
+noun_p67 prep4 noun_p11 sub tverb_pres_s61 noun_p120 ob .
+noun_s128 prep2 noun_p112 sub tverb_pres_s87 noun_p84 ob .
+noun_s128 prep2 noun_p112 sub tverb_pres_p87 noun_p84 ob .
+noun_p128 prep2 noun_s112 sub tverb_pres_p87 noun_p84 ob .
+noun_p128 prep2 noun_s112 sub tverb_pres_s87 noun_p84 ob .
+noun_s4 prep4 noun_p81 sub tverb_pres_s30 noun_s28 ob .
+noun_s4 prep4 noun_p81 sub tverb_pres_p30 noun_s28 ob .
+noun_p4 prep4 noun_s81 sub tverb_pres_p30 noun_s28 ob .
+noun_p4 prep4 noun_s81 sub tverb_pres_s30 noun_s28 ob .
+noun_s101 prep3 noun_p34 sub tverb_pres_s51 noun_p84 ob .
+noun_s101 prep3 noun_p34 sub tverb_pres_p51 noun_p84 ob .
+noun_p101 prep3 noun_s34 sub tverb_pres_p51 noun_p84 ob .
+noun_p101 prep3 noun_s34 sub tverb_pres_s51 noun_p84 ob .
+noun_s62 prep1 noun_p34 sub tverb_pres_s48 noun_s30 ob .
+noun_s62 prep1 noun_p34 sub tverb_pres_p48 noun_s30 ob .
+noun_p62 prep1 noun_s34 sub tverb_pres_p48 noun_s30 ob .
+noun_p62 prep1 noun_s34 sub tverb_pres_s48 noun_s30 ob .
+noun_s117 prep1 noun_p62 sub tverb_pres_s96 noun_s60 ob .
+noun_s117 prep1 noun_p62 sub tverb_pres_p96 noun_s60 ob .
+noun_p117 prep1 noun_s62 sub tverb_pres_p96 noun_s60 ob .
+noun_p117 prep1 noun_s62 sub tverb_pres_s96 noun_s60 ob .
+noun_s162 prep2 noun_p142 sub tverb_pres_s65 noun_s162 ob .
+noun_s162 prep2 noun_p142 sub tverb_pres_p65 noun_s162 ob .
+noun_p162 prep2 noun_s142 sub tverb_pres_p65 noun_s162 ob .
+noun_p162 prep2 noun_s142 sub tverb_pres_s65 noun_s162 ob .
+noun_s36 prep2 noun_p80 sub tverb_pres_s54 noun_s77 ob .
+noun_s36 prep2 noun_p80 sub tverb_pres_p54 noun_s77 ob .
+noun_p36 prep2 noun_s80 sub tverb_pres_p54 noun_s77 ob .
+noun_p36 prep2 noun_s80 sub tverb_pres_s54 noun_s77 ob .
+noun_s16 prep3 noun_p68 sub tverb_pres_s97 noun_s127 ob .
+noun_s16 prep3 noun_p68 sub tverb_pres_p97 noun_s127 ob .
+noun_p16 prep3 noun_s68 sub tverb_pres_p97 noun_s127 ob .
+noun_p16 prep3 noun_s68 sub tverb_pres_s97 noun_s127 ob .
+noun_s25 prep3 noun_p106 sub tverb_pres_s16 noun_p140 ob .
+noun_s25 prep3 noun_p106 sub tverb_pres_p16 noun_p140 ob .
+noun_p25 prep3 noun_s106 sub tverb_pres_p16 noun_p140 ob .
+noun_p25 prep3 noun_s106 sub tverb_pres_s16 noun_p140 ob .
+noun_s130 prep2 noun_p22 sub tverb_pres_s30 noun_s56 ob .
+noun_s130 prep2 noun_p22 sub tverb_pres_p30 noun_s56 ob .
+noun_p130 prep2 noun_s22 sub tverb_pres_p30 noun_s56 ob .
+noun_p130 prep2 noun_s22 sub tverb_pres_s30 noun_s56 ob .
+noun_s5 prep1 noun_p128 sub tverb_pres_s17 noun_s8 ob .
+noun_s5 prep1 noun_p128 sub tverb_pres_p17 noun_s8 ob .
+noun_p5 prep1 noun_s128 sub tverb_pres_p17 noun_s8 ob .
+noun_p5 prep1 noun_s128 sub tverb_pres_s17 noun_s8 ob .
+noun_s152 prep2 noun_p102 sub tverb_pres_s8 noun_s16 ob .
+noun_s152 prep2 noun_p102 sub tverb_pres_p8 noun_s16 ob .
+noun_p152 prep2 noun_s102 sub tverb_pres_p8 noun_s16 ob .
+noun_p152 prep2 noun_s102 sub tverb_pres_s8 noun_s16 ob .
+noun_s41 prep2 noun_p69 sub tverb_pres_s91 noun_p68 ob .
+noun_s41 prep2 noun_p69 sub tverb_pres_p91 noun_p68 ob .
+noun_p41 prep2 noun_s69 sub tverb_pres_p91 noun_p68 ob .
+noun_p41 prep2 noun_s69 sub tverb_pres_s91 noun_p68 ob .
+noun_s89 prep4 noun_p14 sub tverb_pres_s47 noun_p130 ob .
+noun_s89 prep4 noun_p14 sub tverb_pres_p47 noun_p130 ob .
+noun_p89 prep4 noun_s14 sub tverb_pres_p47 noun_p130 ob .
+noun_p89 prep4 noun_s14 sub tverb_pres_s47 noun_p130 ob .
+noun_s55 prep3 noun_p2 sub tverb_pres_s64 noun_p88 ob .
+noun_s55 prep3 noun_p2 sub tverb_pres_p64 noun_p88 ob .
+noun_p55 prep3 noun_s2 sub tverb_pres_p64 noun_p88 ob .
+noun_p55 prep3 noun_s2 sub tverb_pres_s64 noun_p88 ob .
+noun_s109 prep1 noun_p22 sub tverb_pres_s104 noun_p147 ob .
+noun_s109 prep1 noun_p22 sub tverb_pres_p104 noun_p147 ob .
+noun_p109 prep1 noun_s22 sub tverb_pres_p104 noun_p147 ob .
+noun_p109 prep1 noun_s22 sub tverb_pres_s104 noun_p147 ob .
+noun_s41 prep2 noun_p47 sub tverb_pres_s86 noun_p158 ob .
+noun_s41 prep2 noun_p47 sub tverb_pres_p86 noun_p158 ob .
+noun_p41 prep2 noun_s47 sub tverb_pres_p86 noun_p158 ob .
+noun_p41 prep2 noun_s47 sub tverb_pres_s86 noun_p158 ob .
+noun_s155 prep1 noun_p155 sub tverb_pres_s39 noun_p33 ob .
+noun_s155 prep1 noun_p155 sub tverb_pres_p39 noun_p33 ob .
+noun_p155 prep1 noun_s155 sub tverb_pres_p39 noun_p33 ob .
+noun_p155 prep1 noun_s155 sub tverb_pres_s39 noun_p33 ob .
+noun_s6 prep1 noun_p29 sub tverb_pres_s58 noun_s153 ob .
+noun_s6 prep1 noun_p29 sub tverb_pres_p58 noun_s153 ob .
+noun_p6 prep1 noun_s29 sub tverb_pres_p58 noun_s153 ob .
+noun_p6 prep1 noun_s29 sub tverb_pres_s58 noun_s153 ob .
+noun_s110 prep4 noun_p75 sub tverb_pres_s105 noun_s105 ob .
+noun_s110 prep4 noun_p75 sub tverb_pres_p105 noun_s105 ob .
+noun_p110 prep4 noun_s75 sub tverb_pres_p105 noun_s105 ob .
+noun_p110 prep4 noun_s75 sub tverb_pres_s105 noun_s105 ob .
+noun_s44 prep3 noun_p83 sub tverb_pres_s72 noun_p23 ob .
+noun_s44 prep3 noun_p83 sub tverb_pres_p72 noun_p23 ob .
+noun_p44 prep3 noun_s83 sub tverb_pres_p72 noun_p23 ob .
+noun_p44 prep3 noun_s83 sub tverb_pres_s72 noun_p23 ob .
+noun_s100 prep1 noun_p45 sub tverb_pres_s8 noun_s48 ob .
+noun_s100 prep1 noun_p45 sub tverb_pres_p8 noun_s48 ob .
+noun_p100 prep1 noun_s45 sub tverb_pres_p8 noun_s48 ob .
+noun_p100 prep1 noun_s45 sub tverb_pres_s8 noun_s48 ob .
+noun_s15 prep4 noun_p32 sub tverb_pres_s102 noun_p130 ob .
+noun_s15 prep4 noun_p32 sub tverb_pres_p102 noun_p130 ob .
+noun_p15 prep4 noun_s32 sub tverb_pres_p102 noun_p130 ob .
+noun_p15 prep4 noun_s32 sub tverb_pres_s102 noun_p130 ob .
+noun_s39 prep4 noun_p109 sub tverb_pres_s66 noun_s108 ob .
+noun_s39 prep4 noun_p109 sub tverb_pres_p66 noun_s108 ob .
+noun_p39 prep4 noun_s109 sub tverb_pres_p66 noun_s108 ob .
+noun_p39 prep4 noun_s109 sub tverb_pres_s66 noun_s108 ob .
+noun_s10 prep2 noun_p95 sub tverb_pres_s101 noun_p118 ob .
+noun_s10 prep2 noun_p95 sub tverb_pres_p101 noun_p118 ob .
+noun_p10 prep2 noun_s95 sub tverb_pres_p101 noun_p118 ob .
+noun_p10 prep2 noun_s95 sub tverb_pres_s101 noun_p118 ob .
+noun_s15 prep3 noun_p129 sub tverb_pres_s97 noun_s106 ob .
+noun_s15 prep3 noun_p129 sub tverb_pres_p97 noun_s106 ob .
+noun_p15 prep3 noun_s129 sub tverb_pres_p97 noun_s106 ob .
+noun_p15 prep3 noun_s129 sub tverb_pres_s97 noun_s106 ob .
+noun_s111 prep2 noun_p39 sub tverb_pres_s79 noun_p147 ob .
+noun_s111 prep2 noun_p39 sub tverb_pres_p79 noun_p147 ob .
+noun_p111 prep2 noun_s39 sub tverb_pres_p79 noun_p147 ob .
+noun_p111 prep2 noun_s39 sub tverb_pres_s79 noun_p147 ob .
+noun_s25 prep1 noun_p104 sub tverb_pres_s67 noun_s48 ob .
+noun_s25 prep1 noun_p104 sub tverb_pres_p67 noun_s48 ob .
+noun_p25 prep1 noun_s104 sub tverb_pres_p67 noun_s48 ob .
+noun_p25 prep1 noun_s104 sub tverb_pres_s67 noun_s48 ob .
+noun_s24 prep1 noun_p143 sub tverb_pres_s108 noun_s2 ob .
+noun_s24 prep1 noun_p143 sub tverb_pres_p108 noun_s2 ob .
+noun_p24 prep1 noun_s143 sub tverb_pres_p108 noun_s2 ob .
+noun_p24 prep1 noun_s143 sub tverb_pres_s108 noun_s2 ob .
+noun_s120 prep4 noun_p70 sub tverb_pres_s82 noun_s12 ob .
+noun_s120 prep4 noun_p70 sub tverb_pres_p82 noun_s12 ob .
+noun_p120 prep4 noun_s70 sub tverb_pres_p82 noun_s12 ob .
+noun_p120 prep4 noun_s70 sub tverb_pres_s82 noun_s12 ob .
+noun_s66 prep3 noun_p160 sub tverb_pres_s111 noun_s35 ob .
+noun_s66 prep3 noun_p160 sub tverb_pres_p111 noun_s35 ob .
+noun_p66 prep3 noun_s160 sub tverb_pres_p111 noun_s35 ob .
+noun_p66 prep3 noun_s160 sub tverb_pres_s111 noun_s35 ob .
+noun_s126 prep3 noun_p119 sub tverb_pres_s83 noun_s113 ob .
+noun_s126 prep3 noun_p119 sub tverb_pres_p83 noun_s113 ob .
+noun_p126 prep3 noun_s119 sub tverb_pres_p83 noun_s113 ob .
+noun_p126 prep3 noun_s119 sub tverb_pres_s83 noun_s113 ob .
+noun_s103 prep4 noun_p136 sub tverb_pres_s47 noun_s76 ob .
+noun_s103 prep4 noun_p136 sub tverb_pres_p47 noun_s76 ob .
+noun_p103 prep4 noun_s136 sub tverb_pres_p47 noun_s76 ob .
+noun_p103 prep4 noun_s136 sub tverb_pres_s47 noun_s76 ob .
+noun_s32 prep3 noun_p20 sub tverb_pres_s17 noun_s107 ob .
+noun_s32 prep3 noun_p20 sub tverb_pres_p17 noun_s107 ob .
+noun_p32 prep3 noun_s20 sub tverb_pres_p17 noun_s107 ob .
+noun_p32 prep3 noun_s20 sub tverb_pres_s17 noun_s107 ob .
+noun_s70 prep1 noun_p128 sub tverb_pres_s75 noun_p15 ob .
+noun_s70 prep1 noun_p128 sub tverb_pres_p75 noun_p15 ob .
+noun_p70 prep1 noun_s128 sub tverb_pres_p75 noun_p15 ob .
+noun_p70 prep1 noun_s128 sub tverb_pres_s75 noun_p15 ob .
+noun_s159 prep3 noun_p152 sub tverb_pres_s96 noun_p84 ob .
+noun_s159 prep3 noun_p152 sub tverb_pres_p96 noun_p84 ob .
+noun_p159 prep3 noun_s152 sub tverb_pres_p96 noun_p84 ob .
+noun_p159 prep3 noun_s152 sub tverb_pres_s96 noun_p84 ob .
+noun_s112 prep4 noun_p24 sub tverb_pres_s103 noun_s92 ob .
+noun_s112 prep4 noun_p24 sub tverb_pres_p103 noun_s92 ob .
+noun_p112 prep4 noun_s24 sub tverb_pres_p103 noun_s92 ob .
+noun_p112 prep4 noun_s24 sub tverb_pres_s103 noun_s92 ob .
+noun_s60 prep1 noun_p162 sub tverb_pres_s75 noun_s119 ob .
+noun_s60 prep1 noun_p162 sub tverb_pres_p75 noun_s119 ob .
+noun_p60 prep1 noun_s162 sub tverb_pres_p75 noun_s119 ob .
+noun_p60 prep1 noun_s162 sub tverb_pres_s75 noun_s119 ob .
+noun_s122 prep4 noun_p48 sub tverb_pres_s82 noun_s110 ob .
+noun_s122 prep4 noun_p48 sub tverb_pres_p82 noun_s110 ob .
+noun_p122 prep4 noun_s48 sub tverb_pres_p82 noun_s110 ob .
+noun_p122 prep4 noun_s48 sub tverb_pres_s82 noun_s110 ob .
+noun_s51 prep4 noun_p62 sub tverb_pres_s91 noun_p120 ob .
+noun_s51 prep4 noun_p62 sub tverb_pres_p91 noun_p120 ob .
+noun_p51 prep4 noun_s62 sub tverb_pres_p91 noun_p120 ob .
+noun_p51 prep4 noun_s62 sub tverb_pres_s91 noun_p120 ob .
+noun_s153 prep1 noun_p105 sub tverb_pres_s40 noun_s78 ob .
+noun_s153 prep1 noun_p105 sub tverb_pres_p40 noun_s78 ob .
+noun_p153 prep1 noun_s105 sub tverb_pres_p40 noun_s78 ob .
+noun_p153 prep1 noun_s105 sub tverb_pres_s40 noun_s78 ob .
+noun_s147 prep3 noun_p55 sub tverb_pres_s98 noun_p82 ob .
+noun_s147 prep3 noun_p55 sub tverb_pres_p98 noun_p82 ob .
+noun_p147 prep3 noun_s55 sub tverb_pres_p98 noun_p82 ob .
+noun_p147 prep3 noun_s55 sub tverb_pres_s98 noun_p82 ob .
+noun_s102 prep1 noun_p91 sub tverb_pres_s52 noun_p85 ob .
+noun_s102 prep1 noun_p91 sub tverb_pres_p52 noun_p85 ob .
+noun_p102 prep1 noun_s91 sub tverb_pres_p52 noun_p85 ob .
+noun_p102 prep1 noun_s91 sub tverb_pres_s52 noun_p85 ob .
+noun_s70 prep3 noun_p11 sub tverb_pres_s49 noun_p18 ob .
+noun_s70 prep3 noun_p11 sub tverb_pres_p49 noun_p18 ob .
+noun_p70 prep3 noun_s11 sub tverb_pres_p49 noun_p18 ob .
+noun_p70 prep3 noun_s11 sub tverb_pres_s49 noun_p18 ob .
+noun_s153 prep1 noun_p70 sub tverb_pres_s47 noun_s141 ob .
+noun_s153 prep1 noun_p70 sub tverb_pres_p47 noun_s141 ob .
+noun_p153 prep1 noun_s70 sub tverb_pres_p47 noun_s141 ob .
+noun_p153 prep1 noun_s70 sub tverb_pres_s47 noun_s141 ob .
+noun_s24 prep3 noun_p67 sub tverb_pres_s81 noun_p129 ob .
+noun_s24 prep3 noun_p67 sub tverb_pres_p81 noun_p129 ob .
+noun_p24 prep3 noun_s67 sub tverb_pres_p81 noun_p129 ob .
+noun_p24 prep3 noun_s67 sub tverb_pres_s81 noun_p129 ob .
+noun_s60 prep3 noun_p29 sub tverb_pres_s49 noun_p118 ob .
+noun_s60 prep3 noun_p29 sub tverb_pres_p49 noun_p118 ob .
+noun_p60 prep3 noun_s29 sub tverb_pres_p49 noun_p118 ob .
+noun_p60 prep3 noun_s29 sub tverb_pres_s49 noun_p118 ob .
+noun_s161 prep4 noun_p154 sub tverb_pres_s29 noun_p82 ob .
+noun_s161 prep4 noun_p154 sub tverb_pres_p29 noun_p82 ob .
+noun_p161 prep4 noun_s154 sub tverb_pres_p29 noun_p82 ob .
+noun_p161 prep4 noun_s154 sub tverb_pres_s29 noun_p82 ob .
+noun_s161 prep2 noun_p36 sub tverb_pres_s24 noun_p26 ob .
+noun_s161 prep2 noun_p36 sub tverb_pres_p24 noun_p26 ob .
+noun_p161 prep2 noun_s36 sub tverb_pres_p24 noun_p26 ob .
+noun_p161 prep2 noun_s36 sub tverb_pres_s24 noun_p26 ob .
+noun_s112 prep4 noun_p28 sub tverb_pres_s18 noun_s118 ob .
+noun_s112 prep4 noun_p28 sub tverb_pres_p18 noun_s118 ob .
+noun_p112 prep4 noun_s28 sub tverb_pres_p18 noun_s118 ob .
+noun_p112 prep4 noun_s28 sub tverb_pres_s18 noun_s118 ob .
+noun_s9 rel tverb_pres_s47 noun_s76 ob sub iverb_pres_s15 .
+noun_s9 rel tverb_pres_s47 noun_s76 ob sub iverb_pres_p15 .
+noun_p9 rel tverb_pres_p47 noun_p76 ob sub iverb_pres_p15 .
+noun_p9 rel tverb_pres_p47 noun_p76 ob sub iverb_pres_s15 .
+noun_s123 rel tverb_pres_s93 noun_s67 ob sub iverb_pres_s78 .
+noun_s123 rel tverb_pres_s93 noun_s67 ob sub iverb_pres_p78 .
+noun_p123 rel tverb_pres_p93 noun_p67 ob sub iverb_pres_p78 .
+noun_p123 rel tverb_pres_p93 noun_p67 ob sub iverb_pres_s78 .
+noun_s153 rel tverb_pres_s105 noun_s137 ob sub iverb_pres_s100 .
+noun_s153 rel tverb_pres_s105 noun_s137 ob sub iverb_pres_p100 .
+noun_p153 rel tverb_pres_p105 noun_p137 ob sub iverb_pres_p100 .
+noun_p153 rel tverb_pres_p105 noun_p137 ob sub iverb_pres_s100 .
+noun_s22 rel tverb_pres_s23 noun_s109 ob sub iverb_pres_s45 .
+noun_s22 rel tverb_pres_s23 noun_s109 ob sub iverb_pres_p45 .
+noun_p22 rel tverb_pres_p23 noun_p109 ob sub iverb_pres_p45 .
+noun_p22 rel tverb_pres_p23 noun_p109 ob sub iverb_pres_s45 .
+noun_s24 rel tverb_pres_s94 noun_s55 ob sub iverb_pres_s11 .
+noun_s24 rel tverb_pres_s94 noun_s55 ob sub iverb_pres_p11 .
+noun_p24 rel tverb_pres_p94 noun_p55 ob sub iverb_pres_p11 .
+noun_p24 rel tverb_pres_p94 noun_p55 ob sub iverb_pres_s11 .
+noun_s56 rel tverb_pres_s104 noun_s87 ob sub iverb_pres_s40 .
+noun_s56 rel tverb_pres_s104 noun_s87 ob sub iverb_pres_p40 .
+noun_p56 rel tverb_pres_p104 noun_p87 ob sub iverb_pres_p40 .
+noun_p56 rel tverb_pres_p104 noun_p87 ob sub iverb_pres_s40 .
+noun_s148 rel tverb_pres_s28 noun_s98 ob sub iverb_pres_s46 .
+noun_s148 rel tverb_pres_s28 noun_s98 ob sub iverb_pres_p46 .
+noun_p148 rel tverb_pres_p28 noun_p98 ob sub iverb_pres_p46 .
+noun_p148 rel tverb_pres_p28 noun_p98 ob sub iverb_pres_s46 .
+noun_s57 rel tverb_pres_s25 noun_s104 ob sub iverb_pres_s72 .
+noun_s57 rel tverb_pres_s25 noun_s104 ob sub iverb_pres_p72 .
+noun_p57 rel tverb_pres_p25 noun_p104 ob sub iverb_pres_p72 .
+noun_p57 rel tverb_pres_p25 noun_p104 ob sub iverb_pres_s72 .
+noun_s25 rel tverb_pres_s22 noun_s30 ob sub iverb_pres_s57 .
+noun_s25 rel tverb_pres_s22 noun_s30 ob sub iverb_pres_p57 .
+noun_p25 rel tverb_pres_p22 noun_p30 ob sub iverb_pres_p57 .
+noun_p25 rel tverb_pres_p22 noun_p30 ob sub iverb_pres_s57 .
+noun_s6 rel tverb_pres_s80 noun_s126 ob sub iverb_pres_s54 .
+noun_s6 rel tverb_pres_s80 noun_s126 ob sub iverb_pres_p54 .
+noun_p6 rel tverb_pres_p80 noun_p126 ob sub iverb_pres_p54 .
+noun_p6 rel tverb_pres_p80 noun_p126 ob sub iverb_pres_s54 .
+noun_s48 rel tverb_pres_s20 noun_s54 ob sub iverb_pres_s53 .
+noun_s48 rel tverb_pres_s20 noun_s54 ob sub iverb_pres_p53 .
+noun_p48 rel tverb_pres_p20 noun_p54 ob sub iverb_pres_p53 .
+noun_p48 rel tverb_pres_p20 noun_p54 ob sub iverb_pres_s53 .
+noun_s21 rel tverb_pres_s90 noun_s62 ob sub iverb_pres_s110 .
+noun_s21 rel tverb_pres_s90 noun_s62 ob sub iverb_pres_p110 .
+noun_p21 rel tverb_pres_p90 noun_p62 ob sub iverb_pres_p110 .
+noun_p21 rel tverb_pres_p90 noun_p62 ob sub iverb_pres_s110 .
+noun_s109 rel tverb_pres_s52 noun_s131 ob sub iverb_pres_s18 .
+noun_s109 rel tverb_pres_s52 noun_s131 ob sub iverb_pres_p18 .
+noun_p109 rel tverb_pres_p52 noun_p131 ob sub iverb_pres_p18 .
+noun_p109 rel tverb_pres_p52 noun_p131 ob sub iverb_pres_s18 .
+noun_s50 rel tverb_pres_s45 noun_s24 ob sub iverb_pres_s10 .
+noun_s50 rel tverb_pres_s45 noun_s24 ob sub iverb_pres_p10 .
+noun_p50 rel tverb_pres_p45 noun_p24 ob sub iverb_pres_p10 .
+noun_p50 rel tverb_pres_p45 noun_p24 ob sub iverb_pres_s10 .
+noun_s24 rel tverb_pres_s4 noun_s49 ob sub iverb_pres_s48 .
+noun_s24 rel tverb_pres_s4 noun_s49 ob sub iverb_pres_p48 .
+noun_p24 rel tverb_pres_p4 noun_p49 ob sub iverb_pres_p48 .
+noun_p24 rel tverb_pres_p4 noun_p49 ob sub iverb_pres_s48 .
+noun_s60 rel tverb_pres_s91 noun_s55 ob sub iverb_pres_s111 .
+noun_s60 rel tverb_pres_s91 noun_s55 ob sub iverb_pres_p111 .
+noun_p60 rel tverb_pres_p91 noun_p55 ob sub iverb_pres_p111 .
+noun_p60 rel tverb_pres_p91 noun_p55 ob sub iverb_pres_s111 .
+noun_s98 rel tverb_pres_s91 noun_s58 ob sub iverb_pres_s46 .
+noun_s98 rel tverb_pres_s91 noun_s58 ob sub iverb_pres_p46 .
+noun_p98 rel tverb_pres_p91 noun_p58 ob sub iverb_pres_p46 .
+noun_p98 rel tverb_pres_p91 noun_p58 ob sub iverb_pres_s46 .
+noun_s128 rel tverb_pres_s65 noun_s34 ob sub iverb_pres_s72 .
+noun_s128 rel tverb_pres_s65 noun_s34 ob sub iverb_pres_p72 .
+noun_p128 rel tverb_pres_p65 noun_p34 ob sub iverb_pres_p72 .
+noun_p128 rel tverb_pres_p65 noun_p34 ob sub iverb_pres_s72 .
+noun_s42 rel tverb_pres_s97 noun_s113 ob sub iverb_pres_s100 .
+noun_s42 rel tverb_pres_s97 noun_s113 ob sub iverb_pres_p100 .
+noun_p42 rel tverb_pres_p97 noun_p113 ob sub iverb_pres_p100 .
+noun_p42 rel tverb_pres_p97 noun_p113 ob sub iverb_pres_s100 .
+noun_s154 rel tverb_pres_s66 noun_s47 ob sub iverb_pres_s96 .
+noun_s154 rel tverb_pres_s66 noun_s47 ob sub iverb_pres_p96 .
+noun_p154 rel tverb_pres_p66 noun_p47 ob sub iverb_pres_p96 .
+noun_p154 rel tverb_pres_p66 noun_p47 ob sub iverb_pres_s96 .
+noun_s3 rel tverb_pres_s54 noun_s34 ob sub iverb_pres_s87 .
+noun_s3 rel tverb_pres_s54 noun_s34 ob sub iverb_pres_p87 .
+noun_p3 rel tverb_pres_p54 noun_p34 ob sub iverb_pres_p87 .
+noun_p3 rel tverb_pres_p54 noun_p34 ob sub iverb_pres_s87 .
+noun_s158 rel tverb_pres_s15 noun_s1 ob sub iverb_pres_s101 .
+noun_s158 rel tverb_pres_s15 noun_s1 ob sub iverb_pres_p101 .
+noun_p158 rel tverb_pres_p15 noun_p1 ob sub iverb_pres_p101 .
+noun_p158 rel tverb_pres_p15 noun_p1 ob sub iverb_pres_s101 .
+noun_s54 rel tverb_pres_s80 noun_s17 ob sub iverb_pres_s95 .
+noun_s54 rel tverb_pres_s80 noun_s17 ob sub iverb_pres_p95 .
+noun_p54 rel tverb_pres_p80 noun_p17 ob sub iverb_pres_p95 .
+noun_p54 rel tverb_pres_p80 noun_p17 ob sub iverb_pres_s95 .
+noun_s20 rel tverb_pres_s41 noun_s44 ob sub iverb_pres_s54 .
+noun_s20 rel tverb_pres_s41 noun_s44 ob sub iverb_pres_p54 .
+noun_p20 rel tverb_pres_p41 noun_p44 ob sub iverb_pres_p54 .
+noun_p20 rel tverb_pres_p41 noun_p44 ob sub iverb_pres_s54 .
+noun_s19 rel tverb_pres_s56 noun_s57 ob sub iverb_pres_s66 .
+noun_s19 rel tverb_pres_s56 noun_s57 ob sub iverb_pres_p66 .
+noun_p19 rel tverb_pres_p56 noun_p57 ob sub iverb_pres_p66 .
+noun_p19 rel tverb_pres_p56 noun_p57 ob sub iverb_pres_s66 .
+noun_s71 rel tverb_pres_s92 noun_s147 ob sub iverb_pres_s102 .
+noun_s71 rel tverb_pres_s92 noun_s147 ob sub iverb_pres_p102 .
+noun_p71 rel tverb_pres_p92 noun_p147 ob sub iverb_pres_p102 .
+noun_p71 rel tverb_pres_p92 noun_p147 ob sub iverb_pres_s102 .
+noun_s22 rel tverb_pres_s20 noun_s23 ob sub iverb_pres_s95 .
+noun_s22 rel tverb_pres_s20 noun_s23 ob sub iverb_pres_p95 .
+noun_p22 rel tverb_pres_p20 noun_p23 ob sub iverb_pres_p95 .
+noun_p22 rel tverb_pres_p20 noun_p23 ob sub iverb_pres_s95 .
+noun_s146 rel tverb_pres_s72 noun_s150 ob sub iverb_pres_s28 .
+noun_s146 rel tverb_pres_s72 noun_s150 ob sub iverb_pres_p28 .
+noun_p146 rel tverb_pres_p72 noun_p150 ob sub iverb_pres_p28 .
+noun_p146 rel tverb_pres_p72 noun_p150 ob sub iverb_pres_s28 .
+noun_s39 rel tverb_pres_s13 noun_s118 ob sub iverb_pres_s70 .
+noun_s39 rel tverb_pres_s13 noun_s118 ob sub iverb_pres_p70 .
+noun_p39 rel tverb_pres_p13 noun_p118 ob sub iverb_pres_p70 .
+noun_p39 rel tverb_pres_p13 noun_p118 ob sub iverb_pres_s70 .
+noun_s93 rel tverb_pres_s10 noun_s126 ob sub iverb_pres_s50 .
+noun_s93 rel tverb_pres_s10 noun_s126 ob sub iverb_pres_p50 .
+noun_p93 rel tverb_pres_p10 noun_p126 ob sub iverb_pres_p50 .
+noun_p93 rel tverb_pres_p10 noun_p126 ob sub iverb_pres_s50 .
+noun_s101 rel tverb_pres_s39 noun_s141 ob sub iverb_pres_s91 .
+noun_s101 rel tverb_pres_s39 noun_s141 ob sub iverb_pres_p91 .
+noun_p101 rel tverb_pres_p39 noun_p141 ob sub iverb_pres_p91 .
+noun_p101 rel tverb_pres_p39 noun_p141 ob sub iverb_pres_s91 .
+noun_s95 rel tverb_pres_s82 noun_s95 ob sub iverb_pres_s37 .
+noun_s95 rel tverb_pres_s82 noun_s95 ob sub iverb_pres_p37 .
+noun_p95 rel tverb_pres_p82 noun_p95 ob sub iverb_pres_p37 .
+noun_p95 rel tverb_pres_p82 noun_p95 ob sub iverb_pres_s37 .
+noun_s40 rel tverb_pres_s61 noun_s31 ob sub iverb_pres_s96 .
+noun_s40 rel tverb_pres_s61 noun_s31 ob sub iverb_pres_p96 .
+noun_p40 rel tverb_pres_p61 noun_p31 ob sub iverb_pres_p96 .
+noun_p40 rel tverb_pres_p61 noun_p31 ob sub iverb_pres_s96 .
+noun_s139 rel tverb_pres_s92 noun_s32 ob sub iverb_pres_s98 .
+noun_s139 rel tverb_pres_s92 noun_s32 ob sub iverb_pres_p98 .
+noun_p139 rel tverb_pres_p92 noun_p32 ob sub iverb_pres_p98 .
+noun_p139 rel tverb_pres_p92 noun_p32 ob sub iverb_pres_s98 .
+noun_s48 rel tverb_pres_s39 noun_s76 ob sub iverb_pres_s27 .
+noun_s48 rel tverb_pres_s39 noun_s76 ob sub iverb_pres_p27 .
+noun_p48 rel tverb_pres_p39 noun_p76 ob sub iverb_pres_p27 .
+noun_p48 rel tverb_pres_p39 noun_p76 ob sub iverb_pres_s27 .
+noun_s125 rel tverb_pres_s98 noun_s50 ob sub iverb_pres_s68 .
+noun_s125 rel tverb_pres_s98 noun_s50 ob sub iverb_pres_p68 .
+noun_p125 rel tverb_pres_p98 noun_p50 ob sub iverb_pres_p68 .
+noun_p125 rel tverb_pres_p98 noun_p50 ob sub iverb_pres_s68 .
+noun_s128 rel tverb_pres_s13 noun_s157 ob sub iverb_pres_s106 .
+noun_s128 rel tverb_pres_s13 noun_s157 ob sub iverb_pres_p106 .
+noun_p128 rel tverb_pres_p13 noun_p157 ob sub iverb_pres_p106 .
+noun_p128 rel tverb_pres_p13 noun_p157 ob sub iverb_pres_s106 .
+noun_s63 rel tverb_pres_s98 noun_s154 ob sub iverb_pres_s8 .
+noun_s63 rel tverb_pres_s98 noun_s154 ob sub iverb_pres_p8 .
+noun_p63 rel tverb_pres_p98 noun_p154 ob sub iverb_pres_p8 .
+noun_p63 rel tverb_pres_p98 noun_p154 ob sub iverb_pres_s8 .
+noun_s22 rel tverb_pres_s62 noun_s36 ob sub iverb_pres_s80 .
+noun_s22 rel tverb_pres_s62 noun_s36 ob sub iverb_pres_p80 .
+noun_p22 rel tverb_pres_p62 noun_p36 ob sub iverb_pres_p80 .
+noun_p22 rel tverb_pres_p62 noun_p36 ob sub iverb_pres_s80 .
+noun_s123 rel tverb_pres_s70 noun_s124 ob sub iverb_pres_s31 .
+noun_s123 rel tverb_pres_s70 noun_s124 ob sub iverb_pres_p31 .
+noun_p123 rel tverb_pres_p70 noun_p124 ob sub iverb_pres_p31 .
+noun_p123 rel tverb_pres_p70 noun_p124 ob sub iverb_pres_s31 .
+noun_s29 rel tverb_pres_s60 noun_s4 ob sub iverb_pres_s6 .
+noun_s29 rel tverb_pres_s60 noun_s4 ob sub iverb_pres_p6 .
+noun_p29 rel tverb_pres_p60 noun_p4 ob sub iverb_pres_p6 .
+noun_p29 rel tverb_pres_p60 noun_p4 ob sub iverb_pres_s6 .
+noun_s13 rel tverb_pres_s36 noun_s123 ob sub iverb_pres_s46 .
+noun_s13 rel tverb_pres_s36 noun_s123 ob sub iverb_pres_p46 .
+noun_p13 rel tverb_pres_p36 noun_p123 ob sub iverb_pres_p46 .
+noun_p13 rel tverb_pres_p36 noun_p123 ob sub iverb_pres_s46 .
+noun_s146 rel tverb_pres_s84 noun_s69 ob sub iverb_pres_s4 .
+noun_s146 rel tverb_pres_s84 noun_s69 ob sub iverb_pres_p4 .
+noun_p146 rel tverb_pres_p84 noun_p69 ob sub iverb_pres_p4 .
+noun_p146 rel tverb_pres_p84 noun_p69 ob sub iverb_pres_s4 .
+noun_s37 rel tverb_pres_s91 noun_s48 ob sub iverb_pres_s38 .
+noun_s37 rel tverb_pres_s91 noun_s48 ob sub iverb_pres_p38 .
+noun_p37 rel tverb_pres_p91 noun_p48 ob sub iverb_pres_p38 .
+noun_p37 rel tverb_pres_p91 noun_p48 ob sub iverb_pres_s38 .
+noun_s50 rel tverb_pres_s3 noun_s84 ob sub iverb_pres_s68 .
+noun_s50 rel tverb_pres_s3 noun_s84 ob sub iverb_pres_p68 .
+noun_p50 rel tverb_pres_p3 noun_p84 ob sub iverb_pres_p68 .
+noun_p50 rel tverb_pres_p3 noun_p84 ob sub iverb_pres_s68 .
+noun_s87 rel tverb_pres_s4 noun_s43 ob sub iverb_pres_s18 .
+noun_s87 rel tverb_pres_s4 noun_s43 ob sub iverb_pres_p18 .
+noun_p87 rel tverb_pres_p4 noun_p43 ob sub iverb_pres_p18 .
+noun_p87 rel tverb_pres_p4 noun_p43 ob sub iverb_pres_s18 .
+noun_s103 rel tverb_pres_s26 noun_s108 ob sub iverb_pres_s39 .
+noun_s103 rel tverb_pres_s26 noun_s108 ob sub iverb_pres_p39 .
+noun_p103 rel tverb_pres_p26 noun_p108 ob sub iverb_pres_p39 .
+noun_p103 rel tverb_pres_p26 noun_p108 ob sub iverb_pres_s39 .
+noun_s66 rel tverb_pres_s87 noun_s15 ob sub iverb_pres_s100 .
+noun_s66 rel tverb_pres_s87 noun_s15 ob sub iverb_pres_p100 .
+noun_p66 rel tverb_pres_p87 noun_p15 ob sub iverb_pres_p100 .
+noun_p66 rel tverb_pres_p87 noun_p15 ob sub iverb_pres_s100 .
+noun_s73 rel tverb_pres_s23 noun_s123 ob sub iverb_pres_s83 .
+noun_s73 rel tverb_pres_s23 noun_s123 ob sub iverb_pres_p83 .
+noun_p73 rel tverb_pres_p23 noun_p123 ob sub iverb_pres_p83 .
+noun_p73 rel tverb_pres_p23 noun_p123 ob sub iverb_pres_s83 .
+noun_s71 rel tverb_pres_s61 noun_s49 ob sub iverb_pres_s12 .
+noun_s71 rel tverb_pres_s61 noun_s49 ob sub iverb_pres_p12 .
+noun_p71 rel tverb_pres_p61 noun_p49 ob sub iverb_pres_p12 .
+noun_p71 rel tverb_pres_p61 noun_p49 ob sub iverb_pres_s12 .
+noun_s93 rel tverb_pres_s39 noun_p62 ob sub iverb_pres_s107 .
+noun_s93 rel tverb_pres_s39 noun_p62 ob sub iverb_pres_p107 .
+noun_p93 rel tverb_pres_p39 noun_s62 ob sub iverb_pres_p107 .
+noun_p93 rel tverb_pres_p39 noun_s62 ob sub iverb_pres_s107 .
+noun_s23 rel tverb_pres_s89 noun_p154 ob sub iverb_pres_s64 .
+noun_s23 rel tverb_pres_s89 noun_p154 ob sub iverb_pres_p64 .
+noun_p23 rel tverb_pres_p89 noun_s154 ob sub iverb_pres_p64 .
+noun_p23 rel tverb_pres_p89 noun_s154 ob sub iverb_pres_s64 .
+noun_s48 rel tverb_pres_s34 noun_p155 ob sub iverb_pres_s70 .
+noun_s48 rel tverb_pres_s34 noun_p155 ob sub iverb_pres_p70 .
+noun_p48 rel tverb_pres_p34 noun_s155 ob sub iverb_pres_p70 .
+noun_p48 rel tverb_pres_p34 noun_s155 ob sub iverb_pres_s70 .
+noun_s134 rel tverb_pres_s74 noun_p44 ob sub iverb_pres_s8 .
+noun_s134 rel tverb_pres_s74 noun_p44 ob sub iverb_pres_p8 .
+noun_p134 rel tverb_pres_p74 noun_s44 ob sub iverb_pres_p8 .
+noun_p134 rel tverb_pres_p74 noun_s44 ob sub iverb_pres_s8 .
+noun_s138 rel tverb_pres_s19 noun_p41 ob sub iverb_pres_s89 .
+noun_s138 rel tverb_pres_s19 noun_p41 ob sub iverb_pres_p89 .
+noun_p138 rel tverb_pres_p19 noun_s41 ob sub iverb_pres_p89 .
+noun_p138 rel tverb_pres_p19 noun_s41 ob sub iverb_pres_s89 .
+noun_s126 rel tverb_pres_s5 noun_p13 ob sub iverb_pres_s90 .
+noun_s126 rel tverb_pres_s5 noun_p13 ob sub iverb_pres_p90 .
+noun_p126 rel tverb_pres_p5 noun_s13 ob sub iverb_pres_p90 .
+noun_p126 rel tverb_pres_p5 noun_s13 ob sub iverb_pres_s90 .
+noun_s112 rel tverb_pres_s5 noun_p29 ob sub iverb_pres_s19 .
+noun_s112 rel tverb_pres_s5 noun_p29 ob sub iverb_pres_p19 .
+noun_p112 rel tverb_pres_p5 noun_s29 ob sub iverb_pres_p19 .
+noun_p112 rel tverb_pres_p5 noun_s29 ob sub iverb_pres_s19 .
+noun_s156 rel tverb_pres_s52 noun_p15 ob sub iverb_pres_s40 .
+noun_s156 rel tverb_pres_s52 noun_p15 ob sub iverb_pres_p40 .
+noun_p156 rel tverb_pres_p52 noun_s15 ob sub iverb_pres_p40 .
+noun_p156 rel tverb_pres_p52 noun_s15 ob sub iverb_pres_s40 .
+noun_s26 rel tverb_pres_s56 noun_p27 ob sub iverb_pres_s53 .
+noun_s26 rel tverb_pres_s56 noun_p27 ob sub iverb_pres_p53 .
+noun_p26 rel tverb_pres_p56 noun_s27 ob sub iverb_pres_p53 .
+noun_p26 rel tverb_pres_p56 noun_s27 ob sub iverb_pres_s53 .
+noun_s31 rel tverb_pres_s6 noun_p52 ob sub iverb_pres_s91 .
+noun_s31 rel tverb_pres_s6 noun_p52 ob sub iverb_pres_p91 .
+noun_p31 rel tverb_pres_p6 noun_s52 ob sub iverb_pres_p91 .
+noun_p31 rel tverb_pres_p6 noun_s52 ob sub iverb_pres_s91 .
+noun_s37 rel tverb_pres_s67 noun_p66 ob sub iverb_pres_s31 .
+noun_s37 rel tverb_pres_s67 noun_p66 ob sub iverb_pres_p31 .
+noun_p37 rel tverb_pres_p67 noun_s66 ob sub iverb_pres_p31 .
+noun_p37 rel tverb_pres_p67 noun_s66 ob sub iverb_pres_s31 .
+noun_s88 rel tverb_pres_s77 noun_p109 ob sub iverb_pres_s59 .
+noun_s88 rel tverb_pres_s77 noun_p109 ob sub iverb_pres_p59 .
+noun_p88 rel tverb_pres_p77 noun_s109 ob sub iverb_pres_p59 .
+noun_p88 rel tverb_pres_p77 noun_s109 ob sub iverb_pres_s59 .
+noun_s151 rel tverb_pres_s6 noun_p49 ob sub iverb_pres_s71 .
+noun_s151 rel tverb_pres_s6 noun_p49 ob sub iverb_pres_p71 .
+noun_p151 rel tverb_pres_p6 noun_s49 ob sub iverb_pres_p71 .
+noun_p151 rel tverb_pres_p6 noun_s49 ob sub iverb_pres_s71 .
+noun_s88 rel tverb_pres_s31 noun_p26 ob sub iverb_pres_s47 .
+noun_s88 rel tverb_pres_s31 noun_p26 ob sub iverb_pres_p47 .
+noun_p88 rel tverb_pres_p31 noun_s26 ob sub iverb_pres_p47 .
+noun_p88 rel tverb_pres_p31 noun_s26 ob sub iverb_pres_s47 .
+noun_s138 rel tverb_pres_s68 noun_p120 ob sub iverb_pres_s49 .
+noun_s138 rel tverb_pres_s68 noun_p120 ob sub iverb_pres_p49 .
+noun_p138 rel tverb_pres_p68 noun_s120 ob sub iverb_pres_p49 .
+noun_p138 rel tverb_pres_p68 noun_s120 ob sub iverb_pres_s49 .
+noun_s142 rel tverb_pres_s28 noun_p52 ob sub iverb_pres_s36 .
+noun_s142 rel tverb_pres_s28 noun_p52 ob sub iverb_pres_p36 .
+noun_p142 rel tverb_pres_p28 noun_s52 ob sub iverb_pres_p36 .
+noun_p142 rel tverb_pres_p28 noun_s52 ob sub iverb_pres_s36 .
+noun_s48 rel tverb_pres_s59 noun_p17 ob sub iverb_pres_s32 .
+noun_s48 rel tverb_pres_s59 noun_p17 ob sub iverb_pres_p32 .
+noun_p48 rel tverb_pres_p59 noun_s17 ob sub iverb_pres_p32 .
+noun_p48 rel tverb_pres_p59 noun_s17 ob sub iverb_pres_s32 .
+noun_s88 rel tverb_pres_s57 noun_p70 ob sub iverb_pres_s45 .
+noun_s88 rel tverb_pres_s57 noun_p70 ob sub iverb_pres_p45 .
+noun_p88 rel tverb_pres_p57 noun_s70 ob sub iverb_pres_p45 .
+noun_p88 rel tverb_pres_p57 noun_s70 ob sub iverb_pres_s45 .
+noun_s19 rel tverb_pres_s33 noun_p56 ob sub iverb_pres_s42 .
+noun_s19 rel tverb_pres_s33 noun_p56 ob sub iverb_pres_p42 .
+noun_p19 rel tverb_pres_p33 noun_s56 ob sub iverb_pres_p42 .
+noun_p19 rel tverb_pres_p33 noun_s56 ob sub iverb_pres_s42 .
+noun_s131 rel tverb_pres_s48 noun_p62 ob sub iverb_pres_s30 .
+noun_s131 rel tverb_pres_s48 noun_p62 ob sub iverb_pres_p30 .
+noun_p131 rel tverb_pres_p48 noun_s62 ob sub iverb_pres_p30 .
+noun_p131 rel tverb_pres_p48 noun_s62 ob sub iverb_pres_s30 .
+noun_s139 rel tverb_pres_s57 noun_p56 ob sub iverb_pres_s31 .
+noun_s139 rel tverb_pres_s57 noun_p56 ob sub iverb_pres_p31 .
+noun_p139 rel tverb_pres_p57 noun_s56 ob sub iverb_pres_p31 .
+noun_p139 rel tverb_pres_p57 noun_s56 ob sub iverb_pres_s31 .
+noun_s39 rel tverb_pres_s18 noun_p37 ob sub iverb_pres_s37 .
+noun_s39 rel tverb_pres_s18 noun_p37 ob sub iverb_pres_p37 .
+noun_p39 rel tverb_pres_p18 noun_s37 ob sub iverb_pres_p37 .
+noun_p39 rel tverb_pres_p18 noun_s37 ob sub iverb_pres_s37 .
+noun_s28 rel tverb_pres_s84 noun_p20 ob sub iverb_pres_s40 .
+noun_s28 rel tverb_pres_s84 noun_p20 ob sub iverb_pres_p40 .
+noun_p28 rel tverb_pres_p84 noun_s20 ob sub iverb_pres_p40 .
+noun_p28 rel tverb_pres_p84 noun_s20 ob sub iverb_pres_s40 .
+noun_s146 rel tverb_pres_s83 noun_p87 ob sub iverb_pres_s83 .
+noun_s146 rel tverb_pres_s83 noun_p87 ob sub iverb_pres_p83 .
+noun_p146 rel tverb_pres_p83 noun_s87 ob sub iverb_pres_p83 .
+noun_p146 rel tverb_pres_p83 noun_s87 ob sub iverb_pres_s83 .
+noun_s147 rel tverb_pres_s31 noun_p162 ob sub iverb_pres_s11 .
+noun_s147 rel tverb_pres_s31 noun_p162 ob sub iverb_pres_p11 .
+noun_p147 rel tverb_pres_p31 noun_s162 ob sub iverb_pres_p11 .
+noun_p147 rel tverb_pres_p31 noun_s162 ob sub iverb_pres_s11 .
+noun_s143 rel tverb_pres_s91 noun_p119 ob sub iverb_pres_s109 .
+noun_s143 rel tverb_pres_s91 noun_p119 ob sub iverb_pres_p109 .
+noun_p143 rel tverb_pres_p91 noun_s119 ob sub iverb_pres_p109 .
+noun_p143 rel tverb_pres_p91 noun_s119 ob sub iverb_pres_s109 .
+noun_s139 rel tverb_pres_s11 noun_p10 ob sub iverb_pres_s26 .
+noun_s139 rel tverb_pres_s11 noun_p10 ob sub iverb_pres_p26 .
+noun_p139 rel tverb_pres_p11 noun_s10 ob sub iverb_pres_p26 .
+noun_p139 rel tverb_pres_p11 noun_s10 ob sub iverb_pres_s26 .
+noun_s154 rel tverb_pres_s19 noun_p107 ob sub iverb_pres_s66 .
+noun_s154 rel tverb_pres_s19 noun_p107 ob sub iverb_pres_p66 .
+noun_p154 rel tverb_pres_p19 noun_s107 ob sub iverb_pres_p66 .
+noun_p154 rel tverb_pres_p19 noun_s107 ob sub iverb_pres_s66 .
+noun_s27 rel tverb_pres_s3 noun_p127 ob sub iverb_pres_s68 .
+noun_s27 rel tverb_pres_s3 noun_p127 ob sub iverb_pres_p68 .
+noun_p27 rel tverb_pres_p3 noun_s127 ob sub iverb_pres_p68 .
+noun_p27 rel tverb_pres_p3 noun_s127 ob sub iverb_pres_s68 .
+noun_s1 rel tverb_pres_s106 noun_p85 ob sub iverb_pres_s10 .
+noun_s1 rel tverb_pres_s106 noun_p85 ob sub iverb_pres_p10 .
+noun_p1 rel tverb_pres_p106 noun_s85 ob sub iverb_pres_p10 .
+noun_p1 rel tverb_pres_p106 noun_s85 ob sub iverb_pres_s10 .
+noun_s36 rel tverb_pres_s18 noun_p27 ob sub iverb_pres_s36 .
+noun_s36 rel tverb_pres_s18 noun_p27 ob sub iverb_pres_p36 .
+noun_p36 rel tverb_pres_p18 noun_s27 ob sub iverb_pres_p36 .
+noun_p36 rel tverb_pres_p18 noun_s27 ob sub iverb_pres_s36 .
+noun_s46 rel tverb_pres_s48 noun_p146 ob sub iverb_pres_s66 .
+noun_s46 rel tverb_pres_s48 noun_p146 ob sub iverb_pres_p66 .
+noun_p46 rel tverb_pres_p48 noun_s146 ob sub iverb_pres_p66 .
+noun_p46 rel tverb_pres_p48 noun_s146 ob sub iverb_pres_s66 .
+noun_s138 rel tverb_pres_s87 noun_p136 ob sub iverb_pres_s103 .
+noun_s138 rel tverb_pres_s87 noun_p136 ob sub iverb_pres_p103 .
+noun_p138 rel tverb_pres_p87 noun_s136 ob sub iverb_pres_p103 .
+noun_p138 rel tverb_pres_p87 noun_s136 ob sub iverb_pres_s103 .
+noun_s95 rel tverb_pres_s88 noun_p144 ob sub iverb_pres_s101 .
+noun_s95 rel tverb_pres_s88 noun_p144 ob sub iverb_pres_p101 .
+noun_p95 rel tverb_pres_p88 noun_s144 ob sub iverb_pres_p101 .
+noun_p95 rel tverb_pres_p88 noun_s144 ob sub iverb_pres_s101 .
+noun_s113 rel tverb_pres_s46 noun_p9 ob sub iverb_pres_s15 .
+noun_s113 rel tverb_pres_s46 noun_p9 ob sub iverb_pres_p15 .
+noun_p113 rel tverb_pres_p46 noun_s9 ob sub iverb_pres_p15 .
+noun_p113 rel tverb_pres_p46 noun_s9 ob sub iverb_pres_s15 .
+noun_s56 rel tverb_pres_s77 noun_p79 ob sub iverb_pres_s62 .
+noun_s56 rel tverb_pres_s77 noun_p79 ob sub iverb_pres_p62 .
+noun_p56 rel tverb_pres_p77 noun_s79 ob sub iverb_pres_p62 .
+noun_p56 rel tverb_pres_p77 noun_s79 ob sub iverb_pres_s62 .
+noun_s19 rel tverb_pres_s79 noun_p145 ob sub iverb_pres_s110 .
+noun_s19 rel tverb_pres_s79 noun_p145 ob sub iverb_pres_p110 .
+noun_p19 rel tverb_pres_p79 noun_s145 ob sub iverb_pres_p110 .
+noun_p19 rel tverb_pres_p79 noun_s145 ob sub iverb_pres_s110 .
+noun_s83 rel tverb_pres_s68 noun_p117 ob sub iverb_pres_s20 .
+noun_s83 rel tverb_pres_s68 noun_p117 ob sub iverb_pres_p20 .
+noun_p83 rel tverb_pres_p68 noun_s117 ob sub iverb_pres_p20 .
+noun_p83 rel tverb_pres_p68 noun_s117 ob sub iverb_pres_s20 .
+noun_s14 rel tverb_pres_s30 noun_p154 ob sub iverb_pres_s15 .
+noun_s14 rel tverb_pres_s30 noun_p154 ob sub iverb_pres_p15 .
+noun_p14 rel tverb_pres_p30 noun_s154 ob sub iverb_pres_p15 .
+noun_p14 rel tverb_pres_p30 noun_s154 ob sub iverb_pres_s15 .
+noun_s162 rel tverb_pres_s81 noun_p138 ob sub iverb_pres_s41 .
+noun_s162 rel tverb_pres_s81 noun_p138 ob sub iverb_pres_p41 .
+noun_p162 rel tverb_pres_p81 noun_s138 ob sub iverb_pres_p41 .
+noun_p162 rel tverb_pres_p81 noun_s138 ob sub iverb_pres_s41 .
+noun_s139 rel tverb_pres_s11 noun_p23 ob sub iverb_pres_s66 .
+noun_s139 rel tverb_pres_s11 noun_p23 ob sub iverb_pres_p66 .
+noun_p139 rel tverb_pres_p11 noun_s23 ob sub iverb_pres_p66 .
+noun_p139 rel tverb_pres_p11 noun_s23 ob sub iverb_pres_s66 .
+noun_s92 rel tverb_pres_s19 noun_p58 ob sub iverb_pres_s110 .
+noun_s92 rel tverb_pres_s19 noun_p58 ob sub iverb_pres_p110 .
+noun_p92 rel tverb_pres_p19 noun_s58 ob sub iverb_pres_p110 .
+noun_p92 rel tverb_pres_p19 noun_s58 ob sub iverb_pres_s110 .
+noun_s40 rel tverb_pres_s56 noun_p75 ob sub iverb_pres_s110 .
+noun_s40 rel tverb_pres_s56 noun_p75 ob sub iverb_pres_p110 .
+noun_p40 rel tverb_pres_p56 noun_s75 ob sub iverb_pres_p110 .
+noun_p40 rel tverb_pres_p56 noun_s75 ob sub iverb_pres_s110 .
+noun_s101 rel tverb_pres_s50 noun_p41 ob sub iverb_pres_s69 .
+noun_s101 rel tverb_pres_s50 noun_p41 ob sub iverb_pres_p69 .
+noun_p101 rel tverb_pres_p50 noun_s41 ob sub iverb_pres_p69 .
+noun_p101 rel tverb_pres_p50 noun_s41 ob sub iverb_pres_s69 .
+noun_s22 rel tverb_pres_s76 noun_p132 ob sub iverb_pres_s3 .
+noun_s22 rel tverb_pres_s76 noun_p132 ob sub iverb_pres_p3 .
+noun_p22 rel tverb_pres_p76 noun_s132 ob sub iverb_pres_p3 .
+noun_p22 rel tverb_pres_p76 noun_s132 ob sub iverb_pres_s3 .
+noun_s41 rel tverb_pres_s17 noun_p55 ob sub iverb_pres_s74 .
+noun_s41 rel tverb_pres_s17 noun_p55 ob sub iverb_pres_p74 .
+noun_p41 rel tverb_pres_p17 noun_s55 ob sub iverb_pres_p74 .
+noun_p41 rel tverb_pres_p17 noun_s55 ob sub iverb_pres_s74 .
+noun_s145 rel tverb_pres_s24 noun_p151 ob sub iverb_pres_s103 .
+noun_s145 rel tverb_pres_s24 noun_p151 ob sub iverb_pres_p103 .
+noun_p145 rel tverb_pres_p24 noun_s151 ob sub iverb_pres_p103 .
+noun_p145 rel tverb_pres_p24 noun_s151 ob sub iverb_pres_s103 .
+noun_s47 rel tverb_pres_s79 noun_p94 ob sub iverb_pres_s47 .
+noun_s47 rel tverb_pres_s79 noun_p94 ob sub iverb_pres_p47 .
+noun_p47 rel tverb_pres_p79 noun_s94 ob sub iverb_pres_p47 .
+noun_p47 rel tverb_pres_p79 noun_s94 ob sub iverb_pres_s47 .
+noun_s18 rel tverb_pres_s63 noun_p31 ob sub iverb_pres_s89 .
+noun_s18 rel tverb_pres_s63 noun_p31 ob sub iverb_pres_p89 .
+noun_p18 rel tverb_pres_p63 noun_s31 ob sub iverb_pres_p89 .
+noun_p18 rel tverb_pres_p63 noun_s31 ob sub iverb_pres_s89 .
+noun_s33 rel tverb_pres_s103 noun_p17 ob sub iverb_pres_s78 .
+noun_s33 rel tverb_pres_s103 noun_p17 ob sub iverb_pres_p78 .
+noun_p33 rel tverb_pres_p103 noun_s17 ob sub iverb_pres_p78 .
+noun_p33 rel tverb_pres_p103 noun_s17 ob sub iverb_pres_s78 .
+noun_s97 rel tverb_pres_s51 noun_s86 ob sub tverb_pres_s98 noun_p38 ob .
+noun_s97 rel tverb_pres_s51 noun_s86 ob sub tverb_pres_p98 noun_p38 ob .
+noun_p97 rel tverb_pres_p51 noun_p86 ob sub tverb_pres_p98 noun_p38 ob .
+noun_p97 rel tverb_pres_p51 noun_p86 ob sub tverb_pres_s98 noun_p38 ob .
+noun_s103 rel tverb_pres_s95 noun_s131 ob sub tverb_pres_s65 noun_s37 ob .
+noun_s103 rel tverb_pres_s95 noun_s131 ob sub tverb_pres_p65 noun_s37 ob .
+noun_p103 rel tverb_pres_p95 noun_p131 ob sub tverb_pres_p65 noun_s37 ob .
+noun_p103 rel tverb_pres_p95 noun_p131 ob sub tverb_pres_s65 noun_s37 ob .
+noun_s126 rel tverb_pres_s15 noun_s157 ob sub tverb_pres_s6 noun_p59 ob .
+noun_s126 rel tverb_pres_s15 noun_s157 ob sub tverb_pres_p6 noun_p59 ob .
+noun_p126 rel tverb_pres_p15 noun_p157 ob sub tverb_pres_p6 noun_p59 ob .
+noun_p126 rel tverb_pres_p15 noun_p157 ob sub tverb_pres_s6 noun_p59 ob .
+noun_s32 rel tverb_pres_s92 noun_s128 ob sub tverb_pres_s79 noun_p63 ob .
+noun_s32 rel tverb_pres_s92 noun_s128 ob sub tverb_pres_p79 noun_p63 ob .
+noun_p32 rel tverb_pres_p92 noun_p128 ob sub tverb_pres_p79 noun_p63 ob .
+noun_p32 rel tverb_pres_p92 noun_p128 ob sub tverb_pres_s79 noun_p63 ob .
+noun_s162 rel tverb_pres_s26 noun_s34 ob sub tverb_pres_s75 noun_s107 ob .
+noun_s162 rel tverb_pres_s26 noun_s34 ob sub tverb_pres_p75 noun_s107 ob .
+noun_p162 rel tverb_pres_p26 noun_p34 ob sub tverb_pres_p75 noun_s107 ob .
+noun_p162 rel tverb_pres_p26 noun_p34 ob sub tverb_pres_s75 noun_s107 ob .
+noun_s47 rel tverb_pres_s8 noun_s32 ob sub tverb_pres_s62 noun_s149 ob .
+noun_s47 rel tverb_pres_s8 noun_s32 ob sub tverb_pres_p62 noun_s149 ob .
+noun_p47 rel tverb_pres_p8 noun_p32 ob sub tverb_pres_p62 noun_s149 ob .
+noun_p47 rel tverb_pres_p8 noun_p32 ob sub tverb_pres_s62 noun_s149 ob .
+noun_s75 rel tverb_pres_s41 noun_s40 ob sub tverb_pres_s53 noun_p130 ob .
+noun_s75 rel tverb_pres_s41 noun_s40 ob sub tverb_pres_p53 noun_p130 ob .
+noun_p75 rel tverb_pres_p41 noun_p40 ob sub tverb_pres_p53 noun_p130 ob .
+noun_p75 rel tverb_pres_p41 noun_p40 ob sub tverb_pres_s53 noun_p130 ob .
+noun_s16 rel tverb_pres_s26 noun_s151 ob sub tverb_pres_s62 noun_p124 ob .
+noun_s16 rel tverb_pres_s26 noun_s151 ob sub tverb_pres_p62 noun_p124 ob .
+noun_p16 rel tverb_pres_p26 noun_p151 ob sub tverb_pres_p62 noun_p124 ob .
+noun_p16 rel tverb_pres_p26 noun_p151 ob sub tverb_pres_s62 noun_p124 ob .
+noun_s140 rel tverb_pres_s13 noun_s108 ob sub tverb_pres_s113 noun_p88 ob .
+noun_s140 rel tverb_pres_s13 noun_s108 ob sub tverb_pres_p113 noun_p88 ob .
+noun_p140 rel tverb_pres_p13 noun_p108 ob sub tverb_pres_p113 noun_p88 ob .
+noun_p140 rel tverb_pres_p13 noun_p108 ob sub tverb_pres_s113 noun_p88 ob .
+noun_s31 rel tverb_pres_s23 noun_s148 ob sub tverb_pres_s22 noun_p40 ob .
+noun_s31 rel tverb_pres_s23 noun_s148 ob sub tverb_pres_p22 noun_p40 ob .
+noun_p31 rel tverb_pres_p23 noun_p148 ob sub tverb_pres_p22 noun_p40 ob .
+noun_p31 rel tverb_pres_p23 noun_p148 ob sub tverb_pres_s22 noun_p40 ob .
+noun_s38 rel tverb_pres_s28 noun_s7 ob sub tverb_pres_s71 noun_s37 ob .
+noun_s38 rel tverb_pres_s28 noun_s7 ob sub tverb_pres_p71 noun_s37 ob .
+noun_p38 rel tverb_pres_p28 noun_p7 ob sub tverb_pres_p71 noun_s37 ob .
+noun_p38 rel tverb_pres_p28 noun_p7 ob sub tverb_pres_s71 noun_s37 ob .
+noun_s133 rel tverb_pres_s40 noun_s136 ob sub tverb_pres_s103 noun_p89 ob .
+noun_s133 rel tverb_pres_s40 noun_s136 ob sub tverb_pres_p103 noun_p89 ob .
+noun_p133 rel tverb_pres_p40 noun_p136 ob sub tverb_pres_p103 noun_p89 ob .
+noun_p133 rel tverb_pres_p40 noun_p136 ob sub tverb_pres_s103 noun_p89 ob .
+noun_s3 rel tverb_pres_s19 noun_s16 ob sub tverb_pres_s55 noun_s8 ob .
+noun_s3 rel tverb_pres_s19 noun_s16 ob sub tverb_pres_p55 noun_s8 ob .
+noun_p3 rel tverb_pres_p19 noun_p16 ob sub tverb_pres_p55 noun_s8 ob .
+noun_p3 rel tverb_pres_p19 noun_p16 ob sub tverb_pres_s55 noun_s8 ob .
+noun_s2 rel tverb_pres_s50 noun_s110 ob sub tverb_pres_s108 noun_s56 ob .
+noun_s2 rel tverb_pres_s50 noun_s110 ob sub tverb_pres_p108 noun_s56 ob .
+noun_p2 rel tverb_pres_p50 noun_p110 ob sub tverb_pres_p108 noun_s56 ob .
+noun_p2 rel tverb_pres_p50 noun_p110 ob sub tverb_pres_s108 noun_s56 ob .
+noun_s146 rel tverb_pres_s54 noun_s23 ob sub tverb_pres_s102 noun_p44 ob .
+noun_s146 rel tverb_pres_s54 noun_s23 ob sub tverb_pres_p102 noun_p44 ob .
+noun_p146 rel tverb_pres_p54 noun_p23 ob sub tverb_pres_p102 noun_p44 ob .
+noun_p146 rel tverb_pres_p54 noun_p23 ob sub tverb_pres_s102 noun_p44 ob .
+noun_s19 rel tverb_pres_s85 noun_s63 ob sub tverb_pres_s57 noun_p55 ob .
+noun_s19 rel tverb_pres_s85 noun_s63 ob sub tverb_pres_p57 noun_p55 ob .
+noun_p19 rel tverb_pres_p85 noun_p63 ob sub tverb_pres_p57 noun_p55 ob .
+noun_p19 rel tverb_pres_p85 noun_p63 ob sub tverb_pres_s57 noun_p55 ob .
+noun_s8 rel tverb_pres_s79 noun_s124 ob sub tverb_pres_s63 noun_p144 ob .
+noun_s8 rel tverb_pres_s79 noun_s124 ob sub tverb_pres_p63 noun_p144 ob .
+noun_p8 rel tverb_pres_p79 noun_p124 ob sub tverb_pres_p63 noun_p144 ob .
+noun_p8 rel tverb_pres_p79 noun_p124 ob sub tverb_pres_s63 noun_p144 ob .
+noun_s26 rel tverb_pres_s5 noun_s128 ob sub tverb_pres_s56 noun_p44 ob .
+noun_s26 rel tverb_pres_s5 noun_s128 ob sub tverb_pres_p56 noun_p44 ob .
+noun_p26 rel tverb_pres_p5 noun_p128 ob sub tverb_pres_p56 noun_p44 ob .
+noun_p26 rel tverb_pres_p5 noun_p128 ob sub tverb_pres_s56 noun_p44 ob .
+noun_s129 rel tverb_pres_s13 noun_s157 ob sub tverb_pres_s78 noun_s15 ob .
+noun_s129 rel tverb_pres_s13 noun_s157 ob sub tverb_pres_p78 noun_s15 ob .
+noun_p129 rel tverb_pres_p13 noun_p157 ob sub tverb_pres_p78 noun_s15 ob .
+noun_p129 rel tverb_pres_p13 noun_p157 ob sub tverb_pres_s78 noun_s15 ob .
+noun_s162 rel tverb_pres_s99 noun_s155 ob sub tverb_pres_s88 noun_s116 ob .
+noun_s162 rel tverb_pres_s99 noun_s155 ob sub tverb_pres_p88 noun_s116 ob .
+noun_p162 rel tverb_pres_p99 noun_p155 ob sub tverb_pres_p88 noun_s116 ob .
+noun_p162 rel tverb_pres_p99 noun_p155 ob sub tverb_pres_s88 noun_s116 ob .
+noun_s15 rel tverb_pres_s62 noun_s14 ob sub tverb_pres_s74 noun_p143 ob .
+noun_s15 rel tverb_pres_s62 noun_s14 ob sub tverb_pres_p74 noun_p143 ob .
+noun_p15 rel tverb_pres_p62 noun_p14 ob sub tverb_pres_p74 noun_p143 ob .
+noun_p15 rel tverb_pres_p62 noun_p14 ob sub tverb_pres_s74 noun_p143 ob .
+noun_s143 rel tverb_pres_s60 noun_s55 ob sub tverb_pres_s106 noun_p57 ob .
+noun_s143 rel tverb_pres_s60 noun_s55 ob sub tverb_pres_p106 noun_p57 ob .
+noun_p143 rel tverb_pres_p60 noun_p55 ob sub tverb_pres_p106 noun_p57 ob .
+noun_p143 rel tverb_pres_p60 noun_p55 ob sub tverb_pres_s106 noun_p57 ob .
+noun_s89 rel tverb_pres_s64 noun_s16 ob sub tverb_pres_s94 noun_p126 ob .
+noun_s89 rel tverb_pres_s64 noun_s16 ob sub tverb_pres_p94 noun_p126 ob .
+noun_p89 rel tverb_pres_p64 noun_p16 ob sub tverb_pres_p94 noun_p126 ob .
+noun_p89 rel tverb_pres_p64 noun_p16 ob sub tverb_pres_s94 noun_p126 ob .
+noun_s127 rel tverb_pres_s26 noun_s22 ob sub tverb_pres_s99 noun_s33 ob .
+noun_s127 rel tverb_pres_s26 noun_s22 ob sub tverb_pres_p99 noun_s33 ob .
+noun_p127 rel tverb_pres_p26 noun_p22 ob sub tverb_pres_p99 noun_s33 ob .
+noun_p127 rel tverb_pres_p26 noun_p22 ob sub tverb_pres_s99 noun_s33 ob .
+noun_s84 rel tverb_pres_s34 noun_s123 ob sub tverb_pres_s76 noun_p65 ob .
+noun_s84 rel tverb_pres_s34 noun_s123 ob sub tverb_pres_p76 noun_p65 ob .
+noun_p84 rel tverb_pres_p34 noun_p123 ob sub tverb_pres_p76 noun_p65 ob .
+noun_p84 rel tverb_pres_p34 noun_p123 ob sub tverb_pres_s76 noun_p65 ob .
+noun_s3 rel tverb_pres_s98 noun_s41 ob sub tverb_pres_s23 noun_p128 ob .
+noun_s3 rel tverb_pres_s98 noun_s41 ob sub tverb_pres_p23 noun_p128 ob .
+noun_p3 rel tverb_pres_p98 noun_p41 ob sub tverb_pres_p23 noun_p128 ob .
+noun_p3 rel tverb_pres_p98 noun_p41 ob sub tverb_pres_s23 noun_p128 ob .
+noun_s19 rel tverb_pres_s90 noun_s128 ob sub tverb_pres_s79 noun_p162 ob .
+noun_s19 rel tverb_pres_s90 noun_s128 ob sub tverb_pres_p79 noun_p162 ob .
+noun_p19 rel tverb_pres_p90 noun_p128 ob sub tverb_pres_p79 noun_p162 ob .
+noun_p19 rel tverb_pres_p90 noun_p128 ob sub tverb_pres_s79 noun_p162 ob .
+noun_s124 rel tverb_pres_s36 noun_s55 ob sub tverb_pres_s77 noun_p20 ob .
+noun_s124 rel tverb_pres_s36 noun_s55 ob sub tverb_pres_p77 noun_p20 ob .
+noun_p124 rel tverb_pres_p36 noun_p55 ob sub tverb_pres_p77 noun_p20 ob .
+noun_p124 rel tverb_pres_p36 noun_p55 ob sub tverb_pres_s77 noun_p20 ob .
+noun_s136 rel tverb_pres_s60 noun_s75 ob sub tverb_pres_s106 noun_p159 ob .
+noun_s136 rel tverb_pres_s60 noun_s75 ob sub tverb_pres_p106 noun_p159 ob .
+noun_p136 rel tverb_pres_p60 noun_p75 ob sub tverb_pres_p106 noun_p159 ob .
+noun_p136 rel tverb_pres_p60 noun_p75 ob sub tverb_pres_s106 noun_p159 ob .
+noun_s72 rel tverb_pres_s43 noun_s92 ob sub tverb_pres_s20 noun_s97 ob .
+noun_s72 rel tverb_pres_s43 noun_s92 ob sub tverb_pres_p20 noun_s97 ob .
+noun_p72 rel tverb_pres_p43 noun_p92 ob sub tverb_pres_p20 noun_s97 ob .
+noun_p72 rel tverb_pres_p43 noun_p92 ob sub tverb_pres_s20 noun_s97 ob .
+noun_s32 rel tverb_pres_s74 noun_s6 ob sub tverb_pres_s72 noun_s121 ob .
+noun_s32 rel tverb_pres_s74 noun_s6 ob sub tverb_pres_p72 noun_s121 ob .
+noun_p32 rel tverb_pres_p74 noun_p6 ob sub tverb_pres_p72 noun_s121 ob .
+noun_p32 rel tverb_pres_p74 noun_p6 ob sub tverb_pres_s72 noun_s121 ob .
+noun_s113 rel tverb_pres_s68 noun_s103 ob sub tverb_pres_s109 noun_s105 ob .
+noun_s113 rel tverb_pres_s68 noun_s103 ob sub tverb_pres_p109 noun_s105 ob .
+noun_p113 rel tverb_pres_p68 noun_p103 ob sub tverb_pres_p109 noun_s105 ob .
+noun_p113 rel tverb_pres_p68 noun_p103 ob sub tverb_pres_s109 noun_s105 ob .
+noun_s59 rel tverb_pres_s79 noun_s137 ob sub tverb_pres_s62 noun_s7 ob .
+noun_s59 rel tverb_pres_s79 noun_s137 ob sub tverb_pres_p62 noun_s7 ob .
+noun_p59 rel tverb_pres_p79 noun_p137 ob sub tverb_pres_p62 noun_s7 ob .
+noun_p59 rel tverb_pres_p79 noun_p137 ob sub tverb_pres_s62 noun_s7 ob .
+noun_s73 rel tverb_pres_s47 noun_s105 ob sub tverb_pres_s102 noun_s157 ob .
+noun_s73 rel tverb_pres_s47 noun_s105 ob sub tverb_pres_p102 noun_s157 ob .
+noun_p73 rel tverb_pres_p47 noun_p105 ob sub tverb_pres_p102 noun_s157 ob .
+noun_p73 rel tverb_pres_p47 noun_p105 ob sub tverb_pres_s102 noun_s157 ob .
+noun_s92 rel tverb_pres_s94 noun_s162 ob sub tverb_pres_s46 noun_s79 ob .
+noun_s92 rel tverb_pres_s94 noun_s162 ob sub tverb_pres_p46 noun_s79 ob .
+noun_p92 rel tverb_pres_p94 noun_p162 ob sub tverb_pres_p46 noun_s79 ob .
+noun_p92 rel tverb_pres_p94 noun_p162 ob sub tverb_pres_s46 noun_s79 ob .
+noun_s98 rel tverb_pres_s15 noun_s34 ob sub tverb_pres_s52 noun_s73 ob .
+noun_s98 rel tverb_pres_s15 noun_s34 ob sub tverb_pres_p52 noun_s73 ob .
+noun_p98 rel tverb_pres_p15 noun_p34 ob sub tverb_pres_p52 noun_s73 ob .
+noun_p98 rel tverb_pres_p15 noun_p34 ob sub tverb_pres_s52 noun_s73 ob .
+noun_s61 rel tverb_pres_s48 noun_s82 ob sub tverb_pres_s65 noun_s138 ob .
+noun_s61 rel tverb_pres_s48 noun_s82 ob sub tverb_pres_p65 noun_s138 ob .
+noun_p61 rel tverb_pres_p48 noun_p82 ob sub tverb_pres_p65 noun_s138 ob .
+noun_p61 rel tverb_pres_p48 noun_p82 ob sub tverb_pres_s65 noun_s138 ob .
+noun_s47 rel tverb_pres_s30 noun_s40 ob sub tverb_pres_s108 noun_p155 ob .
+noun_s47 rel tverb_pres_s30 noun_s40 ob sub tverb_pres_p108 noun_p155 ob .
+noun_p47 rel tverb_pres_p30 noun_p40 ob sub tverb_pres_p108 noun_p155 ob .
+noun_p47 rel tverb_pres_p30 noun_p40 ob sub tverb_pres_s108 noun_p155 ob .
+noun_s8 rel tverb_pres_s108 noun_s94 ob sub tverb_pres_s84 noun_p141 ob .
+noun_s8 rel tverb_pres_s108 noun_s94 ob sub tverb_pres_p84 noun_p141 ob .
+noun_p8 rel tverb_pres_p108 noun_p94 ob sub tverb_pres_p84 noun_p141 ob .
+noun_p8 rel tverb_pres_p108 noun_p94 ob sub tverb_pres_s84 noun_p141 ob .
+noun_s75 rel tverb_pres_s16 noun_s24 ob sub tverb_pres_s77 noun_p3 ob .
+noun_s75 rel tverb_pres_s16 noun_s24 ob sub tverb_pres_p77 noun_p3 ob .
+noun_p75 rel tverb_pres_p16 noun_p24 ob sub tverb_pres_p77 noun_p3 ob .
+noun_p75 rel tverb_pres_p16 noun_p24 ob sub tverb_pres_s77 noun_p3 ob .
+noun_s16 rel tverb_pres_s100 noun_s97 ob sub tverb_pres_s26 noun_s143 ob .
+noun_s16 rel tverb_pres_s100 noun_s97 ob sub tverb_pres_p26 noun_s143 ob .
+noun_p16 rel tverb_pres_p100 noun_p97 ob sub tverb_pres_p26 noun_s143 ob .
+noun_p16 rel tverb_pres_p100 noun_p97 ob sub tverb_pres_s26 noun_s143 ob .
+noun_s78 rel tverb_pres_s13 noun_s94 ob sub tverb_pres_s33 noun_s155 ob .
+noun_s78 rel tverb_pres_s13 noun_s94 ob sub tverb_pres_p33 noun_s155 ob .
+noun_p78 rel tverb_pres_p13 noun_p94 ob sub tverb_pres_p33 noun_s155 ob .
+noun_p78 rel tverb_pres_p13 noun_p94 ob sub tverb_pres_s33 noun_s155 ob .
+noun_s82 rel tverb_pres_s59 noun_s158 ob sub tverb_pres_s31 noun_p144 ob .
+noun_s82 rel tverb_pres_s59 noun_s158 ob sub tverb_pres_p31 noun_p144 ob .
+noun_p82 rel tverb_pres_p59 noun_p158 ob sub tverb_pres_p31 noun_p144 ob .
+noun_p82 rel tverb_pres_p59 noun_p158 ob sub tverb_pres_s31 noun_p144 ob .
+noun_s74 rel tverb_pres_s100 noun_s4 ob sub tverb_pres_s55 noun_s40 ob .
+noun_s74 rel tverb_pres_s100 noun_s4 ob sub tverb_pres_p55 noun_s40 ob .
+noun_p74 rel tverb_pres_p100 noun_p4 ob sub tverb_pres_p55 noun_s40 ob .
+noun_p74 rel tverb_pres_p100 noun_p4 ob sub tverb_pres_s55 noun_s40 ob .
+noun_s24 rel tverb_pres_s17 noun_s88 ob sub tverb_pres_s85 noun_s114 ob .
+noun_s24 rel tverb_pres_s17 noun_s88 ob sub tverb_pres_p85 noun_s114 ob .
+noun_p24 rel tverb_pres_p17 noun_p88 ob sub tverb_pres_p85 noun_s114 ob .
+noun_p24 rel tverb_pres_p17 noun_p88 ob sub tverb_pres_s85 noun_s114 ob .
+noun_s110 rel tverb_pres_s62 noun_s141 ob sub tverb_pres_s94 noun_p68 ob .
+noun_s110 rel tverb_pres_s62 noun_s141 ob sub tverb_pres_p94 noun_p68 ob .
+noun_p110 rel tverb_pres_p62 noun_p141 ob sub tverb_pres_p94 noun_p68 ob .
+noun_p110 rel tverb_pres_p62 noun_p141 ob sub tverb_pres_s94 noun_p68 ob .
+noun_s157 rel tverb_pres_s94 noun_s23 ob sub tverb_pres_s89 noun_s94 ob .
+noun_s157 rel tverb_pres_s94 noun_s23 ob sub tverb_pres_p89 noun_s94 ob .
+noun_p157 rel tverb_pres_p94 noun_p23 ob sub tverb_pres_p89 noun_s94 ob .
+noun_p157 rel tverb_pres_p94 noun_p23 ob sub tverb_pres_s89 noun_s94 ob .
+noun_s107 rel tverb_pres_s92 noun_s24 ob sub tverb_pres_s54 noun_p10 ob .
+noun_s107 rel tverb_pres_s92 noun_s24 ob sub tverb_pres_p54 noun_p10 ob .
+noun_p107 rel tverb_pres_p92 noun_p24 ob sub tverb_pres_p54 noun_p10 ob .
+noun_p107 rel tverb_pres_p92 noun_p24 ob sub tverb_pres_s54 noun_p10 ob .
+noun_s121 rel tverb_pres_s62 noun_s156 ob sub tverb_pres_s58 noun_p34 ob .
+noun_s121 rel tverb_pres_s62 noun_s156 ob sub tverb_pres_p58 noun_p34 ob .
+noun_p121 rel tverb_pres_p62 noun_p156 ob sub tverb_pres_p58 noun_p34 ob .
+noun_p121 rel tverb_pres_p62 noun_p156 ob sub tverb_pres_s58 noun_p34 ob .
+noun_s160 rel tverb_pres_s95 noun_s25 ob sub tverb_pres_s113 noun_p111 ob .
+noun_s160 rel tverb_pres_s95 noun_s25 ob sub tverb_pres_p113 noun_p111 ob .
+noun_p160 rel tverb_pres_p95 noun_p25 ob sub tverb_pres_p113 noun_p111 ob .
+noun_p160 rel tverb_pres_p95 noun_p25 ob sub tverb_pres_s113 noun_p111 ob .
+noun_s154 rel tverb_pres_s32 noun_p46 ob sub tverb_pres_s101 noun_p103 ob .
+noun_s154 rel tverb_pres_s32 noun_p46 ob sub tverb_pres_p101 noun_p103 ob .
+noun_p154 rel tverb_pres_p32 noun_s46 ob sub tverb_pres_p101 noun_p103 ob .
+noun_p154 rel tverb_pres_p32 noun_s46 ob sub tverb_pres_s101 noun_p103 ob .
+noun_s149 rel tverb_pres_s113 noun_p61 ob sub tverb_pres_s102 noun_p68 ob .
+noun_s149 rel tverb_pres_s113 noun_p61 ob sub tverb_pres_p102 noun_p68 ob .
+noun_p149 rel tverb_pres_p113 noun_s61 ob sub tverb_pres_p102 noun_p68 ob .
+noun_p149 rel tverb_pres_p113 noun_s61 ob sub tverb_pres_s102 noun_p68 ob .
+noun_s147 rel tverb_pres_s56 noun_p35 ob sub tverb_pres_s101 noun_s93 ob .
+noun_s147 rel tverb_pres_s56 noun_p35 ob sub tverb_pres_p101 noun_s93 ob .
+noun_p147 rel tverb_pres_p56 noun_s35 ob sub tverb_pres_p101 noun_s93 ob .
+noun_p147 rel tverb_pres_p56 noun_s35 ob sub tverb_pres_s101 noun_s93 ob .
+noun_s59 rel tverb_pres_s20 noun_p52 ob sub tverb_pres_s60 noun_s74 ob .
+noun_s59 rel tverb_pres_s20 noun_p52 ob sub tverb_pres_p60 noun_s74 ob .
+noun_p59 rel tverb_pres_p20 noun_s52 ob sub tverb_pres_p60 noun_s74 ob .
+noun_p59 rel tverb_pres_p20 noun_s52 ob sub tverb_pres_s60 noun_s74 ob .
+noun_s154 rel tverb_pres_s75 noun_p44 ob sub tverb_pres_s12 noun_p17 ob .
+noun_s154 rel tverb_pres_s75 noun_p44 ob sub tverb_pres_p12 noun_p17 ob .
+noun_p154 rel tverb_pres_p75 noun_s44 ob sub tverb_pres_p12 noun_p17 ob .
+noun_p154 rel tverb_pres_p75 noun_s44 ob sub tverb_pres_s12 noun_p17 ob .
+noun_s9 rel tverb_pres_s87 noun_p89 ob sub tverb_pres_s4 noun_s25 ob .
+noun_s9 rel tverb_pres_s87 noun_p89 ob sub tverb_pres_p4 noun_s25 ob .
+noun_p9 rel tverb_pres_p87 noun_s89 ob sub tverb_pres_p4 noun_s25 ob .
+noun_p9 rel tverb_pres_p87 noun_s89 ob sub tverb_pres_s4 noun_s25 ob .
+noun_s89 rel tverb_pres_s23 noun_p70 ob sub tverb_pres_s86 noun_p139 ob .
+noun_s89 rel tverb_pres_s23 noun_p70 ob sub tverb_pres_p86 noun_p139 ob .
+noun_p89 rel tverb_pres_p23 noun_s70 ob sub tverb_pres_p86 noun_p139 ob .
+noun_p89 rel tverb_pres_p23 noun_s70 ob sub tverb_pres_s86 noun_p139 ob .
+noun_s56 rel tverb_pres_s86 noun_p123 ob sub tverb_pres_s33 noun_s48 ob .
+noun_s56 rel tverb_pres_s86 noun_p123 ob sub tverb_pres_p33 noun_s48 ob .
+noun_p56 rel tverb_pres_p86 noun_s123 ob sub tverb_pres_p33 noun_s48 ob .
+noun_p56 rel tverb_pres_p86 noun_s123 ob sub tverb_pres_s33 noun_s48 ob .
+noun_s80 rel tverb_pres_s38 noun_p149 ob sub tverb_pres_s113 noun_p115 ob .
+noun_s80 rel tverb_pres_s38 noun_p149 ob sub tverb_pres_p113 noun_p115 ob .
+noun_p80 rel tverb_pres_p38 noun_s149 ob sub tverb_pres_p113 noun_p115 ob .
+noun_p80 rel tverb_pres_p38 noun_s149 ob sub tverb_pres_s113 noun_p115 ob .
+noun_s7 rel tverb_pres_s19 noun_p53 ob sub tverb_pres_s10 noun_s36 ob .
+noun_s7 rel tverb_pres_s19 noun_p53 ob sub tverb_pres_p10 noun_s36 ob .
+noun_p7 rel tverb_pres_p19 noun_s53 ob sub tverb_pres_p10 noun_s36 ob .
+noun_p7 rel tverb_pres_p19 noun_s53 ob sub tverb_pres_s10 noun_s36 ob .
+noun_s43 rel tverb_pres_s89 noun_p23 ob sub tverb_pres_s22 noun_p116 ob .
+noun_s43 rel tverb_pres_s89 noun_p23 ob sub tverb_pres_p22 noun_p116 ob .
+noun_p43 rel tverb_pres_p89 noun_s23 ob sub tverb_pres_p22 noun_p116 ob .
+noun_p43 rel tverb_pres_p89 noun_s23 ob sub tverb_pres_s22 noun_p116 ob .
+noun_s151 rel tverb_pres_s63 noun_p22 ob sub tverb_pres_s101 noun_s51 ob .
+noun_s151 rel tverb_pres_s63 noun_p22 ob sub tverb_pres_p101 noun_s51 ob .
+noun_p151 rel tverb_pres_p63 noun_s22 ob sub tverb_pres_p101 noun_s51 ob .
+noun_p151 rel tverb_pres_p63 noun_s22 ob sub tverb_pres_s101 noun_s51 ob .
+noun_s84 rel tverb_pres_s97 noun_p112 ob sub tverb_pres_s84 noun_s124 ob .
+noun_s84 rel tverb_pres_s97 noun_p112 ob sub tverb_pres_p84 noun_s124 ob .
+noun_p84 rel tverb_pres_p97 noun_s112 ob sub tverb_pres_p84 noun_s124 ob .
+noun_p84 rel tverb_pres_p97 noun_s112 ob sub tverb_pres_s84 noun_s124 ob .
+noun_s129 rel tverb_pres_s36 noun_p77 ob sub tverb_pres_s51 noun_p83 ob .
+noun_s129 rel tverb_pres_s36 noun_p77 ob sub tverb_pres_p51 noun_p83 ob .
+noun_p129 rel tverb_pres_p36 noun_s77 ob sub tverb_pres_p51 noun_p83 ob .
+noun_p129 rel tverb_pres_p36 noun_s77 ob sub tverb_pres_s51 noun_p83 ob .
+noun_s139 rel tverb_pres_s106 noun_p77 ob sub tverb_pres_s49 noun_p149 ob .
+noun_s139 rel tverb_pres_s106 noun_p77 ob sub tverb_pres_p49 noun_p149 ob .
+noun_p139 rel tverb_pres_p106 noun_s77 ob sub tverb_pres_p49 noun_p149 ob .
+noun_p139 rel tverb_pres_p106 noun_s77 ob sub tverb_pres_s49 noun_p149 ob .
+noun_s59 rel tverb_pres_s14 noun_p44 ob sub tverb_pres_s69 noun_s123 ob .
+noun_s59 rel tverb_pres_s14 noun_p44 ob sub tverb_pres_p69 noun_s123 ob .
+noun_p59 rel tverb_pres_p14 noun_s44 ob sub tverb_pres_p69 noun_s123 ob .
+noun_p59 rel tverb_pres_p14 noun_s44 ob sub tverb_pres_s69 noun_s123 ob .
+noun_s51 rel tverb_pres_s66 noun_p95 ob sub tverb_pres_s55 noun_p81 ob .
+noun_s51 rel tverb_pres_s66 noun_p95 ob sub tverb_pres_p55 noun_p81 ob .
+noun_p51 rel tverb_pres_p66 noun_s95 ob sub tverb_pres_p55 noun_p81 ob .
+noun_p51 rel tverb_pres_p66 noun_s95 ob sub tverb_pres_s55 noun_p81 ob .
+noun_s30 rel tverb_pres_s16 noun_p94 ob sub tverb_pres_s34 noun_p85 ob .
+noun_s30 rel tverb_pres_s16 noun_p94 ob sub tverb_pres_p34 noun_p85 ob .
+noun_p30 rel tverb_pres_p16 noun_s94 ob sub tverb_pres_p34 noun_p85 ob .
+noun_p30 rel tverb_pres_p16 noun_s94 ob sub tverb_pres_s34 noun_p85 ob .
+noun_s86 rel tverb_pres_s62 noun_p38 ob sub tverb_pres_s97 noun_p20 ob .
+noun_s86 rel tverb_pres_s62 noun_p38 ob sub tverb_pres_p97 noun_p20 ob .
+noun_p86 rel tverb_pres_p62 noun_s38 ob sub tverb_pres_p97 noun_p20 ob .
+noun_p86 rel tverb_pres_p62 noun_s38 ob sub tverb_pres_s97 noun_p20 ob .
+noun_s1 rel tverb_pres_s26 noun_p20 ob sub tverb_pres_s37 noun_p125 ob .
+noun_s1 rel tverb_pres_s26 noun_p20 ob sub tverb_pres_p37 noun_p125 ob .
+noun_p1 rel tverb_pres_p26 noun_s20 ob sub tverb_pres_p37 noun_p125 ob .
+noun_p1 rel tverb_pres_p26 noun_s20 ob sub tverb_pres_s37 noun_p125 ob .
+noun_s89 rel tverb_pres_s80 noun_p10 ob sub tverb_pres_s69 noun_p113 ob .
+noun_s89 rel tverb_pres_s80 noun_p10 ob sub tverb_pres_p69 noun_p113 ob .
+noun_p89 rel tverb_pres_p80 noun_s10 ob sub tverb_pres_p69 noun_p113 ob .
+noun_p89 rel tverb_pres_p80 noun_s10 ob sub tverb_pres_s69 noun_p113 ob .
+noun_s104 rel tverb_pres_s82 noun_p139 ob sub tverb_pres_s25 noun_s114 ob .
+noun_s104 rel tverb_pres_s82 noun_p139 ob sub tverb_pres_p25 noun_s114 ob .
+noun_p104 rel tverb_pres_p82 noun_s139 ob sub tverb_pres_p25 noun_s114 ob .
+noun_p104 rel tverb_pres_p82 noun_s139 ob sub tverb_pres_s25 noun_s114 ob .
+noun_s20 rel tverb_pres_s23 noun_p132 ob sub tverb_pres_s6 noun_s161 ob .
+noun_s20 rel tverb_pres_s23 noun_p132 ob sub tverb_pres_p6 noun_s161 ob .
+noun_p20 rel tverb_pres_p23 noun_s132 ob sub tverb_pres_p6 noun_s161 ob .
+noun_p20 rel tverb_pres_p23 noun_s132 ob sub tverb_pres_s6 noun_s161 ob .
+noun_s36 rel tverb_pres_s4 noun_p64 ob sub tverb_pres_s7 noun_s123 ob .
+noun_s36 rel tverb_pres_s4 noun_p64 ob sub tverb_pres_p7 noun_s123 ob .
+noun_p36 rel tverb_pres_p4 noun_s64 ob sub tverb_pres_p7 noun_s123 ob .
+noun_p36 rel tverb_pres_p4 noun_s64 ob sub tverb_pres_s7 noun_s123 ob .
+noun_s75 rel tverb_pres_s24 noun_p60 ob sub tverb_pres_s23 noun_s16 ob .
+noun_s75 rel tverb_pres_s24 noun_p60 ob sub tverb_pres_p23 noun_s16 ob .
+noun_p75 rel tverb_pres_p24 noun_s60 ob sub tverb_pres_p23 noun_s16 ob .
+noun_p75 rel tverb_pres_p24 noun_s60 ob sub tverb_pres_s23 noun_s16 ob .
+noun_s61 rel tverb_pres_s112 noun_p68 ob sub tverb_pres_s66 noun_s35 ob .
+noun_s61 rel tverb_pres_s112 noun_p68 ob sub tverb_pres_p66 noun_s35 ob .
+noun_p61 rel tverb_pres_p112 noun_s68 ob sub tverb_pres_p66 noun_s35 ob .
+noun_p61 rel tverb_pres_p112 noun_s68 ob sub tverb_pres_s66 noun_s35 ob .
+noun_s145 rel tverb_pres_s102 noun_p84 ob sub tverb_pres_s82 noun_s90 ob .
+noun_s145 rel tverb_pres_s102 noun_p84 ob sub tverb_pres_p82 noun_s90 ob .
+noun_p145 rel tverb_pres_p102 noun_s84 ob sub tverb_pres_p82 noun_s90 ob .
+noun_p145 rel tverb_pres_p102 noun_s84 ob sub tverb_pres_s82 noun_s90 ob .
+noun_s4 rel tverb_pres_s6 noun_p77 ob sub tverb_pres_s107 noun_p9 ob .
+noun_s4 rel tverb_pres_s6 noun_p77 ob sub tverb_pres_p107 noun_p9 ob .
+noun_p4 rel tverb_pres_p6 noun_s77 ob sub tverb_pres_p107 noun_p9 ob .
+noun_p4 rel tverb_pres_p6 noun_s77 ob sub tverb_pres_s107 noun_p9 ob .
+noun_s117 rel tverb_pres_s8 noun_p18 ob sub tverb_pres_s49 noun_p62 ob .
+noun_s117 rel tverb_pres_s8 noun_p18 ob sub tverb_pres_p49 noun_p62 ob .
+noun_p117 rel tverb_pres_p8 noun_s18 ob sub tverb_pres_p49 noun_p62 ob .
+noun_p117 rel tverb_pres_p8 noun_s18 ob sub tverb_pres_s49 noun_p62 ob .
+noun_s150 rel tverb_pres_s46 noun_p143 ob sub tverb_pres_s84 noun_p63 ob .
+noun_s150 rel tverb_pres_s46 noun_p143 ob sub tverb_pres_p84 noun_p63 ob .
+noun_p150 rel tverb_pres_p46 noun_s143 ob sub tverb_pres_p84 noun_p63 ob .
+noun_p150 rel tverb_pres_p46 noun_s143 ob sub tverb_pres_s84 noun_p63 ob .
+noun_s39 rel tverb_pres_s32 noun_p106 ob sub tverb_pres_s5 noun_s153 ob .
+noun_s39 rel tverb_pres_s32 noun_p106 ob sub tverb_pres_p5 noun_s153 ob .
+noun_p39 rel tverb_pres_p32 noun_s106 ob sub tverb_pres_p5 noun_s153 ob .
+noun_p39 rel tverb_pres_p32 noun_s106 ob sub tverb_pres_s5 noun_s153 ob .
+noun_s150 rel tverb_pres_s80 noun_p29 ob sub tverb_pres_s84 noun_s127 ob .
+noun_s150 rel tverb_pres_s80 noun_p29 ob sub tverb_pres_p84 noun_s127 ob .
+noun_p150 rel tverb_pres_p80 noun_s29 ob sub tverb_pres_p84 noun_s127 ob .
+noun_p150 rel tverb_pres_p80 noun_s29 ob sub tverb_pres_s84 noun_s127 ob .
+noun_s86 rel tverb_pres_s74 noun_p86 ob sub tverb_pres_s98 noun_p20 ob .
+noun_s86 rel tverb_pres_s74 noun_p86 ob sub tverb_pres_p98 noun_p20 ob .
+noun_p86 rel tverb_pres_p74 noun_s86 ob sub tverb_pres_p98 noun_p20 ob .
+noun_p86 rel tverb_pres_p74 noun_s86 ob sub tverb_pres_s98 noun_p20 ob .
+noun_s125 rel tverb_pres_s100 noun_p83 ob sub tverb_pres_s15 noun_p92 ob .
+noun_s125 rel tverb_pres_s100 noun_p83 ob sub tverb_pres_p15 noun_p92 ob .
+noun_p125 rel tverb_pres_p100 noun_s83 ob sub tverb_pres_p15 noun_p92 ob .
+noun_p125 rel tverb_pres_p100 noun_s83 ob sub tverb_pres_s15 noun_p92 ob .
+noun_s114 rel tverb_pres_s50 noun_p148 ob sub tverb_pres_s14 noun_p72 ob .
+noun_s114 rel tverb_pres_s50 noun_p148 ob sub tverb_pres_p14 noun_p72 ob .
+noun_p114 rel tverb_pres_p50 noun_s148 ob sub tverb_pres_p14 noun_p72 ob .
+noun_p114 rel tverb_pres_p50 noun_s148 ob sub tverb_pres_s14 noun_p72 ob .
+noun_s140 rel tverb_pres_s5 noun_p62 ob sub tverb_pres_s37 noun_p128 ob .
+noun_s140 rel tverb_pres_s5 noun_p62 ob sub tverb_pres_p37 noun_p128 ob .
+noun_p140 rel tverb_pres_p5 noun_s62 ob sub tverb_pres_p37 noun_p128 ob .
+noun_p140 rel tverb_pres_p5 noun_s62 ob sub tverb_pres_s37 noun_p128 ob .
+noun_s90 rel tverb_pres_s99 noun_p83 ob sub tverb_pres_s111 noun_s39 ob .
+noun_s90 rel tverb_pres_s99 noun_p83 ob sub tverb_pres_p111 noun_s39 ob .
+noun_p90 rel tverb_pres_p99 noun_s83 ob sub tverb_pres_p111 noun_s39 ob .
+noun_p90 rel tverb_pres_p99 noun_s83 ob sub tverb_pres_s111 noun_s39 ob .
+noun_s23 rel tverb_pres_s34 noun_p84 ob sub tverb_pres_s3 noun_p70 ob .
+noun_s23 rel tverb_pres_s34 noun_p84 ob sub tverb_pres_p3 noun_p70 ob .
+noun_p23 rel tverb_pres_p34 noun_s84 ob sub tverb_pres_p3 noun_p70 ob .
+noun_p23 rel tverb_pres_p34 noun_s84 ob sub tverb_pres_s3 noun_p70 ob .
+noun_s42 rel tverb_pres_s97 noun_p142 ob sub tverb_pres_s100 noun_p124 ob .
+noun_s42 rel tverb_pres_s97 noun_p142 ob sub tverb_pres_p100 noun_p124 ob .
+noun_p42 rel tverb_pres_p97 noun_s142 ob sub tverb_pres_p100 noun_p124 ob .
+noun_p42 rel tverb_pres_p97 noun_s142 ob sub tverb_pres_s100 noun_p124 ob .
+noun_s98 rel tverb_pres_s78 noun_p83 ob sub tverb_pres_s59 noun_p135 ob .
+noun_s98 rel tverb_pres_s78 noun_p83 ob sub tverb_pres_p59 noun_p135 ob .
+noun_p98 rel tverb_pres_p78 noun_s83 ob sub tverb_pres_p59 noun_p135 ob .
+noun_p98 rel tverb_pres_p78 noun_s83 ob sub tverb_pres_s59 noun_p135 ob .
+noun_s129 rel tverb_pres_s58 noun_p31 ob sub tverb_pres_s97 noun_s12 ob .
+noun_s129 rel tverb_pres_s58 noun_p31 ob sub tverb_pres_p97 noun_s12 ob .
+noun_p129 rel tverb_pres_p58 noun_s31 ob sub tverb_pres_p97 noun_s12 ob .
+noun_p129 rel tverb_pres_p58 noun_s31 ob sub tverb_pres_s97 noun_s12 ob .
+noun_s87 rel tverb_pres_s46 noun_p152 ob sub tverb_pres_s52 noun_s150 ob .
+noun_s87 rel tverb_pres_s46 noun_p152 ob sub tverb_pres_p52 noun_s150 ob .
+noun_p87 rel tverb_pres_p46 noun_s152 ob sub tverb_pres_p52 noun_s150 ob .
+noun_p87 rel tverb_pres_p46 noun_s152 ob sub tverb_pres_s52 noun_s150 ob .
+noun_s32 rel tverb_pres_s63 noun_p77 ob sub tverb_pres_s69 noun_s7 ob .
+noun_s32 rel tverb_pres_s63 noun_p77 ob sub tverb_pres_p69 noun_s7 ob .
+noun_p32 rel tverb_pres_p63 noun_s77 ob sub tverb_pres_p69 noun_s7 ob .
+noun_p32 rel tverb_pres_p63 noun_s77 ob sub tverb_pres_s69 noun_s7 ob .
+noun_s71 rel tverb_pres_s50 noun_p21 ob sub tverb_pres_s86 noun_s15 ob .
+noun_s71 rel tverb_pres_s50 noun_p21 ob sub tverb_pres_p86 noun_s15 ob .
+noun_p71 rel tverb_pres_p50 noun_s21 ob sub tverb_pres_p86 noun_s15 ob .
+noun_p71 rel tverb_pres_p50 noun_s21 ob sub tverb_pres_s86 noun_s15 ob .
+noun_s15 rel tverb_pres_s11 noun_p110 ob sub tverb_pres_s3 noun_s91 ob .
+noun_s15 rel tverb_pres_s11 noun_p110 ob sub tverb_pres_p3 noun_s91 ob .
+noun_p15 rel tverb_pres_p11 noun_s110 ob sub tverb_pres_p3 noun_s91 ob .
+noun_p15 rel tverb_pres_p11 noun_s110 ob sub tverb_pres_s3 noun_s91 ob .
+noun_s50 rel tverb_pres_s33 noun_p159 ob sub tverb_pres_s66 noun_s65 ob .
+noun_s50 rel tverb_pres_s33 noun_p159 ob sub tverb_pres_p66 noun_s65 ob .
+noun_p50 rel tverb_pres_p33 noun_s159 ob sub tverb_pres_p66 noun_s65 ob .
+noun_p50 rel tverb_pres_p33 noun_s159 ob sub tverb_pres_s66 noun_s65 ob .
+noun_s121 rel tverb_pres_s77 noun_p64 ob sub tverb_pres_s86 noun_s96 ob .
+noun_s121 rel tverb_pres_s77 noun_p64 ob sub tverb_pres_p86 noun_s96 ob .
+noun_p121 rel tverb_pres_p77 noun_s64 ob sub tverb_pres_p86 noun_s96 ob .
+noun_p121 rel tverb_pres_p77 noun_s64 ob sub tverb_pres_s86 noun_s96 ob .
+noun_s124 rel tverb_pres_s17 noun_p142 ob sub tverb_pres_s108 noun_p80 ob .
+noun_s124 rel tverb_pres_s17 noun_p142 ob sub tverb_pres_p108 noun_p80 ob .
+noun_p124 rel tverb_pres_p17 noun_s142 ob sub tverb_pres_p108 noun_p80 ob .
+noun_p124 rel tverb_pres_p17 noun_s142 ob sub tverb_pres_s108 noun_p80 ob .
+noun_s153 rel tverb_pres_s23 noun_p27 ob sub tverb_pres_s96 noun_s121 ob .
+noun_s153 rel tverb_pres_s23 noun_p27 ob sub tverb_pres_p96 noun_s121 ob .
+noun_p153 rel tverb_pres_p23 noun_s27 ob sub tverb_pres_p96 noun_s121 ob .
+noun_p153 rel tverb_pres_p23 noun_s27 ob sub tverb_pres_s96 noun_s121 ob .
+noun_s79 rel tverb_pres_s60 noun_p47 ob sub tverb_pres_s89 noun_s146 ob .
+noun_s79 rel tverb_pres_s60 noun_p47 ob sub tverb_pres_p89 noun_s146 ob .
+noun_p79 rel tverb_pres_p60 noun_s47 ob sub tverb_pres_p89 noun_s146 ob .
+noun_p79 rel tverb_pres_p60 noun_s47 ob sub tverb_pres_s89 noun_s146 ob .
+noun_s34 cc noun_p154 sub iverb_pres_p3 .
+noun_s34 cc noun_p154 sub iverb_pres_s3 .
+noun_p20 cc noun_p19 sub iverb_pres_p17 .
+noun_p20 cc noun_p19 sub iverb_pres_s17 .
+noun_p77 cc noun_p141 sub iverb_pres_p54 .
+noun_p77 cc noun_p141 sub iverb_pres_s54 .
+noun_s152 cc noun_p109 sub iverb_pres_p39 .
+noun_s152 cc noun_p109 sub iverb_pres_s39 .
+noun_p22 cc noun_p64 sub iverb_pres_p57 .
+noun_p22 cc noun_p64 sub iverb_pres_s57 .
+noun_p136 cc noun_p15 sub iverb_pres_p49 .
+noun_p136 cc noun_p15 sub iverb_pres_s49 .
+noun_p3 cc noun_p107 sub iverb_pres_p94 .
+noun_p3 cc noun_p107 sub iverb_pres_s94 .
+noun_p113 cc noun_p53 sub iverb_pres_p48 .
+noun_p113 cc noun_p53 sub iverb_pres_s48 .
+noun_p121 cc noun_p24 sub iverb_pres_p24 .
+noun_p121 cc noun_p24 sub iverb_pres_s24 .
+noun_s71 cc noun_p29 sub iverb_pres_p72 .
+noun_s71 cc noun_p29 sub iverb_pres_s72 .
+noun_s115 cc noun_p103 sub iverb_pres_p24 .
+noun_s115 cc noun_p103 sub iverb_pres_s24 .
+noun_p111 cc noun_p45 sub iverb_pres_p32 .
+noun_p111 cc noun_p45 sub iverb_pres_s32 .
+noun_p88 cc noun_p134 sub iverb_pres_p19 .
+noun_p88 cc noun_p134 sub iverb_pres_s19 .
+noun_p119 cc noun_p162 sub iverb_pres_p82 .
+noun_p119 cc noun_p162 sub iverb_pres_s82 .
+noun_s124 cc noun_p53 sub iverb_pres_p38 .
+noun_s124 cc noun_p53 sub iverb_pres_s38 .
+noun_s115 cc noun_p159 sub iverb_pres_p60 .
+noun_s115 cc noun_p159 sub iverb_pres_s60 .
+noun_s56 cc noun_p77 sub iverb_pres_p15 .
+noun_s56 cc noun_p77 sub iverb_pres_s15 .
+noun_p140 cc noun_p156 sub iverb_pres_p20 .
+noun_p140 cc noun_p156 sub iverb_pres_s20 .
+noun_p121 cc noun_p24 sub iverb_pres_p87 .
+noun_p121 cc noun_p24 sub iverb_pres_s87 .
+noun_p60 cc noun_p140 sub iverb_pres_p98 .
+noun_p60 cc noun_p140 sub iverb_pres_s98 .
+noun_p72 cc noun_p162 sub iverb_pres_p3 .
+noun_p72 cc noun_p162 sub iverb_pres_s3 .
+noun_s70 cc noun_p11 sub iverb_pres_p1 .
+noun_s70 cc noun_p11 sub iverb_pres_s1 .
+noun_p102 cc noun_p135 sub iverb_pres_p75 .
+noun_p102 cc noun_p135 sub iverb_pres_s75 .
+noun_p114 cc noun_p27 sub iverb_pres_p96 .
+noun_p114 cc noun_p27 sub iverb_pres_s96 .
+noun_p91 cc noun_p73 sub iverb_pres_p112 .
+noun_p91 cc noun_p73 sub iverb_pres_s112 .
+noun_s153 cc noun_p22 sub iverb_pres_p5 .
+noun_s153 cc noun_p22 sub iverb_pres_s5 .
+noun_s68 cc noun_p79 sub iverb_pres_p69 .
+noun_s68 cc noun_p79 sub iverb_pres_s69 .
+noun_p31 cc noun_p136 sub iverb_pres_p111 .
+noun_p31 cc noun_p136 sub iverb_pres_s111 .
+noun_s42 cc noun_p18 sub iverb_pres_p54 .
+noun_s42 cc noun_p18 sub iverb_pres_s54 .
+noun_p73 cc noun_p134 sub iverb_pres_p18 .
+noun_p73 cc noun_p134 sub iverb_pres_s18 .
+noun_s137 cc noun_p27 sub iverb_pres_p53 .
+noun_s137 cc noun_p27 sub iverb_pres_s53 .
+noun_p72 cc noun_p75 sub iverb_pres_p57 .
+noun_p72 cc noun_p75 sub iverb_pres_s57 .
+noun_p146 cc noun_p161 sub iverb_pres_p18 .
+noun_p146 cc noun_p161 sub iverb_pres_s18 .
+noun_s32 cc noun_p31 sub iverb_pres_p49 .
+noun_s32 cc noun_p31 sub iverb_pres_s49 .
+noun_p152 cc noun_p120 sub iverb_pres_p18 .
+noun_p152 cc noun_p120 sub iverb_pres_s18 .
+noun_p91 cc noun_p162 sub iverb_pres_p61 .
+noun_p91 cc noun_p162 sub iverb_pres_s61 .
+noun_p56 cc noun_p123 sub iverb_pres_p63 .
+noun_p56 cc noun_p123 sub iverb_pres_s63 .
+noun_p127 cc noun_p16 sub iverb_pres_p57 .
+noun_p127 cc noun_p16 sub iverb_pres_s57 .
+noun_p37 cc noun_p127 sub iverb_pres_p7 .
+noun_p37 cc noun_p127 sub iverb_pres_s7 .
+noun_s7 cc noun_p91 sub iverb_pres_p61 .
+noun_s7 cc noun_p91 sub iverb_pres_s61 .
+noun_p3 cc noun_p135 sub iverb_pres_p9 .
+noun_p3 cc noun_p135 sub iverb_pres_s9 .
+noun_s102 cc noun_p2 sub iverb_pres_p47 .
+noun_s102 cc noun_p2 sub iverb_pres_s47 .
+noun_s30 cc noun_p159 sub iverb_pres_p1 .
+noun_s30 cc noun_p159 sub iverb_pres_s1 .
+noun_p75 cc noun_p59 sub iverb_pres_p19 .
+noun_p75 cc noun_p59 sub iverb_pres_s19 .
+noun_p49 cc noun_p27 sub iverb_pres_p56 .
+noun_p49 cc noun_p27 sub iverb_pres_s56 .
+noun_p85 cc noun_p99 sub iverb_pres_p22 .
+noun_p85 cc noun_p99 sub iverb_pres_s22 .
+noun_p108 cc noun_p112 sub iverb_pres_p19 .
+noun_p108 cc noun_p112 sub iverb_pres_s19 .
+noun_p38 cc noun_p135 sub iverb_pres_p41 .
+noun_p38 cc noun_p135 sub iverb_pres_s41 .
+noun_s54 cc noun_p48 sub iverb_pres_p57 .
+noun_s54 cc noun_p48 sub iverb_pres_s57 .
+noun_p100 cc noun_p110 sub iverb_pres_p104 .
+noun_p100 cc noun_p110 sub iverb_pres_s104 .
+noun_p100 cc noun_s57 sub iverb_pres_p102 .
+noun_p100 cc noun_s57 sub iverb_pres_s102 .
+noun_s113 cc noun_s53 sub iverb_pres_p76 .
+noun_s113 cc noun_s53 sub iverb_pres_s76 .
+noun_s100 cc noun_s9 sub iverb_pres_p30 .
+noun_s100 cc noun_s9 sub iverb_pres_s30 .
+noun_s48 cc noun_s94 sub iverb_pres_p8 .
+noun_s48 cc noun_s94 sub iverb_pres_s8 .
+noun_s60 cc noun_s157 sub iverb_pres_p39 .
+noun_s60 cc noun_s157 sub iverb_pres_s39 .
+noun_s132 cc noun_s73 sub iverb_pres_p99 .
+noun_s132 cc noun_s73 sub iverb_pres_s99 .
+noun_p106 cc noun_s118 sub iverb_pres_p7 .
+noun_p106 cc noun_s118 sub iverb_pres_s7 .
+noun_p149 cc noun_s117 sub iverb_pres_p63 .
+noun_p149 cc noun_s117 sub iverb_pres_s63 .
+noun_p122 cc noun_s56 sub iverb_pres_p44 .
+noun_p122 cc noun_s56 sub iverb_pres_s44 .
+noun_p11 cc noun_s12 sub iverb_pres_p7 .
+noun_p11 cc noun_s12 sub iverb_pres_s7 .
+noun_s90 cc noun_s1 sub iverb_pres_p38 .
+noun_s90 cc noun_s1 sub iverb_pres_s38 .
+noun_s36 cc noun_s17 sub iverb_pres_p101 .
+noun_s36 cc noun_s17 sub iverb_pres_s101 .
+noun_p57 cc noun_s156 sub iverb_pres_p51 .
+noun_p57 cc noun_s156 sub iverb_pres_s51 .
+noun_s117 cc noun_s50 sub iverb_pres_p44 .
+noun_s117 cc noun_s50 sub iverb_pres_s44 .
+noun_s156 cc noun_s22 sub iverb_pres_p102 .
+noun_s156 cc noun_s22 sub iverb_pres_s102 .
+noun_p83 cc noun_s138 sub iverb_pres_p59 .
+noun_p83 cc noun_s138 sub iverb_pres_s59 .
+noun_p66 cc noun_s8 sub iverb_pres_p67 .
+noun_p66 cc noun_s8 sub iverb_pres_s67 .
+noun_s49 cc noun_s95 sub iverb_pres_p11 .
+noun_s49 cc noun_s95 sub iverb_pres_s11 .
+noun_s135 cc noun_s89 sub iverb_pres_p25 .
+noun_s135 cc noun_s89 sub iverb_pres_s25 .
+noun_s65 cc noun_s78 sub iverb_pres_p40 .
+noun_s65 cc noun_s78 sub iverb_pres_s40 .
+noun_p66 cc noun_s124 sub iverb_pres_p45 .
+noun_p66 cc noun_s124 sub iverb_pres_s45 .
+noun_s12 cc noun_s79 sub iverb_pres_p71 .
+noun_s12 cc noun_s79 sub iverb_pres_s71 .
+noun_s3 cc noun_s118 sub iverb_pres_p64 .
+noun_s3 cc noun_s118 sub iverb_pres_s64 .
+noun_p13 cc noun_s106 sub iverb_pres_p64 .
+noun_p13 cc noun_s106 sub iverb_pres_s64 .
+noun_p113 cc noun_s31 sub iverb_pres_p11 .
+noun_p113 cc noun_s31 sub iverb_pres_s11 .
+noun_s62 cc noun_s26 sub iverb_pres_p106 .
+noun_s62 cc noun_s26 sub iverb_pres_s106 .
+noun_s106 cc noun_s55 sub iverb_pres_p57 .
+noun_s106 cc noun_s55 sub iverb_pres_s57 .
+noun_s110 cc noun_s144 sub iverb_pres_p97 .
+noun_s110 cc noun_s144 sub iverb_pres_s97 .
+noun_p11 cc noun_s47 sub iverb_pres_p32 .
+noun_p11 cc noun_s47 sub iverb_pres_s32 .
+noun_p57 cc noun_s33 sub iverb_pres_p108 .
+noun_p57 cc noun_s33 sub iverb_pres_s108 .
+noun_p91 cc noun_s82 sub iverb_pres_p56 .
+noun_p91 cc noun_s82 sub iverb_pres_s56 .
+noun_s143 cc noun_s74 sub iverb_pres_p79 .
+noun_s143 cc noun_s74 sub iverb_pres_s79 .
+noun_s76 cc noun_s114 sub iverb_pres_p66 .
+noun_s76 cc noun_s114 sub iverb_pres_s66 .
+noun_p138 cc noun_s67 sub iverb_pres_p35 .
+noun_p138 cc noun_s67 sub iverb_pres_s35 .
+noun_s5 cc noun_s31 sub iverb_pres_p79 .
+noun_s5 cc noun_s31 sub iverb_pres_s79 .
+noun_s45 cc noun_s107 sub iverb_pres_p32 .
+noun_s45 cc noun_s107 sub iverb_pres_s32 .
+noun_s73 cc noun_s2 sub iverb_pres_p95 .
+noun_s73 cc noun_s2 sub iverb_pres_s95 .
+noun_p13 cc noun_s32 sub iverb_pres_p50 .
+noun_p13 cc noun_s32 sub iverb_pres_s50 .
+noun_p31 cc noun_s145 sub iverb_pres_p46 .
+noun_p31 cc noun_s145 sub iverb_pres_s46 .
+noun_s140 cc noun_s73 sub iverb_pres_p29 .
+noun_s140 cc noun_s73 sub iverb_pres_s29 .
+noun_s17 cc noun_s133 sub iverb_pres_p40 .
+noun_s17 cc noun_s133 sub iverb_pres_s40 .
+noun_p60 cc noun_s96 sub iverb_pres_p81 .
+noun_p60 cc noun_s96 sub iverb_pres_s81 .
+noun_p74 cc noun_s150 sub iverb_pres_p22 .
+noun_p74 cc noun_s150 sub iverb_pres_s22 .
+noun_s4 cc noun_s142 sub iverb_pres_p65 .
+noun_s4 cc noun_s142 sub iverb_pres_s65 .
+noun_p94 cc noun_s150 sub iverb_pres_p82 .
+noun_p94 cc noun_s150 sub iverb_pres_s82 .
+noun_s34 cc noun_s102 sub iverb_pres_p20 .
+noun_s34 cc noun_s102 sub iverb_pres_s20 .
+noun_s131 cc noun_s20 sub iverb_pres_p18 .
+noun_s131 cc noun_s20 sub iverb_pres_s18 .
+noun_s128 cc noun_s146 sub iverb_pres_p99 .
+noun_s128 cc noun_s146 sub iverb_pres_s99 .
+noun_s61 cc noun_s34 sub iverb_pres_p105 .
+noun_s61 cc noun_s34 sub iverb_pres_s105 .
+noun_s99 cc noun_s91 sub iverb_pres_p78 .
+noun_s99 cc noun_s91 sub iverb_pres_s78 .
+noun_s162 cc noun_p128 sub tverb_pres_p107 noun_s158 ob .
+noun_s162 cc noun_p128 sub tverb_pres_s107 noun_s158 ob .
+noun_s135 cc noun_p153 sub tverb_pres_p59 noun_p126 ob .
+noun_s135 cc noun_p153 sub tverb_pres_s59 noun_p126 ob .
+noun_p4 cc noun_p57 sub tverb_pres_p104 noun_s127 ob .
+noun_p4 cc noun_p57 sub tverb_pres_s104 noun_s127 ob .
+noun_p140 cc noun_p81 sub tverb_pres_p18 noun_s67 ob .
+noun_p140 cc noun_p81 sub tverb_pres_s18 noun_s67 ob .
+noun_p49 cc noun_p82 sub tverb_pres_p8 noun_p99 ob .
+noun_p49 cc noun_p82 sub tverb_pres_s8 noun_p99 ob .
+noun_s10 cc noun_p81 sub tverb_pres_p111 noun_s88 ob .
+noun_s10 cc noun_p81 sub tverb_pres_s111 noun_s88 ob .
+noun_p58 cc noun_p67 sub tverb_pres_p40 noun_p42 ob .
+noun_p58 cc noun_p67 sub tverb_pres_s40 noun_p42 ob .
+noun_s92 cc noun_p147 sub tverb_pres_p20 noun_s162 ob .
+noun_s92 cc noun_p147 sub tverb_pres_s20 noun_s162 ob .
+noun_p6 cc noun_p126 sub tverb_pres_p31 noun_s7 ob .
+noun_p6 cc noun_p126 sub tverb_pres_s31 noun_s7 ob .
+noun_s4 cc noun_p58 sub tverb_pres_p106 noun_p18 ob .
+noun_s4 cc noun_p58 sub tverb_pres_s106 noun_p18 ob .
+noun_s89 cc noun_p109 sub tverb_pres_p58 noun_s56 ob .
+noun_s89 cc noun_p109 sub tverb_pres_s58 noun_s56 ob .
+noun_p37 cc noun_p92 sub tverb_pres_p84 noun_p46 ob .
+noun_p37 cc noun_p92 sub tverb_pres_s84 noun_p46 ob .
+noun_p105 cc noun_p98 sub tverb_pres_p34 noun_s105 ob .
+noun_p105 cc noun_p98 sub tverb_pres_s34 noun_s105 ob .
+noun_p11 cc noun_p145 sub tverb_pres_p50 noun_s105 ob .
+noun_p11 cc noun_p145 sub tverb_pres_s50 noun_s105 ob .
+noun_s1 cc noun_p129 sub tverb_pres_p112 noun_s160 ob .
+noun_s1 cc noun_p129 sub tverb_pres_s112 noun_s160 ob .
+noun_s21 cc noun_p85 sub tverb_pres_p32 noun_s46 ob .
+noun_s21 cc noun_p85 sub tverb_pres_s32 noun_s46 ob .
+noun_s44 cc noun_p144 sub tverb_pres_p55 noun_s21 ob .
+noun_s44 cc noun_p144 sub tverb_pres_s55 noun_s21 ob .
+noun_s159 cc noun_p161 sub tverb_pres_p79 noun_p39 ob .
+noun_s159 cc noun_p161 sub tverb_pres_s79 noun_p39 ob .
+noun_s65 cc noun_p88 sub tverb_pres_p81 noun_p7 ob .
+noun_s65 cc noun_p88 sub tverb_pres_s81 noun_p7 ob .
+noun_s128 cc noun_p23 sub tverb_pres_p86 noun_p75 ob .
+noun_s128 cc noun_p23 sub tverb_pres_s86 noun_p75 ob .
+noun_s118 cc noun_p61 sub tverb_pres_p95 noun_p42 ob .
+noun_s118 cc noun_p61 sub tverb_pres_s95 noun_p42 ob .
+noun_p87 cc noun_p70 sub tverb_pres_p2 noun_p101 ob .
+noun_p87 cc noun_p70 sub tverb_pres_s2 noun_p101 ob .
+noun_p136 cc noun_p74 sub tverb_pres_p99 noun_p9 ob .
+noun_p136 cc noun_p74 sub tverb_pres_s99 noun_p9 ob .
+noun_p10 cc noun_p117 sub tverb_pres_p52 noun_p31 ob .
+noun_p10 cc noun_p117 sub tverb_pres_s52 noun_p31 ob .
+noun_p127 cc noun_p14 sub tverb_pres_p95 noun_s70 ob .
+noun_p127 cc noun_p14 sub tverb_pres_s95 noun_s70 ob .
+noun_s66 cc noun_p149 sub tverb_pres_p98 noun_p54 ob .
+noun_s66 cc noun_p149 sub tverb_pres_s98 noun_p54 ob .
+noun_p99 cc noun_p65 sub tverb_pres_p73 noun_s30 ob .
+noun_p99 cc noun_p65 sub tverb_pres_s73 noun_s30 ob .
+noun_p63 cc noun_p151 sub tverb_pres_p112 noun_p42 ob .
+noun_p63 cc noun_p151 sub tverb_pres_s112 noun_p42 ob .
+noun_s85 cc noun_p3 sub tverb_pres_p20 noun_s145 ob .
+noun_s85 cc noun_p3 sub tverb_pres_s20 noun_s145 ob .
+noun_p93 cc noun_p75 sub tverb_pres_p64 noun_p83 ob .
+noun_p93 cc noun_p75 sub tverb_pres_s64 noun_p83 ob .
+noun_p154 cc noun_p111 sub tverb_pres_p101 noun_s1 ob .
+noun_p154 cc noun_p111 sub tverb_pres_s101 noun_s1 ob .
+noun_s146 cc noun_p12 sub tverb_pres_p44 noun_p33 ob .
+noun_s146 cc noun_p12 sub tverb_pres_s44 noun_p33 ob .
+noun_s123 cc noun_p66 sub tverb_pres_p71 noun_s18 ob .
+noun_s123 cc noun_p66 sub tverb_pres_s71 noun_s18 ob .
+noun_p72 cc noun_p45 sub tverb_pres_p85 noun_s17 ob .
+noun_p72 cc noun_p45 sub tverb_pres_s85 noun_s17 ob .
+noun_s149 cc noun_p29 sub tverb_pres_p35 noun_p112 ob .
+noun_s149 cc noun_p29 sub tverb_pres_s35 noun_p112 ob .
+noun_p73 cc noun_p4 sub tverb_pres_p34 noun_p72 ob .
+noun_p73 cc noun_p4 sub tverb_pres_s34 noun_p72 ob .
+noun_p88 cc noun_p49 sub tverb_pres_p109 noun_p37 ob .
+noun_p88 cc noun_p49 sub tverb_pres_s109 noun_p37 ob .
+noun_s131 cc noun_p40 sub tverb_pres_p60 noun_p93 ob .
+noun_s131 cc noun_p40 sub tverb_pres_s60 noun_p93 ob .
+noun_s144 cc noun_p106 sub tverb_pres_p47 noun_s5 ob .
+noun_s144 cc noun_p106 sub tverb_pres_s47 noun_s5 ob .
+noun_s50 cc noun_p162 sub tverb_pres_p90 noun_p161 ob .
+noun_s50 cc noun_p162 sub tverb_pres_s90 noun_p161 ob .
+noun_p5 cc noun_p64 sub tverb_pres_p24 noun_s71 ob .
+noun_p5 cc noun_p64 sub tverb_pres_s24 noun_s71 ob .
+noun_p20 cc noun_p147 sub tverb_pres_p96 noun_p61 ob .
+noun_p20 cc noun_p147 sub tverb_pres_s96 noun_p61 ob .
+noun_p131 cc noun_p26 sub tverb_pres_p57 noun_s43 ob .
+noun_p131 cc noun_p26 sub tverb_pres_s57 noun_s43 ob .
+noun_s110 cc noun_p102 sub tverb_pres_p56 noun_p65 ob .
+noun_s110 cc noun_p102 sub tverb_pres_s56 noun_p65 ob .
+noun_p157 cc noun_p84 sub tverb_pres_p4 noun_s79 ob .
+noun_p157 cc noun_p84 sub tverb_pres_s4 noun_s79 ob .
+noun_p3 cc noun_p65 sub tverb_pres_p50 noun_s102 ob .
+noun_p3 cc noun_p65 sub tverb_pres_s50 noun_s102 ob .
+noun_p161 cc noun_p100 sub tverb_pres_p60 noun_s150 ob .
+noun_p161 cc noun_p100 sub tverb_pres_s60 noun_s150 ob .
+noun_p146 cc noun_p33 sub tverb_pres_p106 noun_p84 ob .
+noun_p146 cc noun_p33 sub tverb_pres_s106 noun_p84 ob .
+noun_s102 cc noun_p122 sub tverb_pres_p11 noun_s11 ob .
+noun_s102 cc noun_p122 sub tverb_pres_s11 noun_s11 ob .
+noun_p93 cc noun_p2 sub tverb_pres_p92 noun_s49 ob .
+noun_p93 cc noun_p2 sub tverb_pres_s92 noun_s49 ob .
+noun_s139 cc noun_s121 sub tverb_pres_p108 noun_s81 ob .
+noun_s139 cc noun_s121 sub tverb_pres_s108 noun_s81 ob .
+noun_s81 cc noun_s101 sub tverb_pres_p53 noun_s71 ob .
+noun_s81 cc noun_s101 sub tverb_pres_s53 noun_s71 ob .
+noun_s153 cc noun_s38 sub tverb_pres_p66 noun_p79 ob .
+noun_s153 cc noun_s38 sub tverb_pres_s66 noun_p79 ob .
+noun_s42 cc noun_s33 sub tverb_pres_p91 noun_s124 ob .
+noun_s42 cc noun_s33 sub tverb_pres_s91 noun_s124 ob .
+noun_s134 cc noun_s12 sub tverb_pres_p45 noun_p47 ob .
+noun_s134 cc noun_s12 sub tverb_pres_s45 noun_p47 ob .
+noun_s21 cc noun_s144 sub tverb_pres_p26 noun_s68 ob .
+noun_s21 cc noun_s144 sub tverb_pres_s26 noun_s68 ob .
+noun_p84 cc noun_s65 sub tverb_pres_p59 noun_p133 ob .
+noun_p84 cc noun_s65 sub tverb_pres_s59 noun_p133 ob .
+noun_s115 cc noun_s142 sub tverb_pres_p81 noun_s10 ob .
+noun_s115 cc noun_s142 sub tverb_pres_s81 noun_s10 ob .
+noun_s132 cc noun_s9 sub tverb_pres_p25 noun_p19 ob .
+noun_s132 cc noun_s9 sub tverb_pres_s25 noun_p19 ob .
+noun_p157 cc noun_s62 sub tverb_pres_p21 noun_p134 ob .
+noun_p157 cc noun_s62 sub tverb_pres_s21 noun_p134 ob .
+noun_p35 cc noun_s122 sub tverb_pres_p11 noun_s140 ob .
+noun_p35 cc noun_s122 sub tverb_pres_s11 noun_s140 ob .
+noun_p1 cc noun_s21 sub tverb_pres_p78 noun_s110 ob .
+noun_p1 cc noun_s21 sub tverb_pres_s78 noun_s110 ob .
+noun_p146 cc noun_s116 sub tverb_pres_p66 noun_p97 ob .
+noun_p146 cc noun_s116 sub tverb_pres_s66 noun_p97 ob .
+noun_p31 cc noun_s35 sub tverb_pres_p24 noun_p6 ob .
+noun_p31 cc noun_s35 sub tverb_pres_s24 noun_p6 ob .
+noun_s5 cc noun_s87 sub tverb_pres_p53 noun_s12 ob .
+noun_s5 cc noun_s87 sub tverb_pres_s53 noun_s12 ob .
+noun_s80 cc noun_s100 sub tverb_pres_p99 noun_s154 ob .
+noun_s80 cc noun_s100 sub tverb_pres_s99 noun_s154 ob .
+noun_s92 cc noun_s20 sub tverb_pres_p57 noun_p14 ob .
+noun_s92 cc noun_s20 sub tverb_pres_s57 noun_p14 ob .
+noun_p155 cc noun_s159 sub tverb_pres_p73 noun_p80 ob .
+noun_p155 cc noun_s159 sub tverb_pres_s73 noun_p80 ob .
+noun_p106 cc noun_s47 sub tverb_pres_p103 noun_s117 ob .
+noun_p106 cc noun_s47 sub tverb_pres_s103 noun_s117 ob .
+noun_p49 cc noun_s100 sub tverb_pres_p13 noun_s92 ob .
+noun_p49 cc noun_s100 sub tverb_pres_s13 noun_s92 ob .
+noun_s7 cc noun_s90 sub tverb_pres_p52 noun_s46 ob .
+noun_s7 cc noun_s90 sub tverb_pres_s52 noun_s46 ob .
+noun_s83 cc noun_s117 sub tverb_pres_p11 noun_p122 ob .
+noun_s83 cc noun_s117 sub tverb_pres_s11 noun_p122 ob .
+noun_s138 cc noun_s103 sub tverb_pres_p83 noun_p8 ob .
+noun_s138 cc noun_s103 sub tverb_pres_s83 noun_p8 ob .
+noun_s21 cc noun_s86 sub tverb_pres_p61 noun_p26 ob .
+noun_s21 cc noun_s86 sub tverb_pres_s61 noun_p26 ob .
+noun_s40 cc noun_s133 sub tverb_pres_p1 noun_p10 ob .
+noun_s40 cc noun_s133 sub tverb_pres_s1 noun_p10 ob .
+noun_p87 cc noun_s41 sub tverb_pres_p23 noun_s42 ob .
+noun_p87 cc noun_s41 sub tverb_pres_s23 noun_s42 ob .
+noun_s63 cc noun_s160 sub tverb_pres_p62 noun_p7 ob .
+noun_s63 cc noun_s160 sub tverb_pres_s62 noun_p7 ob .
+noun_p12 cc noun_s58 sub tverb_pres_p43 noun_s73 ob .
+noun_p12 cc noun_s58 sub tverb_pres_s43 noun_s73 ob .
+noun_s61 cc noun_s91 sub tverb_pres_p113 noun_s42 ob .
+noun_s61 cc noun_s91 sub tverb_pres_s113 noun_s42 ob .
+noun_p119 cc noun_s94 sub tverb_pres_p73 noun_s99 ob .
+noun_p119 cc noun_s94 sub tverb_pres_s73 noun_s99 ob .
+noun_s42 cc noun_s150 sub tverb_pres_p92 noun_s100 ob .
+noun_s42 cc noun_s150 sub tverb_pres_s92 noun_s100 ob .
+noun_s39 cc noun_s5 sub tverb_pres_p66 noun_s83 ob .
+noun_s39 cc noun_s5 sub tverb_pres_s66 noun_s83 ob .
+noun_s10 cc noun_s13 sub tverb_pres_p79 noun_s147 ob .
+noun_s10 cc noun_s13 sub tverb_pres_s79 noun_s147 ob .
+noun_s40 cc noun_s98 sub tverb_pres_p56 noun_s108 ob .
+noun_s40 cc noun_s98 sub tverb_pres_s56 noun_s108 ob .
+noun_p64 cc noun_s36 sub tverb_pres_p28 noun_p131 ob .
+noun_p64 cc noun_s36 sub tverb_pres_s28 noun_p131 ob .
+noun_p19 cc noun_s34 sub tverb_pres_p85 noun_p145 ob .
+noun_p19 cc noun_s34 sub tverb_pres_s85 noun_p145 ob .
+noun_p25 cc noun_s111 sub tverb_pres_p61 noun_p63 ob .
+noun_p25 cc noun_s111 sub tverb_pres_s61 noun_p63 ob .
+noun_p58 cc noun_s102 sub tverb_pres_p51 noun_s124 ob .
+noun_p58 cc noun_s102 sub tverb_pres_s51 noun_s124 ob .
+noun_s65 cc noun_s71 sub tverb_pres_p3 noun_p139 ob .
+noun_s65 cc noun_s71 sub tverb_pres_s3 noun_p139 ob .
+noun_p61 cc noun_s71 sub tverb_pres_p42 noun_s157 ob .
+noun_p61 cc noun_s71 sub tverb_pres_s42 noun_s157 ob .
+noun_p161 cc noun_s28 sub tverb_pres_p92 noun_s37 ob .
+noun_p161 cc noun_s28 sub tverb_pres_s92 noun_s37 ob .
+noun_p7 cc noun_s108 sub tverb_pres_p14 noun_p111 ob .
+noun_p7 cc noun_s108 sub tverb_pres_s14 noun_p111 ob .
+noun_p155 cc noun_s119 sub tverb_pres_p44 noun_s44 ob .
+noun_p155 cc noun_s119 sub tverb_pres_s44 noun_s44 ob .
+noun_p106 cc noun_s41 sub tverb_pres_p15 noun_p129 ob .
+noun_p106 cc noun_s41 sub tverb_pres_s15 noun_p129 ob .
+noun_p89 cc noun_s37 sub tverb_pres_p81 noun_p122 ob .
+noun_p89 cc noun_s37 sub tverb_pres_s81 noun_p122 ob .
+noun_s51 cc noun_s66 sub tverb_pres_p42 noun_s150 ob .
+noun_s51 cc noun_s66 sub tverb_pres_s42 noun_s150 ob .
+noun_p98 cc noun_s11 sub tverb_pres_p56 noun_p142 ob .
+noun_p98 cc noun_s11 sub tverb_pres_s56 noun_p142 ob .
+noun_s106 cc noun_s69 sub tverb_pres_p45 noun_p54 ob .
+noun_s106 cc noun_s69 sub tverb_pres_s45 noun_p54 ob .
+noun_s34 cc noun_s29 sub tverb_pres_p4 noun_p43 ob .
+noun_s34 cc noun_s29 sub tverb_pres_s4 noun_p43 ob .
+noun_p148 cc noun_s102 sub tverb_pres_p83 noun_p20 ob .
+noun_p148 cc noun_s102 sub tverb_pres_s83 noun_p20 ob .

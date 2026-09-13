@@ -22,7 +22,7 @@ separate grammar version so the two can be compared / the original remains
 available.
 
 Usage:
-    python src/add_zijn_transitive_variant.py
+    python src/grammar-dutch/old_dutch_lexicon/add_zijn_transitive_variant.py
 """
 import argparse
 import pathlib

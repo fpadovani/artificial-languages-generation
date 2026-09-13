@@ -34,7 +34,7 @@ zullen, kunnen, moeten, mogen, willen), which are functional, not lexical.
     lexicons stay disjoint.
 
 Stage 2 (surface forms): earlier versions of this script tried to mine the 4
-(Tense, Number) forms per lemma the same way src/build_dutch_lexicon.py
+(Tense, Number) forms per lemma the same way src/grammar-dutch/old_dutch_lexicon/build_dutch_lexicon.py
 mines noun singular/plural forms -- tagging isolated wordfreq candidates
 with spaCy. That failed badly for verbs: Dutch present-tense plural is
 spelled identically to the bare infinitive ("lopen" = "to walk" = "they
@@ -62,7 +62,7 @@ One-time setup:
        -o work/external/unimorph_nld.txt)
 
 Usage:
-    python src/build_dutch_verb_lexicon.py
+    python src/grammar-dutch/old_dutch_lexicon/build_dutch_verb_lexicon.py
 """
 import argparse
 import pathlib

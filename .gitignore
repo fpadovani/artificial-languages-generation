@@ -178,3 +178,10 @@ work/grammar/target_dutch/
 work/grammar/sample_basic-grammar*.txt
 work/grammar/dutch_corpus*
 work/grammar/dutch_*sample*.txt
+
+# Same, under the post-reorg grammar_main/ and grammar_dutch/ layout
+work/grammar/grammar_main/target_samples*/
+work/grammar/grammar_main/sample_basic-grammar*.txt
+work/grammar/grammar_dutch/target_sample*/
+work/grammar/grammar_dutch/sample_basic-grammar*.txt
+work/grammar/grammar_dutch/dutch_*sample*.txt

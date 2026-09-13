@@ -14,7 +14,7 @@ Every other IVerb lemma gets hebben.
 
 Participle forms come from UniMorph (work/external/unimorph_nld.txt,
 tag V.PTCP;PST), same source used for the Pres/Past forms in
-src/build_dutch_verb_lexicon.py. All 248 verbs already in the grammar have
+src/grammar-dutch/old_dutch_lexicon/build_dutch_verb_lexicon.py. All 248 verbs already in the grammar have
 full UniMorph participle coverage (no gaps).
 
 Structural design (why a naive `VP_Perf_S -> Aux_S Participle` doesn't work):
@@ -22,7 +22,7 @@ the auxiliary and the participle must be sampled together, not
 independently, or a PCFG could pair "is" with a hebben-verb's participle.
 So each auxiliary class gets its own dedicated participle category and its
 own VP_Perf_S alternative (same pattern as the Pronoun_Subj_S/Pronoun_Obj_S
-split in src/restructure_dutch_pronouns.py):
+split in src/grammar-dutch/old_dutch_lexicon/restructure_dutch_pronouns.py):
 
     VP_Perf_S -> Aux_Zijn_S   IVerb_Ptcp_Zijn
     VP_Perf_S -> Aux_Hebben_S IVerb_Ptcp_Hebben
@@ -35,7 +35,7 @@ to the existing 7 typological switches -- this construction is meant to be
 authentically Dutch, not typologically parametrized.
 
 Usage:
-    python src/build_dutch_perfect.py
+    python src/grammar-dutch/old_dutch_lexicon/build_dutch_perfect.py
 """
 import argparse
 import csv

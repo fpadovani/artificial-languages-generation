@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug enforce_dependencies",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/grammar-general/dependency_encoding/03_enforce_dependencies.py",
+      "args": [
+        "--in_jsonl", "work/grammar/debug_one_sentence.jsonl",
+        "--dependency_tables", "work/grammar/dependency_tables",
+        "--out_jsonl", "/tmp/debug_out.jsonl",
+        "--out_txt", "/tmp/debug_out.txt",
+        "--print_examples", "1"
+      ],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

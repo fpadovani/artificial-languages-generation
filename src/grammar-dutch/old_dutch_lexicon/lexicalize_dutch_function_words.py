@@ -24,7 +24,7 @@ Word choices:
     coordinator ("and").
 
 Usage:
-    python src/lexicalize_dutch_function_words.py
+    python src/grammar-dutch/old_dutch_lexicon/lexicalize_dutch_function_words.py
 """
 import argparse
 import pathlib

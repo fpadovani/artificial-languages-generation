@@ -24,8 +24,8 @@ rule, including the rest of the as-yet-unlexicalized categories (verbs, Prep,
 Comp, Subj, Obj, CC), is copied over unchanged.
 
 Usage:
-    python src/build_dutch_lexicon.py
-    python src/build_dutch_lexicon.py --n_candidates 30000
+    python src/grammar-dutch/old_dutch_lexicon/build_dutch_lexicon.py
+    python src/grammar-dutch/old_dutch_lexicon/build_dutch_lexicon.py --n_candidates 30000
 """
 import argparse
 import pathlib

@@ -29,11 +29,11 @@ crash the loader (if malformed) or, if simply left as `Subj -> sub`,
 silently do nothing.
 
 Other NP_Subj_S/NP_Obj alternatives (the Pronoun_Subj_S/Pronoun_Obj_S/P
-routes added by src/restructure_dutch_pronouns.py) are untouched -- pronouns
+routes added by src/grammar-dutch/old_dutch_lexicon/restructure_dutch_pronouns.py) are untouched -- pronouns
 were already zero-marking-compatible (case is lexical there, not affixal).
 
 Usage:
-    python src/remove_dutch_case_marking.py
+    python src/grammar-dutch/old_dutch_lexicon/remove_dutch_case_marking.py
 """
 import argparse
 import pathlib
